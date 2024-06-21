@@ -1,0 +1,511 @@
+{
+  "movie": {
+    "id": "da5565f797",
+    "filmTitle": "Star",
+    "language": "Tamil",
+    "sourceIds": [
+      "gv:4101",
+      "shaw:796"
+    ],
+    "metadata": {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "homepage": "",
+      "id": 1225239,
+      "imdb_id": null,
+      "origin_country": [
+        "US"
+      ],
+      "original_title": "Star",
+      "overview": "Follows a humble stick figure named Star.",
+      "popularity": 1.687,
+      "poster_path": "https://image.tmdb.org/t/p/original/sr64OWe8aLAhuyRzVO5h2n48G8W.jpg",
+      "production_companies": [
+        {
+          "id": 216931,
+          "logo_path": null,
+          "name": "Sonny Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2025-05-09",
+      "revenue": 0,
+      "runtime": 0,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Planned",
+      "tagline": "",
+      "title": "Star",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "G",
+                "descriptors": [],
+                "iso_639_1": "en",
+                "note": "Not official date",
+                "release_date": "2025-05-09T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [],
+      "external_ids": {
+        "tmdb_id": 1225239,
+        "imdb_id": null,
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1225239,
+        "api": "TMDB"
+      },
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "0/10"
+        }
+      ],
+      "language": "English"
+    },
+    "showtimes": [
+      {
+        "id": "shaw:199077",
+        "filmId": "da5565f797",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715844300000,
+        "link": "https://shaw.sg/seat-selection/199077",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 3",
+          "movieTitle": "Star (T)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 15,
+          "min": 25
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199076",
+        "filmId": "da5565f797",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715865300000,
+        "link": "https://shaw.sg/seat-selection/199076",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 3",
+          "movieTitle": "Star (T)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 15
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199075",
+        "filmId": "da5565f797",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715946300000,
+        "link": "https://shaw.sg/seat-selection/199075",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 3",
+          "movieTitle": "Star (T)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 19,
+          "min": 45
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:14/4101/17-05-2024/2045/3",
+        "cinemaId": "gv:14",
+        "filmId": "da5565f797",
+        "unixTime": 1715949900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/14/filmCode/4101/showDate/17-05-2024/showTime/2045/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "1%",
+          "hall": "3",
+          "cinemaName": "GV Bedok",
+          "movieTitle": "Star",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": false,
+            "eDealsValidity": false,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 20,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:14",
+          "name": "GV Bedok",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "14",
+            "chainSpecific": {
+              "sequence": 17,
+              "locationCode": "14",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.324068,
+              "longitude": 103.93188
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpTc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199061",
+        "filmId": "da5565f797",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715961300000,
+        "link": "https://shaw.sg/seat-selection/199061",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": true,
+          "cinemaName": "Seletar Hall 1",
+          "movieTitle": "Star (T)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 23,
+          "min": 55
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:14/4101/18-05-2024/2030/3",
+        "cinemaId": "gv:14",
+        "filmId": "da5565f797",
+        "unixTime": 1716035400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/14/filmCode/4101/showDate/18-05-2024/showTime/2030/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Bedok",
+          "movieTitle": "Star",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": false,
+            "eDealsValidity": false,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 20,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:14",
+          "name": "GV Bedok",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "14",
+            "chainSpecific": {
+              "sequence": 17,
+              "locationCode": "14",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.324068,
+              "longitude": 103.93188
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpTc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:14/4101/19-05-2024/2030/3",
+        "cinemaId": "gv:14",
+        "filmId": "da5565f797",
+        "unixTime": 1716121800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/14/filmCode/4101/showDate/19-05-2024/showTime/2030/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Bedok",
+          "movieTitle": "Star",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": false,
+            "eDealsValidity": false,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 20,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:14",
+          "name": "GV Bedok",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "14",
+            "chainSpecific": {
+              "sequence": 17,
+              "locationCode": "14",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.324068,
+              "longitude": 103.93188
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpTc2s"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

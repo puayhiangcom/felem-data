@@ -1,0 +1,344 @@
+{
+  "movie": {
+    "id": "1b033d3a3a",
+    "filmTitle": "Suspect",
+    "language": "Mandarin",
+    "sourceIds": [
+      "gv:4090"
+    ],
+    "metadata": {
+      "parental": "PG13",
+      "runtime": 94,
+      "crew": {
+        "director": [
+          "Ming-Sing Wong"
+        ],
+        "writer": [
+          "N/A"
+        ],
+        "actors": [
+          "Nick Cheung",
+          "Yishang Zhang",
+          "Patrick Tam"
+        ]
+      },
+      "plot": "A former police officer who gets dragged into a game initiated by an intelligent killer to punish criminals outside the law",
+      "awards": "N/A",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "4/10"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/Zgvt4ZQH5MUEm5zZUoeklHo8Ph.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Crime",
+        "Mystery"
+      ],
+      "homepage": "",
+      "id": 1266125,
+      "imdb_id": "tt27736289",
+      "origin_country": [
+        "CN",
+        "HK"
+      ],
+      "original_title": "超意神探",
+      "overview": "It tells the story of Guo Wenbin, a policeman in the serious crime team who suffers from hypermemory. He is using his special ability to fight the murderer, and finally uncover the tragic truth behind the case.",
+      "popularity": 7.154,
+      "poster_path": "https://image.tmdb.org/t/p/original/AkMWQY4mPAUGnFLCwj7cPB81Cs4.jpg",
+      "production_companies": [
+        {
+          "id": 122699,
+          "logo_path": null,
+          "name": "iQIYI Pictures",
+          "origin_country": "CN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        }
+      ],
+      "release_date": "2024-04-18T00:00:00.000Z",
+      "revenue": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Suspect",
+      "video": false,
+      "vote_average": 4,
+      "vote_count": 4,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "CN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-25T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MY",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-10T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "PG13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [],
+      "external_ids": {
+        "tmdb_id": 1266125,
+        "imdb_id": "tt27736289",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1266125,
+        "api": "TMDB"
+      },
+      "language": "Chinese"
+    },
+    "showtimes": [
+      {
+        "id": "gv:03/4090/18-05-2024/1205/3",
+        "cinemaId": "gv:03",
+        "filmId": "1b033d3a3a",
+        "unixTime": 1716005100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/03/filmCode/4090/showDate/18-05-2024/showTime/1205/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Tiong Bahru",
+          "movieTitle": "Suspect",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 12,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:03",
+          "name": "GV Tiong Bahru",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "03",
+            "chainSpecific": {
+              "sequence": 19,
+              "locationCode": "03",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.28602,
+              "longitude": 103.827096
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2FjZDg5ZmEtZDkyNS00Zjg4LWE5YTQtYzIzMTUxNzhjYTg0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:03/4090/19-05-2024/1205/3",
+        "cinemaId": "gv:03",
+        "filmId": "1b033d3a3a",
+        "unixTime": 1716091500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/03/filmCode/4090/showDate/19-05-2024/showTime/1205/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Tiong Bahru",
+          "movieTitle": "Suspect",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 12,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:03",
+          "name": "GV Tiong Bahru",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "03",
+            "chainSpecific": {
+              "sequence": 19,
+              "locationCode": "03",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.28602,
+              "longitude": 103.827096
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2FjZDg5ZmEtZDkyNS00Zjg4LWE5YTQtYzIzMTUxNzhjYTg0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:03/4090/20-05-2024/1530/3",
+        "cinemaId": "gv:03",
+        "filmId": "1b033d3a3a",
+        "unixTime": 1716190200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/03/filmCode/4090/showDate/20-05-2024/showTime/1530/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Tiong Bahru",
+          "movieTitle": "Suspect",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 15,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:03",
+          "name": "GV Tiong Bahru",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "03",
+            "chainSpecific": {
+              "sequence": 19,
+              "locationCode": "03",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.28602,
+              "longitude": 103.827096
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2FjZDg5ZmEtZDkyNS00Zjg4LWE5YTQtYzIzMTUxNzhjYTg0"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

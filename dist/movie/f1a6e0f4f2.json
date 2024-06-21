@@ -1,0 +1,375 @@
+{
+  "movie": {
+    "id": "f1a6e0f4f2",
+    "filmTitle": "Tomorrow is a Long Time",
+    "language": "Chinese",
+    "sourceIds": [
+      "projector:ST00004308"
+    ],
+    "metadata": {
+      "parental": "PG13",
+      "runtime": 106,
+      "crew": {
+        "director": [
+          "Zhi Wei Jow"
+        ],
+        "writer": [
+          "Zhi Wei Jow"
+        ],
+        "actors": [
+          "Leon Dai",
+          "Edward Tan",
+          "Jay Victor"
+        ]
+      },
+      "plot": "A middle-aged widower whose relationship with his sensitive teenage son in the densely packed spaces of contemporary Singapore slowly becomes unbearable.",
+      "awards": "7 nominations",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "0/10"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/n3OLggf4zuvHtY4JQof3O91omSa.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Drama"
+      ],
+      "homepage": "https://www.plutofilm.de/films/tomorrow-is-a-long-time/0078",
+      "id": 1006664,
+      "imdb_id": "tt11930188",
+      "origin_country": [
+        "FR",
+        "PT",
+        "SG",
+        "TW"
+      ],
+      "original_title": "明天比昨天長久",
+      "overview": "Life is not the most fulfilling for sixteen-year-old Meng: Lounging at home with his grieving father on a daily basis, being excluded from his family’s past, and forced into bullying other kids at school. Everything changes when he is thrown into a life-altering adventure that propels him into an exciting unfamiliar landscape.",
+      "popularity": 1.044,
+      "poster_path": "https://image.tmdb.org/t/p/original/eoMS2Im7P6xQVzr4zhEOJub2kET.jpg",
+      "production_companies": [
+        {
+          "id": 76586,
+          "logo_path": "/8IToSMttTBtO40fWsxSd1HES4cS.png",
+          "name": "Akanga Film Asia",
+          "origin_country": "SG"
+        },
+        {
+          "id": 171358,
+          "logo_path": "/yhOVz3QQNPbWXD1M0EeRX1BnmN9.png",
+          "name": "Volos Films",
+          "origin_country": "TW"
+        },
+        {
+          "id": 99502,
+          "logo_path": "/nP45gRAxUu2rlMCf6sODAZF73hD.png",
+          "name": "PŌTOCOL",
+          "origin_country": "SG"
+        },
+        {
+          "id": 125306,
+          "logo_path": "/5APg5O1oWCAn2CALjmdSvKNkCnh.png",
+          "name": "La Fabrica Nocturna Cinéma",
+          "origin_country": "FR"
+        },
+        {
+          "id": 117982,
+          "logo_path": "/oLPjtmqrNbIaVIg4LWKqZlnHiKa.png",
+          "name": "Oublaum Filmes",
+          "origin_country": "PT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "PT",
+          "name": "Portugal"
+        },
+        {
+          "iso_3166_1": "SG",
+          "name": "Singapore"
+        },
+        {
+          "iso_3166_1": "TW",
+          "name": "Taiwan"
+        }
+      ],
+      "release_date": "2024-05-16T00:00:00.000Z",
+      "revenue": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Tomorrow is a Long Time",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Taiwan Film Festival in Australia",
+                "release_date": "2023-07-22T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Berlinale",
+                "release_date": "2023-02-18T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Hong Kong International Film Festival",
+                "release_date": "2023-04-06T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "PG13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-16T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-01-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "'Tomorrow is a Long Time' 明天比昨天長久 by Jow Zhi Wei - Trailer - Berlinale Generation 14plus 2023",
+          "key": "6ebEtdhzhfY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "published_at": "2023-02-10T04:33:28.000Z",
+          "id": "649ae1dd7e348301396c2544"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 1006664,
+        "imdb_id": "tt11930188",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1006664,
+        "api": "TMDB"
+      },
+      "language": "Chinese"
+    },
+    "showtimes": [
+      {
+        "id": "projector:25541",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "f1a6e0f4f2",
+        "unixTime": 1716715800000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25541?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "FRI after 6pm/SAT/SUN",
+          "type": "FRI after 6pm/SAT/SUN"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "Tomorrow is a Long Time",
+          "ScreenId": 8,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-05-26T17:30:00",
+          "FeatureStartTime": "2024-05-26T17:40:00",
+          "FeatureEndTime": "2024-05-26T19:26:00",
+          "CleanupEndTime": "2024-05-26T19:36:00",
+          "SeatsAvailable": 107,
+          "SeatsHeld": 0,
+          "SeatsHouse": 0,
+          "SeatsSold": 0,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 8,
+          "accessibility": [
+            "wheelchair"
+          ],
+          "venueTitle": "Golden Mile: Blue Room",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004308",
+          "filmURL": "https://theprojector.sg/films-and-events/tomorrow-is-a-long-time/",
+          "filmfilmTitle": "Tomorrow is a Long Time",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 26,
+          "hour": 17,
+          "min": 30
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

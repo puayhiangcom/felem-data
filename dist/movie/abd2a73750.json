@@ -1,0 +1,583 @@
+{
+  "movie": {
+    "id": "abd2a73750",
+    "filmTitle": "TRANSFORMERS: 40th ANNIVERSARY EVENT",
+    "language": "English",
+    "sourceIds": [
+      "shaw:770"
+    ],
+    "metadata": {
+      "adult": false,
+      "backdrop_path": "/se973n3QP8PLc5aAfotoRc7nCG8.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+      ],
+      "homepage": "https://www.transformers40thcinemaevent.com",
+      "id": 1269459,
+      "imdb_id": null,
+      "origin_country": [
+        "US"
+      ],
+      "original_title": "Transformers: 40th Anniversary Event",
+      "overview": "This special cinema experience takes audiences back to the very beginning as the original voice actors team up for the first time in decades to revisit their characters and recreate the enduring magic of The Transformers. An exclusive behind-the-scenes table read appears on a split screen with the pilot episode, More Than Meets the Eye, Part 1, followed by the next three episodes in the first series. Experience the original Saturday morning cartoon for the first time on the big screen and relive its evolution over the years with a sneak peek of the new season of Transformers EarthSpark.",
+      "popularity": 9.425,
+      "poster_path": "https://image.tmdb.org/t/p/original/tuBoAsRBvHyFUPWdkoLS64DIXop.jpg",
+      "production_companies": [
+        {
+          "id": 2598,
+          "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+          "name": "Hasbro",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2024-04-10",
+      "revenue": 54321,
+      "runtime": 96,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "RELIVE THE MAGIC OF THE 1984 ANIMATED SERIES ON THE BIG SCREEN",
+      "title": "Transformers: 40th Anniversary Event",
+      "video": true,
+      "vote_average": 6.2,
+      "vote_count": 2,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "G",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-10T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-18T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "U",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "G",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "6+",
+                "descriptors": [],
+                "iso_639_1": "it",
+                "note": "",
+                "release_date": "2024-05-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "NR",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-15T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Cinema Trailer",
+          "key": "unocKJUwhjA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-04-10T12:28:16.000Z",
+          "id": "661f10670816c70130ed7233"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 1269459,
+        "imdb_id": null,
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1269459,
+        "api": "TMDB"
+      },
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "language": "English"
+    },
+    "showtimes": [
+      {
+        "id": "shaw:184674",
+        "filmId": "abd2a73750",
+        "cinemaId": "shaw:1",
+        "unixTime": 1716012000000,
+        "link": "https://shaw.sg/seat-selection/184674",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Selling Fast",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 3",
+          "movieTitle": "TRANSFORMERS: 40th ANNIVERSARY EVENT",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 14,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:184677",
+        "filmId": "abd2a73750",
+        "cinemaId": "shaw:3",
+        "unixTime": 1716013200000,
+        "link": "https://shaw.sg/seat-selection/184677",
+        "ticketType": {
+          "label": "Dreamers Balestier",
+          "type": "DREMB"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Balestier Dreamers",
+          "movieTitle": "TRANSFORMERS: 40th ANNIVERSARY EVENT",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 14,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:184680",
+        "filmId": "abd2a73750",
+        "cinemaId": "shaw:8",
+        "unixTime": 1716013800000,
+        "link": "https://shaw.sg/seat-selection/184680",
+        "ticketType": {
+          "label": "Dreamers",
+          "type": "DREM"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Dreamers",
+          "movieTitle": "TRANSFORMERS: 40th ANNIVERSARY EVENT",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 14,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:187258",
+        "filmId": "abd2a73750",
+        "cinemaId": "shaw:1",
+        "unixTime": 1716020100000,
+        "link": "https://shaw.sg/seat-selection/187258",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 3",
+          "movieTitle": "TRANSFORMERS: 40th ANNIVERSARY EVENT",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 16,
+          "min": 15
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:184675",
+        "filmId": "abd2a73750",
+        "cinemaId": "shaw:1",
+        "unixTime": 1716098400000,
+        "link": "https://shaw.sg/seat-selection/184675",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Selling Fast",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 3",
+          "movieTitle": "TRANSFORMERS: 40th ANNIVERSARY EVENT",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 14,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:184678",
+        "filmId": "abd2a73750",
+        "cinemaId": "shaw:3",
+        "unixTime": 1716099600000,
+        "link": "https://shaw.sg/seat-selection/184678",
+        "ticketType": {
+          "label": "Dreamers Balestier",
+          "type": "DREMB"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Selling Fast",
+          "isMidnight": false,
+          "cinemaName": "Balestier Dreamers",
+          "movieTitle": "TRANSFORMERS: 40th ANNIVERSARY EVENT",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 14,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:184681",
+        "filmId": "abd2a73750",
+        "cinemaId": "shaw:8",
+        "unixTime": 1716100200000,
+        "link": "https://shaw.sg/seat-selection/184681",
+        "ticketType": {
+          "label": "Dreamers",
+          "type": "DREM"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English"
+          ],
+          "seatingStatus": "Selling Fast",
+          "isMidnight": false,
+          "cinemaName": "Jewel Dreamers",
+          "movieTitle": "TRANSFORMERS: 40th ANNIVERSARY EVENT",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "SNF",
+            "restrictions": "Strictly No Free Tickets"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 14,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

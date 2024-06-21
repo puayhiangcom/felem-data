@@ -1,0 +1,3733 @@
+{
+  "movie": {
+    "id": "e9a4d04ff2",
+    "filmTitle": "Nothing Can't Be Undone By A Hotpot",
+    "language": "Mandarin",
+    "sourceIds": [
+      "gv:4099"
+    ],
+    "metadata": {
+      "parental": "PG13",
+      "runtime": 128,
+      "crew": {
+        "director": [
+          "Sheng Ding"
+        ],
+        "writer": [
+          "Sheng Ding",
+          "Wang Hang",
+          "Xiu XiaoNan"
+        ],
+        "actors": [
+          "Mi Yang",
+          "Yu Tian",
+          "Ailei Yu"
+        ]
+      },
+      "plot": "N/A",
+      "awards": "1 nomination",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "6/10"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/cO9gHeRR7sfCPJ9WcizBp9sSU9D.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Crime"
+      ],
+      "homepage": "",
+      "id": 1210377,
+      "imdb_id": "tt26689942",
+      "origin_country": [
+        "CN"
+      ],
+      "original_title": "没有一顿火锅解决不了的事",
+      "overview": "Man is doing, and heaven is watching. After all, man's calculations are not as good as heaven's calculations. Four strangers were sharing the spoils in the backstage warehouse of the theater, unexpectedly getting involved in a murder case. A hot pot was boiling with endless suspense, and greed and deception triggered a series of reversals. Finally, the special identities of the four gradually surfaced, and the mysterious truth was about to be revealed",
+      "popularity": 4.436,
+      "poster_path": "https://image.tmdb.org/t/p/original/t23kWsejljyDq2hDXxhUMjMxR2c.jpg",
+      "production_companies": [
+        {
+          "id": 227828,
+          "logo_path": null,
+          "name": "大江美之（东阳）影业有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227829,
+          "logo_path": null,
+          "name": "东方美之（北京）影业有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227830,
+          "logo_path": null,
+          "name": "宁波功到影业有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 220722,
+          "logo_path": null,
+          "name": "北京唐德国际电影文化有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227831,
+          "logo_path": null,
+          "name": "中竞电竞娱乐有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227832,
+          "logo_path": null,
+          "name": "上海七猫文化传媒有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 197030,
+          "logo_path": "/z9xtT1e3HunOnZUm3uGYb59eL7v.png",
+          "name": "Tao Piao Piao",
+          "origin_country": "CN"
+        },
+        {
+          "id": 192380,
+          "logo_path": "/uL8Be74hBIHjtzIYsuQORPMq24S.png",
+          "name": "Baination",
+          "origin_country": "CN"
+        },
+        {
+          "id": 162428,
+          "logo_path": null,
+          "name": "北京时代光影文化传媒股份有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227833,
+          "logo_path": null,
+          "name": "北京风山影业有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227834,
+          "logo_path": null,
+          "name": "无锡佳百年影业有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227835,
+          "logo_path": null,
+          "name": "江苏几简文化传媒有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227836,
+          "logo_path": null,
+          "name": "无双（深圳）影业有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227837,
+          "logo_path": null,
+          "name": "青竹子成都文化传播有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 227838,
+          "logo_path": null,
+          "name": "北京恒通海达影业有限公司",
+          "origin_country": ""
+        },
+        {
+          "id": 199649,
+          "logo_path": null,
+          "name": "Weibo Corporation",
+          "origin_country": "CN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        }
+      ],
+      "release_date": "2024-05-16T00:00:00.000Z",
+      "revenue": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Nothing Can't Be Undone by a HotPot",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 6,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-09T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-10T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Hainan Island International Film Festival",
+                "release_date": "2023-12-22T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "13-14号20城点映",
+                "release_date": "2024-04-13T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "20号50城点映",
+                "release_date": "2024-04-20T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "全国点映14:00-16:00",
+                "release_date": "2024-04-27T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "全国点映18:00-22:00",
+                "release_date": "2024-04-30T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-01T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "优酷YOUKU",
+                "release_date": "2024-05-11T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MY",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-16T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NZ",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-09T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "PG13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-16T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-10T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [],
+      "external_ids": {
+        "tmdb_id": 1210377,
+        "imdb_id": "tt26689942",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1210377,
+        "api": "TMDB"
+      },
+      "language": "Chinese"
+    },
+    "showtimes": [
+      {
+        "id": "gv:01/4099/17-05-2024/5/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": null,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/17-05-2024/showTime/5/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 1970,
+          "month": 1,
+          "date": 1,
+          "hour": 8,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:01/4099/21-05-2024/10/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": null,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/21-05-2024/showTime/10/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 1970,
+          "month": 1,
+          "date": 1,
+          "hour": 8,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4099/17-05-2024/2000/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1715947200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/17-05-2024/showTime/2000/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 20,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/17-05-2024/2115/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1715951700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/17-05-2024/showTime/2115/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:17/4099/18-05-2024/1300/6",
+        "cinemaId": "gv:17",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716008400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4099/showDate/18-05-2024/showTime/1300/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 13,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:09/4099/18-05-2024/1340/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716010800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/18-05-2024/showTime/1340/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 13,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4099/18-05-2024/1450/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716015000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/18-05-2024/showTime/1450/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 14,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/4099/18-05-2024/1510/8",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716016200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/18-05-2024/showTime/1510/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 15,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/18-05-2024/1815/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716027300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/18-05-2024/showTime/1815/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 18,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/18-05-2024/1840/7",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716028800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/18-05-2024/showTime/1840/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 18,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:17/4099/18-05-2024/1845/4",
+        "cinemaId": "gv:17",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716029100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4099/showDate/18-05-2024/showTime/1845/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 18,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:09/4099/18-05-2024/1905/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716030300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/18-05-2024/showTime/1905/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 19,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4099/18-05-2024/2000/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716033600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/18-05-2024/showTime/2000/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 20,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/18-05-2024/2105/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716037500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/18-05-2024/showTime/2105/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 21,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:01/4099/18-05-2024/2355/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716047700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/18-05-2024/showTime/2355/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 23,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/19-05-2024/1255/7",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716094500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/19-05-2024/showTime/1255/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 12,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:09/4099/19-05-2024/1315/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716095700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/19-05-2024/showTime/1315/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 13,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4099/19-05-2024/1345/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716097500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/19-05-2024/showTime/1345/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 13,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/19-05-2024/1525/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716103500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/19-05-2024/showTime/1525/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 15,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/19-05-2024/1530/8",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716103800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/19-05-2024/showTime/1530/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 15,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:17/4099/19-05-2024/1540/4",
+        "cinemaId": "gv:17",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716104400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4099/showDate/19-05-2024/showTime/1540/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 15,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:17/4099/19-05-2024/1830/4",
+        "cinemaId": "gv:17",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716114600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4099/showDate/19-05-2024/showTime/1830/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 18,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:09/4099/19-05-2024/1835/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716114900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/19-05-2024/showTime/1835/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 18,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/19-05-2024/1840/7",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716115200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/19-05-2024/showTime/1840/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 18,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/4099/19-05-2024/1850/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716115800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/19-05-2024/showTime/1850/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 18,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/19-05-2024/2105/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716123900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/19-05-2024/showTime/2105/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 21,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/20-05-2024/1240/7",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716180000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/20-05-2024/showTime/1240/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 12,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:17/4099/20-05-2024/1310/4",
+        "cinemaId": "gv:17",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716181800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4099/showDate/20-05-2024/showTime/1310/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 13,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:09/4099/20-05-2024/1315/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716182100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/20-05-2024/showTime/1315/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 13,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4099/20-05-2024/1345/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716183900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/20-05-2024/showTime/1345/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 13,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/4099/20-05-2024/1420/8",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716186000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/20-05-2024/showTime/1420/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 14,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/20-05-2024/1540/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716190800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/20-05-2024/showTime/1540/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 15,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/20-05-2024/1810/7",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716199800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/20-05-2024/showTime/1810/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:17/4099/20-05-2024/1830/4",
+        "cinemaId": "gv:17",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716201000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4099/showDate/20-05-2024/showTime/1830/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:09/4099/20-05-2024/1835/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716201300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/20-05-2024/showTime/1835/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4099/20-05-2024/1850/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716202200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/20-05-2024/showTime/1850/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/20-05-2024/2120/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716211200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/20-05-2024/showTime/2120/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/21-05-2024/1240/7",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716266400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/21-05-2024/showTime/1240/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 12,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:17/4099/21-05-2024/1300/6",
+        "cinemaId": "gv:17",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716267600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4099/showDate/21-05-2024/showTime/1300/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 13,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:09/4099/21-05-2024/1320/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716268800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/21-05-2024/showTime/1320/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 13,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/21-05-2024/1410/8",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716271800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/21-05-2024/showTime/1410/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 14,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/4099/21-05-2024/1450/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716274200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/21-05-2024/showTime/1450/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 14,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/21-05-2024/1540/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716277200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/21-05-2024/showTime/1540/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 15,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:09/4099/21-05-2024/1835/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716287700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/21-05-2024/showTime/1835/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 18,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/21-05-2024/1845/7",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716288300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/21-05-2024/showTime/1845/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 18,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/4099/21-05-2024/2000/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716292800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/21-05-2024/showTime/2000/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 20,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/21-05-2024/2120/4",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716297600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/21-05-2024/showTime/2120/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:17/4099/21-05-2024/2225/4",
+        "cinemaId": "gv:17",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716301500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4099/showDate/21-05-2024/showTime/2225/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 22,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/22-05-2024/1245/12",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716353100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/22-05-2024/showTime/1245/hallNumber/12",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "12",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 12,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:09/4099/22-05-2024/1320/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716355200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/22-05-2024/showTime/1320/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 13,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4099/22-05-2024/1345/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716356700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/22-05-2024/showTime/1345/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 13,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/22-05-2024/1555/2",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716364500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/22-05-2024/showTime/1555/hallNumber/2",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "2",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 15,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:09/4099/22-05-2024/1835/8",
+        "cinemaId": "gv:09",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716374100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/09/filmCode/4099/showDate/22-05-2024/showTime/1835/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Tampines",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 18,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:09",
+          "name": "GV Tampines",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "09",
+            "chainSpecific": {
+              "sequence": 23,
+              "locationCode": "09",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.355231,
+              "longitude": 103.942946
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCZXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4099/22-05-2024/1845/12",
+        "cinemaId": "gv:05",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716374700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4099/showDate/22-05-2024/showTime/1845/hallNumber/12",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "12",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 18,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/4099/22-05-2024/1850/4",
+        "cinemaId": "gv:08",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716375000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4099/showDate/22-05-2024/showTime/1850/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 18,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/4099/22-05-2024/2120/2",
+        "cinemaId": "gv:01",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716384000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4099/showDate/22-05-2024/showTime/2120/hallNumber/2",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "2",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:17/4099/22-05-2024/2130/5",
+        "cinemaId": "gv:17",
+        "filmId": "e9a4d04ff2",
+        "unixTime": 1716384600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4099/showDate/22-05-2024/showTime/2130/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Nothing Can't Be Undone By A Hotpot",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 21,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

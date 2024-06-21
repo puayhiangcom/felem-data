@@ -1,0 +1,852 @@
+{
+  "movie": {
+    "id": "7159329349",
+    "filmTitle": "Jeanne du Barry",
+    "language": "French",
+    "sourceIds": [
+      "projector:ST00004328"
+    ],
+    "metadata": {
+      "parental": "NC16",
+      "runtime": 117,
+      "crew": {
+        "director": [
+          "Maïwenn"
+        ],
+        "writer": [
+          "Maïwenn",
+          "Teddy Lussi-Modeste",
+          "Nicolas Livecchi"
+        ],
+        "actors": [
+          "Stanislas Stanic",
+          "Maïwenn",
+          "Johnny Depp"
+        ]
+      },
+      "plot": "The life of Jeanne Bécu, who was born as the illegitimate daughter of an impoverished seamstress in 1743 and went on to rise through the Court of Louis XV to become his last official mistress.",
+      "awards": "3 nominations",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "7.006/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "46%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/yvotjJ9nKlPKiwc8PtktIjRCkof.jpg",
+      "belongs_to_collection": null,
+      "budget": 22400000,
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "homepage": "https://www.palacefilms.com.au/jeanne-du-barry",
+      "id": 921452,
+      "imdb_id": "tt17277414",
+      "origin_country": [
+        "FR"
+      ],
+      "original_title": "Jeanne du Barry",
+      "overview": "The life of Jeanne Bécu, who was born as the illegitimate daughter of an impoverished seamstress in 1743 and went on to rise through the Court of Louis XV to become his last official mistress.",
+      "popularity": 19.294,
+      "poster_path": "https://image.tmdb.org/t/p/original/m3yDDVS9KYJqBYsJEOkLGVLNQje.jpg",
+      "production_companies": [
+        {
+          "id": 729,
+          "logo_path": "/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png",
+          "name": "Why Not Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 1992,
+          "logo_path": "/tGYQyvkKTqAEXidVisQ5FDipKAP.png",
+          "name": "La Petite Reine",
+          "origin_country": "FR"
+        },
+        {
+          "id": 83,
+          "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+          "name": "France 2 Cinéma",
+          "origin_country": "FR"
+        },
+        {
+          "id": 71885,
+          "logo_path": null,
+          "name": "Les Films de Batna",
+          "origin_country": "FR"
+        },
+        {
+          "id": 591,
+          "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+          "name": "France 3 Cinéma",
+          "origin_country": "FR"
+        },
+        {
+          "id": 1926,
+          "logo_path": "/sORCydQs61kwWqRIIzPiBpgVVag.png",
+          "name": "Les Films du Fleuve",
+          "origin_country": "BE"
+        },
+        {
+          "id": 206196,
+          "logo_path": null,
+          "name": "Impala Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 206197,
+          "logo_path": "/80yb8dKVx9sCS1n682COjvnJLmZ.png",
+          "name": "IN.2 FILM",
+          "origin_country": "US"
+        },
+        {
+          "id": 222774,
+          "logo_path": null,
+          "name": "World Vision Films",
+          "origin_country": ""
+        },
+        {
+          "id": 185975,
+          "logo_path": null,
+          "name": "Red Sea Film Festival Foundation",
+          "origin_country": "SA"
+        },
+        {
+          "id": 135038,
+          "logo_path": "/3ZunTFiMFOtkjDzajKkKRgHIuCj.png",
+          "name": "Okko Studios",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        },
+        {
+          "iso_3166_1": "SA",
+          "name": "Saudi Arabia"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2024-05-23T00:00:00.000Z",
+      "revenue": 13000000,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Jeanne du Barry",
+      "video": false,
+      "vote_average": 7.006,
+      "vote_count": 408,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "M",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "French Film Festival",
+                "release_date": "2024-03-05T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "M",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CZ",
+            "release_dates": [
+              {
+                "certification": "15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-10-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [
+                  "Discrimination",
+                  "Sexuality",
+                  "Threat"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-08-24T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ES",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-09-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Cannes Film Festival",
+                "release_date": "2023-05-16T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-05-16T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "DVD, Blu-Ray & 4K UHD",
+                "release_date": "2023-09-20T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-07-20T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Hong Kong French Film Festival ",
+                "release_date": "2023-11-25T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "15A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IL",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-09-28T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-10-06T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "T",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-08-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KR",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-03T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "LT",
+            "release_dates": [
+              {
+                "certification": "N-13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-09-01T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-09-14T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NO",
+            "release_dates": [
+              {
+                "certification": "9",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-11-03T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PL",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-08-25T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "RO",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-11-10T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "NC16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-23T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-10-20T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-02T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official US Trailer [Subtitled]",
+          "key": "wGDk1Pekn-A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-04-02T17:01:43.000Z",
+          "id": "662f6f37e33f830125220bcf"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer [Subtitled]",
+          "key": "EEvZS2cXy7o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2023-08-25T03:07:26.000Z",
+          "id": "64ebe5dfd48cee00e371ca47"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Entourage",
+          "key": "dm_Lx_1J0nM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "published_at": "2024-05-08T22:58:33.000Z",
+          "id": "664bc9b7658beb2b069635be"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Who is That?",
+          "key": "gUn6FewMiGg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "published_at": "2024-05-08T22:57:58.000Z",
+          "id": "664bc9a89cae26b47ef70d7f"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Versailles Procedure",
+          "key": "yeBT64bqaKI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "published_at": "2024-05-07T18:31:41.000Z",
+          "id": "663b66fddd99818e4e8ecf46"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 921452,
+        "imdb_id": "tt17277414",
+        "wikidata_id": "Q111209845",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 921452,
+        "api": "TMDB"
+      },
+      "language": "French"
+    },
+    "showtimes": [
+      {
+        "id": "projector:25481",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "7159329349",
+        "unixTime": 1716627600000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25481?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "FRI after 6pm/SAT/SUN",
+          "type": "FRI after 6pm/SAT/SUN"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "Jeanne du Barry",
+          "ScreenId": 2,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-05-25T17:00:00",
+          "FeatureStartTime": "2024-05-25T17:10:00",
+          "FeatureEndTime": "2024-05-25T19:07:00",
+          "CleanupEndTime": "2024-05-25T19:17:00",
+          "SeatsAvailable": 204,
+          "SeatsHeld": 0,
+          "SeatsHouse": 0,
+          "SeatsSold": 4,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 2,
+          "accessibility": null,
+          "venueTitle": "Golden Mile: Redrum",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004328",
+          "filmURL": "https://theprojector.sg/films-and-events/jeanne-du-barry/",
+          "filmfilmTitle": "Jeanne du Barry",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 25,
+          "hour": 17,
+          "min": 0
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      },
+      {
+        "id": "projector:25549",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "7159329349",
+        "unixTime": 1716975000000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25549?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "Mon-Fri Before 6pm",
+          "type": "Mon-Fri Before 6pm"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "Jeanne du Barry",
+          "ScreenId": 8,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-05-29T17:30:00",
+          "FeatureStartTime": "2024-05-29T17:40:00",
+          "FeatureEndTime": "2024-05-29T19:37:00",
+          "CleanupEndTime": "2024-05-29T19:47:00",
+          "SeatsAvailable": 107,
+          "SeatsHeld": 0,
+          "SeatsHouse": 0,
+          "SeatsSold": 0,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 8,
+          "accessibility": [
+            "wheelchair"
+          ],
+          "venueTitle": "Golden Mile: Blue Room",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004328",
+          "filmURL": "https://theprojector.sg/films-and-events/jeanne-du-barry/",
+          "filmfilmTitle": "Jeanne du Barry",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 29,
+          "hour": 17,
+          "min": 30
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

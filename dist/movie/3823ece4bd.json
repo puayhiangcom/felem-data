@@ -1,0 +1,3666 @@
+{
+  "movie": {
+    "id": "3823ece4bd",
+    "filmTitle": "Civil War",
+    "language": "English",
+    "sourceIds": [
+      "gv:1157",
+      "projector:ST00004272",
+      "shaw:698"
+    ],
+    "metadata": {
+      "parental": "NC16",
+      "runtime": 109,
+      "crew": {
+        "director": [
+          "Alex Garland"
+        ],
+        "writer": [
+          "Alex Garland"
+        ],
+        "actors": [
+          "Kirsten Dunst",
+          "Wagner Moura",
+          "Cailee Spaeny"
+        ]
+      },
+      "plot": "A journey across a dystopian future America, following a team of military-embedded journalists as they race against time to reach DC before rebel factions descend upon the White House.",
+      "awards": "1 nomination",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "7.019/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
+      "belongs_to_collection": null,
+      "budget": 50000000,
+      "genres": [
+        "War",
+        "Action",
+        "Drama"
+      ],
+      "homepage": "https://a24films.com/films/civil-war",
+      "id": 929590,
+      "imdb_id": "tt17279496",
+      "origin_country": [
+        "GB",
+        "US"
+      ],
+      "original_title": "Civil War",
+      "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+      "popularity": 1491.406,
+      "poster_path": "https://image.tmdb.org/t/p/original/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "production_companies": [
+        {
+          "id": 284,
+          "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
+          "name": "DNA Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 142269,
+          "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+          "name": "IPR.VC",
+          "origin_country": "FI"
+        },
+        {
+          "id": 41077,
+          "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+          "name": "A24",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FI",
+          "name": "Finland"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2024-04-10T00:00:00.000Z",
+      "revenue": 114097977,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Welcome to the frontline.",
+      "title": "Civil War",
+      "video": false,
+      "vote_average": 7.019,
+      "vote_count": 1634,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AD",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AR",
+            "release_dates": [
+              {
+                "certification": "+16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-23T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "MA 15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BR",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [
+                  "Criminal Acts",
+                  "Sexual Content",
+                  "Inappropriate Language",
+                  "Nudity",
+                  "Sensitive Themes",
+                  "Violence"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CA",
+            "release_dates": [
+              {
+                "certification": "14A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-23T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-07T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CO",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CZ",
+            "release_dates": [
+              {
+                "certification": "15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DK",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EC",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ES",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FI",
+            "release_dates": [
+              {
+                "certification": "K-16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-26T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-24T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "IIB",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HU",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "15A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-26T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IL",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-23T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "6+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "JP",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-10-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "LT",
+            "release_dates": [
+              {
+                "certification": "N-16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MP",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-24T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MX",
+            "release_dates": [
+              {
+                "certification": "C",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NL",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [
+                  "Violence",
+                  "Coarse Language"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NO",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PH",
+            "release_dates": [
+              {
+                "certification": "R-16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-10T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PR",
+            "release_dates": [
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-24T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PT",
+            "release_dates": [
+              {
+                "certification": "M/14",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "RO",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "RU",
+            "release_dates": [
+              {
+                "certification": "16+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SE",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "NC16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-10T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SK",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TH",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TR",
+            "release_dates": [
+              {
+                "certification": "16+",
+                "descriptors": [
+                  "Negative examples",
+                  "Violence / Horror"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "6+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-01T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "UA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "South by Southwest Film & TV Festival",
+                "release_date": "2024-03-14T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Los Angeles, California",
+                "release_date": "2024-04-02T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-24T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-07-09T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VI",
+            "release_dates": [
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-24T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Final Trailer",
+          "key": "c2G18nIVpNE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-04-10T13:00:34.000Z",
+          "id": "66168f98fac50201480afb8f"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2",
+          "key": "cA4wVhs3HC0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-02-20T14:00:33.000Z",
+          "id": "65d4b28c23d2780163f3f367"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "aDyQxtg0V2w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2023-12-13T14:00:01.000Z",
+          "id": "6579b972ec8a4300fd7eb394"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "So Other People Ask - Official Clip",
+          "key": "Xl2KQIpvd6Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "published_at": "2024-05-31T20:00:12.000Z",
+          "id": "665c9f7ce73cdcf11dab14a0"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Preview",
+          "key": "O9KpUS0kNXA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "published_at": "2024-05-24T12:00:31.000Z",
+          "id": "6650caa65eae79f4fa85d537"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 929590,
+        "imdb_id": "tt17279496",
+        "wikidata_id": "Q111538862",
+        "facebook_id": "civilwarmovie",
+        "instagram_id": "civilwarmovie",
+        "twitter_id": "CivilWarMovie"
+      },
+      "source": {
+        "id": 929590,
+        "api": "TMDB"
+      },
+      "language": "English"
+    },
+    "showtimes": [
+      {
+        "id": "shaw:199492",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:3",
+        "unixTime": 1715827500000,
+        "link": "https://shaw.sg/seat-selection/199492",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Balestier Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 10,
+          "min": 45
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198960",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715829600000,
+        "link": "https://shaw.sg/seat-selection/198960",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 11,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199259",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:9",
+        "unixTime": 1715829600000,
+        "link": "https://shaw.sg/seat-selection/199259",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "PLQ Hall 2",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 11,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:9",
+          "name": "Shaw Theatres Paya Lebar Quarter",
+          "source": {
+            "chain": "shaw",
+            "id": 9,
+            "chainSpecific": {
+              "address": "10 Paya Lebar Road, Paya Lebar Quarter, PLQ Mall, #05-02, Singapore 409057",
+              "code": "1100"
+            }
+          },
+          "metadata": {
+            "address": "10 Paya Lebar Road",
+            "full_address": "10 Paya Lebar Road, Geylang, Singapore 409057",
+            "location": {
+              "latitude": 1.317587,
+              "longitude": 103.892849
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjoyNDYwY2VkNy04NzE4LTQ0NDgtYjVlZi0wOWEyZTAxNDQ2NDc"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199394",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:5",
+        "unixTime": 1715838000000,
+        "link": "https://shaw.sg/seat-selection/199394",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "nex Hall 7",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 13,
+          "min": 40
+        },
+        "cinema": {
+          "id": "shaw:5",
+          "name": "Shaw Theatres nex",
+          "source": {
+            "chain": "shaw",
+            "id": 5,
+            "chainSpecific": {
+              "address": "23, Serangoon Central, nex, #04-64, Singapore 556083",
+              "code": "0700"
+            }
+          },
+          "metadata": {
+            "address": "23 Serangoon Central",
+            "full_address": "23 Serangoon Central, Serangoon, Singapore 556138",
+            "location": {
+              "latitude": 1.350505,
+              "longitude": 103.872625
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjowZDI2NGI2OS0yNjA5LTRmNTQtYjY4MS0yYTcyNWIwMTU4ZmY"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199530",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:4",
+        "unixTime": 1715838000000,
+        "link": "https://shaw.sg/seat-selection/199530",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lot One Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 13,
+          "min": 40
+        },
+        "cinema": {
+          "id": "shaw:4",
+          "name": "Shaw Theatres Lot One",
+          "source": {
+            "chain": "shaw",
+            "id": 4,
+            "chainSpecific": {
+              "address": "21,  Choa Chu Kang Ave 4,  5th/6th Floor,  Lot 1 Shoppers' Mall,  Singapore 689812",
+              "code": "0400"
+            }
+          },
+          "metadata": {
+            "address": "21 Choa Chu Kang Avenue 4",
+            "full_address": "21 Choa Chu Kang Avenue 4, Choa Chu Kang, Singapore 689812",
+            "location": {
+              "latitude": 1.385197,
+              "longitude": 103.744971
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo2NTAxNTBlOS0zZTc1LTRkMDktYWQ2MS0zYzIwZmJhNTJjMzQ"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198953",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715838600000,
+        "link": "https://shaw.sg/seat-selection/198953",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 13,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199241",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:9",
+        "unixTime": 1715838600000,
+        "link": "https://shaw.sg/seat-selection/199241",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "PLQ Hall 2",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 13,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:9",
+          "name": "Shaw Theatres Paya Lebar Quarter",
+          "source": {
+            "chain": "shaw",
+            "id": 9,
+            "chainSpecific": {
+              "address": "10 Paya Lebar Road, Paya Lebar Quarter, PLQ Mall, #05-02, Singapore 409057",
+              "code": "1100"
+            }
+          },
+          "metadata": {
+            "address": "10 Paya Lebar Road",
+            "full_address": "10 Paya Lebar Road, Geylang, Singapore 409057",
+            "location": {
+              "latitude": 1.317587,
+              "longitude": 103.892849
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjoyNDYwY2VkNy04NzE4LTQ0NDgtYjVlZi0wOWEyZTAxNDQ2NDc"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199477",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:3",
+        "unixTime": 1715846400000,
+        "link": "https://shaw.sg/seat-selection/199477",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Balestier Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 16,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198951",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715847600000,
+        "link": "https://shaw.sg/seat-selection/198951",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 16,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199242",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:9",
+        "unixTime": 1715847600000,
+        "link": "https://shaw.sg/seat-selection/199242",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "PLQ Hall 2",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 16,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:9",
+          "name": "Shaw Theatres Paya Lebar Quarter",
+          "source": {
+            "chain": "shaw",
+            "id": 9,
+            "chainSpecific": {
+              "address": "10 Paya Lebar Road, Paya Lebar Quarter, PLQ Mall, #05-02, Singapore 409057",
+              "code": "1100"
+            }
+          },
+          "metadata": {
+            "address": "10 Paya Lebar Road",
+            "full_address": "10 Paya Lebar Road, Geylang, Singapore 409057",
+            "location": {
+              "latitude": 1.317587,
+              "longitude": 103.892849
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjoyNDYwY2VkNy04NzE4LTQ0NDgtYjVlZi0wOWEyZTAxNDQ2NDc"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199479",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:3",
+        "unixTime": 1715855400000,
+        "link": "https://shaw.sg/seat-selection/199479",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Balestier Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 18,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198959",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715856600000,
+        "link": "https://shaw.sg/seat-selection/198959",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 18,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199244",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:9",
+        "unixTime": 1715856600000,
+        "link": "https://shaw.sg/seat-selection/199244",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "PLQ Hall 2",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 18,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:9",
+          "name": "Shaw Theatres Paya Lebar Quarter",
+          "source": {
+            "chain": "shaw",
+            "id": 9,
+            "chainSpecific": {
+              "address": "10 Paya Lebar Road, Paya Lebar Quarter, PLQ Mall, #05-02, Singapore 409057",
+              "code": "1100"
+            }
+          },
+          "metadata": {
+            "address": "10 Paya Lebar Road",
+            "full_address": "10 Paya Lebar Road, Geylang, Singapore 409057",
+            "location": {
+              "latitude": 1.317587,
+              "longitude": 103.892849
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjoyNDYwY2VkNy04NzE4LTQ0NDgtYjVlZi0wOWEyZTAxNDQ2NDc"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199392",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:5",
+        "unixTime": 1715857200000,
+        "link": "https://shaw.sg/seat-selection/199392",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "nex Hall 7",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 19,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:5",
+          "name": "Shaw Theatres nex",
+          "source": {
+            "chain": "shaw",
+            "id": 5,
+            "chainSpecific": {
+              "address": "23, Serangoon Central, nex, #04-64, Singapore 556083",
+              "code": "0700"
+            }
+          },
+          "metadata": {
+            "address": "23 Serangoon Central",
+            "full_address": "23 Serangoon Central, Serangoon, Singapore 556138",
+            "location": {
+              "latitude": 1.350505,
+              "longitude": 103.872625
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjowZDI2NGI2OS0yNjA5LTRmNTQtYjY4MS0yYTcyNWIwMTU4ZmY"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199532",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:4",
+        "unixTime": 1715857200000,
+        "link": "https://shaw.sg/seat-selection/199532",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lot One Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 19,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:4",
+          "name": "Shaw Theatres Lot One",
+          "source": {
+            "chain": "shaw",
+            "id": 4,
+            "chainSpecific": {
+              "address": "21,  Choa Chu Kang Ave 4,  5th/6th Floor,  Lot 1 Shoppers' Mall,  Singapore 689812",
+              "code": "0400"
+            }
+          },
+          "metadata": {
+            "address": "21 Choa Chu Kang Avenue 4",
+            "full_address": "21 Choa Chu Kang Avenue 4, Choa Chu Kang, Singapore 689812",
+            "location": {
+              "latitude": 1.385197,
+              "longitude": 103.744971
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo2NTAxNTBlOS0zZTc1LTRkMDktYWQ2MS0zYzIwZmJhNTJjMzQ"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199174",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715863800000,
+        "link": "https://shaw.sg/seat-selection/199174",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 1",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 20,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198957",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715865600000,
+        "link": "https://shaw.sg/seat-selection/198957",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199245",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:9",
+        "unixTime": 1715865600000,
+        "link": "https://shaw.sg/seat-selection/199245",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "PLQ Hall 2",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:9",
+          "name": "Shaw Theatres Paya Lebar Quarter",
+          "source": {
+            "chain": "shaw",
+            "id": 9,
+            "chainSpecific": {
+              "address": "10 Paya Lebar Road, Paya Lebar Quarter, PLQ Mall, #05-02, Singapore 409057",
+              "code": "1100"
+            }
+          },
+          "metadata": {
+            "address": "10 Paya Lebar Road",
+            "full_address": "10 Paya Lebar Road, Geylang, Singapore 409057",
+            "location": {
+              "latitude": 1.317587,
+              "longitude": 103.892849
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjoyNDYwY2VkNy04NzE4LTQ0NDgtYjVlZi0wOWEyZTAxNDQ2NDc"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199015",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715865900000,
+        "link": "https://shaw.sg/seat-selection/199015",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 5",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 25
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199059",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715865900000,
+        "link": "https://shaw.sg/seat-selection/199059",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 1",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 25
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199397",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:5",
+        "unixTime": 1715866200000,
+        "link": "https://shaw.sg/seat-selection/199397",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "nex Hall 7",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:5",
+          "name": "Shaw Theatres nex",
+          "source": {
+            "chain": "shaw",
+            "id": 5,
+            "chainSpecific": {
+              "address": "23, Serangoon Central, nex, #04-64, Singapore 556083",
+              "code": "0700"
+            }
+          },
+          "metadata": {
+            "address": "23 Serangoon Central",
+            "full_address": "23 Serangoon Central, Serangoon, Singapore 556138",
+            "location": {
+              "latitude": 1.350505,
+              "longitude": 103.872625
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjowZDI2NGI2OS0yNjA5LTRmNTQtYjY4MS0yYTcyNWIwMTU4ZmY"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199533",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:4",
+        "unixTime": 1715866200000,
+        "link": "https://shaw.sg/seat-selection/199533",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lot One Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:4",
+          "name": "Shaw Theatres Lot One",
+          "source": {
+            "chain": "shaw",
+            "id": 4,
+            "chainSpecific": {
+              "address": "21,  Choa Chu Kang Ave 4,  5th/6th Floor,  Lot 1 Shoppers' Mall,  Singapore 689812",
+              "code": "0400"
+            }
+          },
+          "metadata": {
+            "address": "21 Choa Chu Kang Avenue 4",
+            "full_address": "21 Choa Chu Kang Avenue 4, Choa Chu Kang, Singapore 689812",
+            "location": {
+              "latitude": 1.385197,
+              "longitude": 103.744971
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo2NTAxNTBlOS0zZTc1LTRkMDktYWQ2MS0zYzIwZmJhNTJjMzQ"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199485",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:3",
+        "unixTime": 1715913900000,
+        "link": "https://shaw.sg/seat-selection/199485",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Balestier Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 10,
+          "min": 45
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198954",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715916000000,
+        "link": "https://shaw.sg/seat-selection/198954",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 11,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199250",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:9",
+        "unixTime": 1715917200000,
+        "link": "https://shaw.sg/seat-selection/199250",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "PLQ Hall 2",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 11,
+          "min": 40
+        },
+        "cinema": {
+          "id": "shaw:9",
+          "name": "Shaw Theatres Paya Lebar Quarter",
+          "source": {
+            "chain": "shaw",
+            "id": 9,
+            "chainSpecific": {
+              "address": "10 Paya Lebar Road, Paya Lebar Quarter, PLQ Mall, #05-02, Singapore 409057",
+              "code": "1100"
+            }
+          },
+          "metadata": {
+            "address": "10 Paya Lebar Road",
+            "full_address": "10 Paya Lebar Road, Geylang, Singapore 409057",
+            "location": {
+              "latitude": 1.317587,
+              "longitude": 103.892849
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjoyNDYwY2VkNy04NzE4LTQ0NDgtYjVlZi0wOWEyZTAxNDQ2NDc"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198952",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715925000000,
+        "link": "https://shaw.sg/seat-selection/198952",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 13,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199393",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:5",
+        "unixTime": 1715926800000,
+        "link": "https://shaw.sg/seat-selection/199393",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "nex Hall 7",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 14,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:5",
+          "name": "Shaw Theatres nex",
+          "source": {
+            "chain": "shaw",
+            "id": 5,
+            "chainSpecific": {
+              "address": "23, Serangoon Central, nex, #04-64, Singapore 556083",
+              "code": "0700"
+            }
+          },
+          "metadata": {
+            "address": "23 Serangoon Central",
+            "full_address": "23 Serangoon Central, Serangoon, Singapore 556138",
+            "location": {
+              "latitude": 1.350505,
+              "longitude": 103.872625
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjowZDI2NGI2OS0yNjA5LTRmNTQtYjY4MS0yYTcyNWIwMTU4ZmY"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199531",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:4",
+        "unixTime": 1715926800000,
+        "link": "https://shaw.sg/seat-selection/199531",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lot One Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 14,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:4",
+          "name": "Shaw Theatres Lot One",
+          "source": {
+            "chain": "shaw",
+            "id": 4,
+            "chainSpecific": {
+              "address": "21,  Choa Chu Kang Ave 4,  5th/6th Floor,  Lot 1 Shoppers' Mall,  Singapore 689812",
+              "code": "0400"
+            }
+          },
+          "metadata": {
+            "address": "21 Choa Chu Kang Avenue 4",
+            "full_address": "21 Choa Chu Kang Avenue 4, Choa Chu Kang, Singapore 689812",
+            "location": {
+              "latitude": 1.385197,
+              "longitude": 103.744971
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo2NTAxNTBlOS0zZTc1LTRkMDktYWQ2MS0zYzIwZmJhNTJjMzQ"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199478",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:3",
+        "unixTime": 1715932800000,
+        "link": "https://shaw.sg/seat-selection/199478",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Balestier Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 16,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198950",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715934000000,
+        "link": "https://shaw.sg/seat-selection/198950",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 16,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199243",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:9",
+        "unixTime": 1715934600000,
+        "link": "https://shaw.sg/seat-selection/199243",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "PLQ Hall 2",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 16,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:9",
+          "name": "Shaw Theatres Paya Lebar Quarter",
+          "source": {
+            "chain": "shaw",
+            "id": 9,
+            "chainSpecific": {
+              "address": "10 Paya Lebar Road, Paya Lebar Quarter, PLQ Mall, #05-02, Singapore 409057",
+              "code": "1100"
+            }
+          },
+          "metadata": {
+            "address": "10 Paya Lebar Road",
+            "full_address": "10 Paya Lebar Road, Geylang, Singapore 409057",
+            "location": {
+              "latitude": 1.317587,
+              "longitude": 103.892849
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjoyNDYwY2VkNy04NzE4LTQ0NDgtYjVlZi0wOWEyZTAxNDQ2NDc"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199480",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:3",
+        "unixTime": 1715941800000,
+        "link": "https://shaw.sg/seat-selection/199480",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Balestier Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 18,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198958",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715943000000,
+        "link": "https://shaw.sg/seat-selection/198958",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 18,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199173",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715950200000,
+        "link": "https://shaw.sg/seat-selection/199173",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 1",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 20,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198956",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715952000000,
+        "link": "https://shaw.sg/seat-selection/198956",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199246",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:9",
+        "unixTime": 1715952000000,
+        "link": "https://shaw.sg/seat-selection/199246",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "PLQ Hall 2",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:9",
+          "name": "Shaw Theatres Paya Lebar Quarter",
+          "source": {
+            "chain": "shaw",
+            "id": 9,
+            "chainSpecific": {
+              "address": "10 Paya Lebar Road, Paya Lebar Quarter, PLQ Mall, #05-02, Singapore 409057",
+              "code": "1100"
+            }
+          },
+          "metadata": {
+            "address": "10 Paya Lebar Road",
+            "full_address": "10 Paya Lebar Road, Geylang, Singapore 409057",
+            "location": {
+              "latitude": 1.317587,
+              "longitude": 103.892849
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjoyNDYwY2VkNy04NzE4LTQ0NDgtYjVlZi0wOWEyZTAxNDQ2NDc"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199016",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715952300000,
+        "link": "https://shaw.sg/seat-selection/199016",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 5",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 25
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199060",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715952300000,
+        "link": "https://shaw.sg/seat-selection/199060",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 1",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 25
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199398",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:5",
+        "unixTime": 1715952600000,
+        "link": "https://shaw.sg/seat-selection/199398",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "nex Hall 7",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:5",
+          "name": "Shaw Theatres nex",
+          "source": {
+            "chain": "shaw",
+            "id": 5,
+            "chainSpecific": {
+              "address": "23, Serangoon Central, nex, #04-64, Singapore 556083",
+              "code": "0700"
+            }
+          },
+          "metadata": {
+            "address": "23 Serangoon Central",
+            "full_address": "23 Serangoon Central, Serangoon, Singapore 556138",
+            "location": {
+              "latitude": 1.350505,
+              "longitude": 103.872625
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjowZDI2NGI2OS0yNjA5LTRmNTQtYjY4MS0yYTcyNWIwMTU4ZmY"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199534",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:4",
+        "unixTime": 1715952600000,
+        "link": "https://shaw.sg/seat-selection/199534",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lot One Hall 6",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:4",
+          "name": "Shaw Theatres Lot One",
+          "source": {
+            "chain": "shaw",
+            "id": 4,
+            "chainSpecific": {
+              "address": "21,  Choa Chu Kang Ave 4,  5th/6th Floor,  Lot 1 Shoppers' Mall,  Singapore 689812",
+              "code": "0400"
+            }
+          },
+          "metadata": {
+            "address": "21 Choa Chu Kang Avenue 4",
+            "full_address": "21 Choa Chu Kang Avenue 4, Choa Chu Kang, Singapore 689812",
+            "location": {
+              "latitude": 1.385197,
+              "longitude": 103.744971
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo2NTAxNTBlOS0zZTc1LTRkMDktYWQ2MS0zYzIwZmJhNTJjMzQ"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199175",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715959200000,
+        "link": "https://shaw.sg/seat-selection/199175",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": true,
+          "cinemaName": "Jewel Hall 1",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 23,
+          "min": 20
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198955",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715961000000,
+        "link": "https://shaw.sg/seat-selection/198955",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": true,
+          "cinemaName": "Lido Hall 10",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 23,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199017",
+        "filmId": "3823ece4bd",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715961300000,
+        "link": "https://shaw.sg/seat-selection/199017",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": true,
+          "cinemaName": "Waterway Point Hall 5",
+          "movieTitle": "Civil War",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 23,
+          "min": 55
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/1157/18-05-2024/1100/9",
+        "cinemaId": "gv:08",
+        "filmId": "3823ece4bd",
+        "unixTime": 1716001200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1157/showDate/18-05-2024/showTime/1100/hallNumber/9",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "9",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Civil War",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 11,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1157/19-05-2024/1025/9",
+        "cinemaId": "gv:08",
+        "filmId": "3823ece4bd",
+        "unixTime": 1716085500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1157/showDate/19-05-2024/showTime/1025/hallNumber/9",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "9",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Civil War",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 10,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1157/20-05-2024/1025/9",
+        "cinemaId": "gv:08",
+        "filmId": "3823ece4bd",
+        "unixTime": 1716171900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1157/showDate/20-05-2024/showTime/1025/hallNumber/9",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "9",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Civil War",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 10,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1157/21-05-2024/1100/9",
+        "cinemaId": "gv:08",
+        "filmId": "3823ece4bd",
+        "unixTime": 1716260400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1157/showDate/21-05-2024/showTime/1100/hallNumber/9",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "9",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Civil War",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 11,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1157/22-05-2024/1025/9",
+        "cinemaId": "gv:08",
+        "filmId": "3823ece4bd",
+        "unixTime": 1716344700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1157/showDate/22-05-2024/showTime/1025/hallNumber/9",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "9",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Civil War",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 10,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      }
+    ]
+  }
+}

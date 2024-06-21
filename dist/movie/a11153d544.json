@@ -1,0 +1,1442 @@
+{
+  "movie": {
+    "id": "a11153d544",
+    "filmTitle": "Monkey Man",
+    "language": "English",
+    "sourceIds": [
+      "gv:1152",
+      "projector:ST00004248"
+    ],
+    "metadata": {
+      "parental": "R21",
+      "runtime": 121,
+      "crew": {
+        "director": [
+          "Dev Patel"
+        ],
+        "writer": [
+          "Dev Patel",
+          "Paul Angunawela",
+          "John Collee"
+        ],
+        "actors": [
+          "Dev Patel",
+          "Sharlto Copley",
+          "Pitobash"
+        ]
+      },
+      "plot": "An anonymous young man unleashes a campaign of vengeance against the corrupt leaders who murdered his mother and continue to systematically victimize the poor and powerless.",
+      "awards": "2 wins & 1 nomination",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "7.085/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/lA6KdSkCTxwzvqzPqxch997RabQ.jpg",
+      "belongs_to_collection": null,
+      "budget": 10000000,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "homepage": "https://www.monkeyman.movie",
+      "id": 560016,
+      "imdb_id": "tt9214772",
+      "origin_country": [
+        "US"
+      ],
+      "original_title": "Monkey Man",
+      "overview": "Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.",
+      "popularity": 153.555,
+      "poster_path": "https://image.tmdb.org/t/p/original/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+      "production_companies": [
+        {
+          "id": 3528,
+          "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+          "name": "Thunder Road",
+          "origin_country": "US"
+        },
+        {
+          "id": 13240,
+          "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+          "name": "Bron Studios",
+          "origin_country": "CA"
+        },
+        {
+          "id": 88934,
+          "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+          "name": "Monkeypaw Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 219288,
+          "logo_path": null,
+          "name": "Minor Realm",
+          "origin_country": "US"
+        },
+        {
+          "id": 53152,
+          "logo_path": "/8XHHLy8GGTuHM9JMzYjGqxB6oPa.png",
+          "name": "Creative Wealth Media Finance",
+          "origin_country": "CA"
+        },
+        {
+          "id": 219320,
+          "logo_path": "/2S2zQdmC2SN2SagYyULEQUWfdiX.png",
+          "name": "WME Independent",
+          "origin_country": "US"
+        },
+        {
+          "id": 100183,
+          "logo_path": null,
+          "name": "S'YA Concept",
+          "origin_country": "SG"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "SG",
+          "name": "Singapore"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2024-04-04T00:00:00.000Z",
+      "revenue": 34578510,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "One small ember can burn down everything.",
+      "title": "Monkey Man",
+      "video": false,
+      "vote_average": 7.085,
+      "vote_count": 511,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AD",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AR",
+            "release_dates": [
+              {
+                "certification": "+16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-16T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Peacock",
+                "release_date": "2024-06-13T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "MA 15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-03T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BG",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BR",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-23T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CH",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "de",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "fr",
+                "note": "",
+                "release_date": "2024-04-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Shanghai International Film Festival",
+                "release_date": "2024-06-18T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CZ",
+            "release_dates": [
+              {
+                "certification": "15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EC",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ES",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FI",
+            "release_dates": [
+              {
+                "certification": "K-16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "4K Ultra HD / Blu-ray / DVD",
+                "release_date": "2024-07-08T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-23T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Peacock",
+                "release_date": "2024-06-14T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "III",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-20T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IL",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "14+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KR",
+            "release_dates": [
+              {
+                "certification": "19",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "LT",
+            "release_dates": [
+              {
+                "certification": "N-16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MP",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-23T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Peacock",
+                "release_date": "2024-06-14T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MX",
+            "release_dates": [
+              {
+                "certification": "C",
+                "descriptors": [],
+                "iso_639_1": "es",
+                "note": "",
+                "release_date": "2024-05-16T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MY",
+            "release_dates": [
+              {
+                "certification": "18PA",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NL",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NO",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NZ",
+            "release_dates": [
+              {
+                "certification": "R16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PH",
+            "release_dates": [
+              {
+                "certification": "R-18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PR",
+            "release_dates": [
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-23T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Peacock",
+                "release_date": "2024-06-14T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "4K Ultra HD / Blu-ray / DVD",
+                "release_date": "2024-06-25T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PT",
+            "release_dates": [
+              {
+                "certification": "M/16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "RU",
+            "release_dates": [
+              {
+                "certification": "16+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SE",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "R21",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SK",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "en",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TH",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-16T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TR",
+            "release_dates": [
+              {
+                "certification": "18+",
+                "descriptors": [
+                  "Violence / Horror",
+                  "Negative examples"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Golden Horse Fantastic Film Festival",
+                "release_date": "2024-04-21T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "18+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-31T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "UA",
+            "release_dates": [
+              {
+                "certification": "18+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "South by Southwest Film & TV Festival",
+                "release_date": "2024-03-11T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Los Angeles, California",
+                "release_date": "2024-04-03T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-23T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Peacock",
+                "release_date": "2024-06-14T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "4K Ultra HD / Blu-ray / DVD",
+                "release_date": "2024-06-25T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VI",
+            "release_dates": [
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-23T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Peacock",
+                "release_date": "2024-06-14T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "4K Ultra HD / Blu-ray / DVD",
+                "release_date": "2024-06-25T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "WS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-22T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2",
+          "key": "aqa3YTtwvaU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-03-21T14:59:56.000Z",
+          "id": "65fc56fc7707000163076b17"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official UK Trailer",
+          "key": "sLSlmb3B9J4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-01-26T16:00:29.000Z",
+          "id": "65b3df40a0664501488d8da7"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "g8zxiB5Qhsc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-01-26T15:59:02.000Z",
+          "id": "65b3d76b002134014b7be43b"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Yours to Own Promo",
+          "key": "6LboWl0yRGg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "published_at": "2024-06-03T14:00:08.000Z",
+          "id": "665faf69a1503b602b0912fb"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Put On The Show, Get The Money - Extended Preview",
+          "key": "0XSc_TPPaL0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "published_at": "2024-04-23T16:00:01.000Z",
+          "id": "662828604a4bf6016576a1c4"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 560016,
+        "imdb_id": "tt9214772",
+        "wikidata_id": "Q105952623",
+        "facebook_id": "monkeymanthemovie2024",
+        "instagram_id": "monkeymanmovie",
+        "twitter_id": "monkeymanmovie"
+      },
+      "source": {
+        "id": 560016,
+        "api": "TMDB"
+      },
+      "language": "English"
+    },
+    "showtimes": [
+      {
+        "id": "gv:114/1152/18-05-2024/1830/4",
+        "cinemaId": "gv:11",
+        "filmId": "a11153d544",
+        "unixTime": 1716028200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/1152/showDate/18-05-2024/showTime/1830/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "No Subtitles"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Monkey Man",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 18,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:114/1152/19-05-2024/1830/4",
+        "cinemaId": "gv:11",
+        "filmId": "a11153d544",
+        "unixTime": 1716114600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/1152/showDate/19-05-2024/showTime/1830/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "No Subtitles"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Monkey Man",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 18,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:114/1152/20-05-2024/1755/4",
+        "cinemaId": "gv:11",
+        "filmId": "a11153d544",
+        "unixTime": 1716198900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/1152/showDate/20-05-2024/showTime/1755/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "No Subtitles"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Monkey Man",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 17,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:114/1152/21-05-2024/2110/4",
+        "cinemaId": "gv:11",
+        "filmId": "a11153d544",
+        "unixTime": 1716297000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/1152/showDate/21-05-2024/showTime/2110/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "No Subtitles"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Monkey Man",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 21,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:114/1152/22-05-2024/2120/4",
+        "cinemaId": "gv:11",
+        "filmId": "a11153d544",
+        "unixTime": 1716384000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/1152/showDate/22-05-2024/showTime/2120/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "No Subtitles"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Monkey Man",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "projector:25544",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "a11153d544",
+        "unixTime": 1716701400000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25544?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "FRI after 6pm/SAT/SUN",
+          "type": "FRI after 6pm/SAT/SUN"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "Monkey Man",
+          "ScreenId": 2,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-05-26T13:30:00",
+          "FeatureStartTime": "2024-05-26T13:40:00",
+          "FeatureEndTime": "2024-05-26T15:41:00",
+          "CleanupEndTime": "2024-05-26T15:51:00",
+          "SeatsAvailable": 206,
+          "SeatsHeld": 0,
+          "SeatsHouse": 0,
+          "SeatsSold": 2,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 2,
+          "accessibility": null,
+          "venueTitle": "Golden Mile: Redrum",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004248",
+          "filmURL": "https://theprojector.sg/films-and-events/monkey-man/",
+          "filmfilmTitle": "Monkey Man",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 26,
+          "hour": 13,
+          "min": 30
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

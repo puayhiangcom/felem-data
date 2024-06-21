@@ -1,0 +1,422 @@
+{
+  "movie": {
+    "id": "b7a019b14d",
+    "filmTitle": "Ryuichi Sakamoto | Opus",
+    "language": "Japanese",
+    "sourceIds": [
+      "projector:ST00004186"
+    ],
+    "metadata": {
+      "parental": "G",
+      "runtime": 103,
+      "crew": {
+        "director": [
+          "Neo Sora"
+        ],
+        "writer": [
+          "N/A"
+        ],
+        "actors": [
+          "Ryuichi Sakamoto"
+        ]
+      },
+      "plot": "Ryuichi Sakamoto's last performance, a concert film featuring just him and his piano playing for the last time before passing away.",
+      "awards": "N/A",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/zS1OiCw3opLQYxjmhqhOQ7D7YyD.jpg",
+      "belongs_to_collection": {
+        "id": 1223021,
+        "name": "Ryuichi Sakamoto Collection",
+        "poster_path": null,
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "homepage": "",
+      "id": 1156189,
+      "imdb_id": "tt28490873",
+      "origin_country": [
+        "JP"
+      ],
+      "original_title": "Ryuichi Sakamoto | Opus",
+      "overview": "“Ars longa, vita brevis” – art is long, life is short. This is one of Japanese music icon Ryuichi Sakamoto’s favorite quotes, and the message that he leaves for viewers at the end of his final concert film, shot before he succumbed to cancer in March 2023. Consisting of only Sakamoto and his piano, Opus features the final live performances of 20 songs that Sakamoto meticulously curated to encapsulate his distinguished 40-year career.",
+      "popularity": 6.527,
+      "poster_path": "https://image.tmdb.org/t/p/original/ok1EQpg1nP3kdoiltZq1k1Ww4kw.jpg",
+      "production_companies": [
+        {
+          "id": 188205,
+          "logo_path": null,
+          "name": "KAB",
+          "origin_country": "US"
+        },
+        {
+          "id": 11561,
+          "logo_path": "/8HB3TFUeo83keAPHfFfrNtN2MmA.png",
+          "name": "Recorded Picture Company",
+          "origin_country": "GB"
+        },
+        {
+          "id": 4667,
+          "logo_path": "/kW2HfJ2R3xBfXRW6jdevcSGavHT.png",
+          "name": "Bitters End",
+          "origin_country": "JP"
+        },
+        {
+          "id": 46298,
+          "logo_path": null,
+          "name": "Kinetic Arts",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2024-03-28T00:00:00.000Z",
+      "revenue": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "The Performance of a Lifetime",
+      "title": "Ryuichi Sakamoto: Opus",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 5,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "CN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Beijing International Film Festival ",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-27T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-31T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ES",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-26T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "U",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "MOViE MOViE Life is Art 2023",
+                "release_date": "2023-12-17T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "I",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-12-31T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Jogja-NETPAC Asian Film Festival",
+                "release_date": "2023-11-28T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Jio MAMI Film Festival",
+                "release_date": "2023-10-27T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Venice International Film Festival",
+                "release_date": "2023-09-05T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KR",
+            "release_dates": [
+              {
+                "certification": "All",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Busan International Film Festival",
+                "release_date": "2023-10-08T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "All",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-12-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "LT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "LNOBT",
+                "release_date": "2024-03-02T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "V",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MX",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Festival Internacional de Cine UNAM",
+                "release_date": "2024-06-13T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "G",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "th",
+                "note": "Doc Club & Pub",
+                "release_date": "2024-04-03T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "th",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "0+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-15T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-17T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "New York Film Festival",
+                "release_date": "2023-10-11T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official US Trailer",
+          "key": "OyhTmH92Ljc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-02-15T13:49:14.000Z",
+          "id": "65ce3b5fa3b5e601852cef89"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "-S_mHCkxBWw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2023-08-29T12:02:17.000Z",
+          "id": "64ee6dba4b0c6300e1d30f5a"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Neo Sora on Ryuichi Sakamoto | Opus",
+          "key": "i3Z2a8XVAoA",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Featurette",
+          "official": true,
+          "published_at": "2023-10-14T17:29:16.000Z",
+          "id": "65ce3b9b99259c0186260d44"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 1156189,
+        "imdb_id": "tt28490873",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1156189,
+        "api": "TMDB"
+      },
+      "language": "Japanese"
+    },
+    "showtimes": []
+  }
+}

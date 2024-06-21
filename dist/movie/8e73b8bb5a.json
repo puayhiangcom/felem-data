@@ -1,0 +1,6316 @@
+{
+  "movie": {
+    "id": "8e73b8bb5a",
+    "filmTitle": "Godzilla X Kong: The New Empire",
+    "language": "English",
+    "sourceIds": [
+      "gv:1122",
+      "shaw:625"
+    ],
+    "metadata": {
+      "parental": "PG13",
+      "runtime": 115,
+      "crew": {
+        "director": [
+          "Adam Wingard"
+        ],
+        "writer": [
+          "Terry Rossio",
+          "Adam Wingard",
+          "Simon Barrett"
+        ],
+        "actors": [
+          "Rebecca Hall",
+          "Brian Tyree Henry",
+          "Dan Stevens"
+        ]
+      },
+      "plot": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries.",
+      "awards": "N/A",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "7.225/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "54%"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/lLh39Th5plbrQgbQ4zyIULsd0Pp.jpg",
+      "belongs_to_collection": {
+        "id": 1280074,
+        "name": "Kong Collection",
+        "poster_path": "/lhyEUeOihbKf7ll8RCIE5CHTie3.jpg",
+        "backdrop_path": "/qHY4ZMIDSmElhiykjhh40Q5qMJl.jpg"
+      },
+      "budget": 150000000,
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "homepage": "https://www.godzillaxkongmovie.com",
+      "id": 823464,
+      "imdb_id": "tt14539740",
+      "origin_country": [
+        "US"
+      ],
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "popularity": 1673.986,
+      "poster_path": "https://image.tmdb.org/t/p/original/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "production_companies": [
+        {
+          "id": 923,
+          "logo_path": "/8M99Dkt23MjQMTTWukq4m5XsEuo.png",
+          "name": "Legendary Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2024-03-28T00:00:00.000Z",
+      "revenue": 567156493,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Rise together or fall alone.",
+      "title": "Godzilla x Kong: The New Empire",
+      "video": false,
+      "vote_average": 7.225,
+      "vote_count": 2848,
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2",
+          "key": "qqrpMRDuPfc",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-02-14T17:00:47.000Z",
+          "id": "65ccf7e2e210230185c421e2"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "lV1OOlGwExM",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2023-12-03T20:50:56.000Z",
+          "id": "656ced1b56846300cdb8fc54"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tickets on Sale Trailer",
+          "key": "XeDbyVODQ5M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-03-13T17:00:24.000Z",
+          "id": "65fa59007f0540017c079280"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Making of Godzilla X Kong: The New Empire",
+          "key": "1AewaKTnHiU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "published_at": "2024-06-20T14:00:04.000Z",
+          "id": "6674e932101084dd8bd8c218"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Suko: The Rise of Mini-Kong",
+          "key": "jOOGokxFXpg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "published_at": "2024-06-18T14:00:38.000Z",
+          "id": "6674ea1578b39f538271df15"
+        }
+      ],
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AD",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-13T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "M",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AZ",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-03T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BG",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CZ",
+            "release_dates": [
+              {
+                "certification": "12+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DO",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EC",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EG",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ES",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FI",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-03T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "12A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "DVD/Blu-ray/4K UHD Blu-ray",
+                "release_date": "2024-06-24T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-14T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "IIA",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HU",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "12A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IN",
+            "release_dates": [
+              {
+                "certification": "UA",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "JP",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-26T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KR",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Yongsan, Seoul",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "LT",
+            "release_dates": [
+              {
+                "certification": "N-13",
+                "descriptors": [],
+                "iso_639_1": "en",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MP",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-14T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MX",
+            "release_dates": [
+              {
+                "certification": "B",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MY",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NL",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NO",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NZ",
+            "release_dates": [
+              {
+                "certification": "M",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PR",
+            "release_dates": [
+              {
+                "certification": "PG-13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "PG-13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-14T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SE",
+            "release_dates": [
+              {
+                "certification": "11",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "PG13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TH",
+            "release_dates": [
+              {
+                "certification": "G",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TR",
+            "release_dates": [
+              {
+                "certification": "13+",
+                "descriptors": [
+                  "Violence / Horror",
+                  "Negative examples"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "6+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "UA",
+            "release_dates": [
+              {
+                "certification": "12+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "PG-13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Los Angeles, California",
+                "release_date": "2024-03-25T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "PG-13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "PG-13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-14T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VI",
+            "release_dates": [
+              {
+                "certification": "PG-13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-14T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ZA",
+            "release_dates": [
+              {
+                "certification": "13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "external_ids": {
+        "tmdb_id": 823464,
+        "imdb_id": "tt14539740",
+        "wikidata_id": "Q113360912",
+        "facebook_id": "GodzillaXKong",
+        "instagram_id": "godzillaxkong",
+        "twitter_id": "GodzillaXKong"
+      },
+      "source": {
+        "id": 823464,
+        "api": "TMDB"
+      },
+      "language": "English"
+    },
+    "showtimes": [
+      {
+        "id": "shaw:199319",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:5",
+        "unixTime": 1715824800000,
+        "link": "https://shaw.sg/seat-selection/199319",
+        "ticketType": {
+          "label": "premiere",
+          "type": "PREM"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "nex Premiere 1",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 10,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:5",
+          "name": "Shaw Theatres nex",
+          "source": {
+            "chain": "shaw",
+            "id": 5,
+            "chainSpecific": {
+              "address": "23, Serangoon Central, nex, #04-64, Singapore 556083",
+              "code": "0700"
+            }
+          },
+          "metadata": {
+            "address": "23 Serangoon Central",
+            "full_address": "23 Serangoon Central, Serangoon, Singapore 556138",
+            "location": {
+              "latitude": 1.350505,
+              "longitude": 103.872625
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjowZDI2NGI2OS0yNjA5LTRmNTQtYjY4MS0yYTcyNWIwMTU4ZmY"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198939",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715825100000,
+        "link": "https://shaw.sg/seat-selection/198939",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 9",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 10,
+          "min": 5
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199098",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715826300000,
+        "link": "https://shaw.sg/seat-selection/199098",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 6",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 10,
+          "min": 25
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199176",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715826600000,
+        "link": "https://shaw.sg/seat-selection/199176",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 10,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198997",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715827200000,
+        "link": "https://shaw.sg/seat-selection/198997",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 10,
+          "min": 40
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199011",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715830500000,
+        "link": "https://shaw.sg/seat-selection/199011",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 5",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 11,
+          "min": 35
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199099",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715835600000,
+        "link": "https://shaw.sg/seat-selection/199099",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 6",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 13,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199182",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715835900000,
+        "link": "https://shaw.sg/seat-selection/199182",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 13,
+          "min": 5
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199420",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:3",
+        "unixTime": 1715836200000,
+        "link": "https://shaw.sg/seat-selection/199420",
+        "ticketType": {
+          "label": "Lumiere",
+          "type": "LUMR"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Balestier Lumiere Four",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 13,
+          "min": 10
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199007",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715836500000,
+        "link": "https://shaw.sg/seat-selection/199007",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 13,
+          "min": 15
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199057",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715839200000,
+        "link": "https://shaw.sg/seat-selection/199057",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 1",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 14,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199013",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715839800000,
+        "link": "https://shaw.sg/seat-selection/199013",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 5",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 14,
+          "min": 10
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198943",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715843700000,
+        "link": "https://shaw.sg/seat-selection/198943",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 9",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 15,
+          "min": 15
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199008",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715845800000,
+        "link": "https://shaw.sg/seat-selection/199008",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 15,
+          "min": 50
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199206",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715847900000,
+        "link": "https://shaw.sg/seat-selection/199206",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 7",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 16,
+          "min": 25
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199009",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715855100000,
+        "link": "https://shaw.sg/seat-selection/199009",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 18,
+          "min": 25
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199417",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:3",
+        "unixTime": 1715855400000,
+        "link": "https://shaw.sg/seat-selection/199417",
+        "ticketType": {
+          "label": "Lumiere",
+          "type": "LUMR"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Balestier Lumiere Four",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 18,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:3",
+          "name": "Shaw Theatres Balestier",
+          "source": {
+            "chain": "shaw",
+            "id": 3,
+            "chainSpecific": {
+              "address": "360, Balestier Road, Shaw Plaza, #04-04, Singapore 329783",
+              "code": "0300"
+            }
+          },
+          "metadata": {
+            "address": "360 Balestier Road",
+            "full_address": "360 Balestier Road, Novena, Singapore 329779",
+            "location": {
+              "latitude": 1.324845,
+              "longitude": 103.851295
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjVkZWJiYy05Nzg3LTRhMDItOThlNi1kYjA0MGVkMzAyNzA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199100",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715855400000,
+        "link": "https://shaw.sg/seat-selection/199100",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 6",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 18,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199184",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715855700000,
+        "link": "https://shaw.sg/seat-selection/199184",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 18,
+          "min": 35
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199205",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715857200000,
+        "link": "https://shaw.sg/seat-selection/199205",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 7",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 19,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199010",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715864400000,
+        "link": "https://shaw.sg/seat-selection/199010",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199101",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715864700000,
+        "link": "https://shaw.sg/seat-selection/199101",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 6",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 5
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199324",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:5",
+        "unixTime": 1715911200000,
+        "link": "https://shaw.sg/seat-selection/199324",
+        "ticketType": {
+          "label": "premiere",
+          "type": "PREM"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "nex Premiere 1",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 10,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:5",
+          "name": "Shaw Theatres nex",
+          "source": {
+            "chain": "shaw",
+            "id": 5,
+            "chainSpecific": {
+              "address": "23, Serangoon Central, nex, #04-64, Singapore 556083",
+              "code": "0700"
+            }
+          },
+          "metadata": {
+            "address": "23 Serangoon Central",
+            "full_address": "23 Serangoon Central, Serangoon, Singapore 556138",
+            "location": {
+              "latitude": 1.350505,
+              "longitude": 103.872625
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjowZDI2NGI2OS0yNjA5LTRmNTQtYjY4MS0yYTcyNWIwMTU4ZmY"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198944",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715911500000,
+        "link": "https://shaw.sg/seat-selection/198944",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 9",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 10,
+          "min": 5
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199181",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715913000000,
+        "link": "https://shaw.sg/seat-selection/199181",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 10,
+          "min": 30
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199012",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715916900000,
+        "link": "https://shaw.sg/seat-selection/199012",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 5",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 11,
+          "min": 35
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199183",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715922300000,
+        "link": "https://shaw.sg/seat-selection/199183",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 13,
+          "min": 5
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199058",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715925600000,
+        "link": "https://shaw.sg/seat-selection/199058",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 1",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 14,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199014",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:7",
+        "unixTime": 1715926200000,
+        "link": "https://shaw.sg/seat-selection/199014",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Waterway Point Hall 5",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 14,
+          "min": 10
+        },
+        "cinema": {
+          "id": "shaw:7",
+          "name": "Shaw Theatres Waterway Point",
+          "source": {
+            "chain": "shaw",
+            "id": 7,
+            "chainSpecific": {
+              "address": "83, Punggol Central, Waterway Point, #B2-11, Singapore 828761",
+              "code": "0900"
+            }
+          },
+          "metadata": {
+            "address": "83 Punggol Central",
+            "full_address": "83 Punggol Central, Punggol, Singapore 828758",
+            "location": {
+              "latitude": 1.406031,
+              "longitude": 103.902116
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozOGE0MmZiNy1iZjZhLTQwNTUtYjVhNy0wMzY4MTMzOGU5M2E"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:198942",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:1",
+        "unixTime": 1715930100000,
+        "link": "https://shaw.sg/seat-selection/198942",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Lido Hall 9",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 15,
+          "min": 15
+        },
+        "cinema": {
+          "id": "shaw:1",
+          "name": "Shaw Theatres Lido",
+          "source": {
+            "chain": "shaw",
+            "id": 1,
+            "chainSpecific": {
+              "address": "350, Orchard Road, Shaw House, 5th/6th Floor, Singapore 238868",
+              "code": "0100"
+            }
+          },
+          "metadata": {
+            "address": "350 Orchard Road",
+            "full_address": "350 Orchard Road, Orchard, Singapore 238868",
+            "location": {
+              "latitude": 1.305719,
+              "longitude": 103.831669
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo0Mjg0MmI2ZC01NmYwLTRmZDUtOTIzYy03YTNlMTYxYTFiM2I"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199185",
+        "filmId": "8e73b8bb5a",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715942100000,
+        "link": "https://shaw.sg/seat-selection/199185",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Godzilla x Kong: The New Empire",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 18,
+          "min": 35
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:15/1122/17-05-2024/1910/6",
+        "cinemaId": "gv:15",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1715944200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/15/filmCode/1122/showDate/17-05-2024/showTime/1910/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Funan",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 19,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:15",
+          "name": "GV Funan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "15",
+            "chainSpecific": {
+              "sequence": 16,
+              "locationCode": "15",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/1122/17-05-2024/2045/4",
+        "cinemaId": "gv:12",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1715949900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1122/showDate/17-05-2024/showTime/2045/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "1%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 20,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1122/17-05-2024/2120/12",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1715952000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/17-05-2024/showTime/2120/hallNumber/12",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "1%",
+          "hall": "12",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:13/1122/18-05-2024/1045/7",
+        "cinemaId": "gv:13",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716000300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/13/filmCode/1122/showDate/18-05-2024/showTime/1045/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV Paya Lebar",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 10,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:13",
+          "name": "GV Paya Lebar",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "13",
+            "chainSpecific": {
+              "sequence": 18,
+              "locationCode": "13",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.358791,
+              "longitude": 103.915368
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCQXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:11/1122/18-05-2024/1230/3",
+        "cinemaId": "gv:11",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716006600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/1122/showDate/18-05-2024/showTime/1230/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV City Square",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 12,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:13/1122/18-05-2024/1350/8",
+        "cinemaId": "gv:13",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716011400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/13/filmCode/1122/showDate/18-05-2024/showTime/1350/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Paya Lebar",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 13,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:13",
+          "name": "GV Paya Lebar",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "13",
+            "chainSpecific": {
+              "sequence": 18,
+              "locationCode": "13",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.358791,
+              "longitude": 103.915368
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCQXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/1122/18-05-2024/1440/10",
+        "cinemaId": "gv:08",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716014400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1122/showDate/18-05-2024/showTime/1440/hallNumber/10",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "10",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 14,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:02/1122/18-05-2024/1525/5",
+        "cinemaId": "gv:02",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716017100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/02/filmCode/1122/showDate/18-05-2024/showTime/1525/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Bishan",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 15,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:02",
+          "name": "GV Bishan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "02",
+            "chainSpecific": {
+              "sequence": 25,
+              "locationCode": "02",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.353109,
+              "longitude": 103.848303
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzphc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1122/18-05-2024/1555/7",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716018900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/18-05-2024/showTime/1555/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 15,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:14/1122/18-05-2024/1605/6",
+        "cinemaId": "gv:14",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716019500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/14/filmCode/1122/showDate/18-05-2024/showTime/1605/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bedok",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 16,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:14",
+          "name": "GV Bedok",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "14",
+            "chainSpecific": {
+              "sequence": 17,
+              "locationCode": "14",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.324068,
+              "longitude": 103.93188
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpTc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:18/1122/18-05-2024/1640/5",
+        "cinemaId": "gv:18",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716021600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/18/filmCode/1122/showDate/18-05-2024/showTime/1640/hallNumber/5",
+        "ticketType": {
+          "label": "Cineleisure",
+          "type": "Cineleisure"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Cineleisure",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 16,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:18",
+          "name": "GV Cineleisure",
+          "type": {
+            "label": "Cineleisure",
+            "type": "Cineleisure"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "18",
+            "chainSpecific": {
+              "sequence": 12,
+              "locationCode": "18",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:10/1122/18-05-2024/1805/3",
+        "cinemaId": "gv:10",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716026700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/10/filmCode/1122/showDate/18-05-2024/showTime/1805/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Katong",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 18,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:10",
+          "name": "GV Katong",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "10",
+            "chainSpecific": {
+              "sequence": 15,
+              "locationCode": "10",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "East Coast Road #04 - 09 112",
+            "full_address": "East Coast Road #04 - 09 112, Singapore, 428802, Singapore",
+            "location": {
+              "latitude": 1.305111,
+              "longitude": 103.905067
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTphNjhmYjQ1MC1kOGZmLTQxZjktOTJkYy01NmRjZDMzY2Y1NDM",
+              "foursquare": "50798f38e4b0112fc37a90c3",
+              "safegraph": "zzy-278@cdp-wkn-b6k"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:03/1122/18-05-2024/1820/5",
+        "cinemaId": "gv:03",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716027600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/03/filmCode/1122/showDate/18-05-2024/showTime/1820/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Tiong Bahru",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 18,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:03",
+          "name": "GV Tiong Bahru",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "03",
+            "chainSpecific": {
+              "sequence": 19,
+              "locationCode": "03",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.28602,
+              "longitude": 103.827096
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2FjZDg5ZmEtZDkyNS00Zjg4LWE5YTQtYzIzMTUxNzhjYTg0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:01/1122/18-05-2024/1820/1",
+        "cinemaId": "gv:01",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716027600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1122/showDate/18-05-2024/showTime/1820/hallNumber/1",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 18,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:15/1122/18-05-2024/1925/6",
+        "cinemaId": "gv:15",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716031500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/15/filmCode/1122/showDate/18-05-2024/showTime/1925/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Funan",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 19,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:15",
+          "name": "GV Funan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "15",
+            "chainSpecific": {
+              "sequence": 16,
+              "locationCode": "15",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/1122/18-05-2024/2000/4",
+        "cinemaId": "gv:12",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716033600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1122/showDate/18-05-2024/showTime/2000/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 20,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1122/18-05-2024/2000/12",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716033600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/18-05-2024/showTime/2000/hallNumber/12",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "1%",
+          "hall": "12",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 20,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:13/1122/19-05-2024/1045/7",
+        "cinemaId": "gv:13",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716086700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/13/filmCode/1122/showDate/19-05-2024/showTime/1045/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV Paya Lebar",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 10,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:13",
+          "name": "GV Paya Lebar",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "13",
+            "chainSpecific": {
+              "sequence": 18,
+              "locationCode": "13",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.358791,
+              "longitude": 103.915368
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCQXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:11/1122/19-05-2024/1230/3",
+        "cinemaId": "gv:11",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716093000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/1122/showDate/19-05-2024/showTime/1230/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV City Square",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 12,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/1122/19-05-2024/1340/4",
+        "cinemaId": "gv:12",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716097200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1122/showDate/19-05-2024/showTime/1340/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 13,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:02/1122/19-05-2024/1340/6",
+        "cinemaId": "gv:02",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716097200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/02/filmCode/1122/showDate/19-05-2024/showTime/1340/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bishan",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 13,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:02",
+          "name": "GV Bishan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "02",
+            "chainSpecific": {
+              "sequence": 25,
+              "locationCode": "02",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.353109,
+              "longitude": 103.848303
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzphc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:13/1122/19-05-2024/1350/8",
+        "cinemaId": "gv:13",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716097800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/13/filmCode/1122/showDate/19-05-2024/showTime/1350/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Paya Lebar",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 13,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:13",
+          "name": "GV Paya Lebar",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "13",
+            "chainSpecific": {
+              "sequence": 18,
+              "locationCode": "13",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.358791,
+              "longitude": 103.915368
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCQXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/1122/19-05-2024/1400/10",
+        "cinemaId": "gv:08",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716098400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1122/showDate/19-05-2024/showTime/1400/hallNumber/10",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "10",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 14,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/1122/19-05-2024/1520/5",
+        "cinemaId": "gv:01",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716103200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1122/showDate/19-05-2024/showTime/1520/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "1%",
+          "hall": "5",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 15,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1122/19-05-2024/1555/7",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716105300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/19-05-2024/showTime/1555/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 15,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:14/1122/19-05-2024/1605/6",
+        "cinemaId": "gv:14",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716105900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/14/filmCode/1122/showDate/19-05-2024/showTime/1605/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bedok",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 16,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:14",
+          "name": "GV Bedok",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "14",
+            "chainSpecific": {
+              "sequence": 17,
+              "locationCode": "14",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.324068,
+              "longitude": 103.93188
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpTc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:18/1122/19-05-2024/1640/5",
+        "cinemaId": "gv:18",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716108000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/18/filmCode/1122/showDate/19-05-2024/showTime/1640/hallNumber/5",
+        "ticketType": {
+          "label": "Cineleisure",
+          "type": "Cineleisure"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Cineleisure",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 16,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:18",
+          "name": "GV Cineleisure",
+          "type": {
+            "label": "Cineleisure",
+            "type": "Cineleisure"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "18",
+            "chainSpecific": {
+              "sequence": 12,
+              "locationCode": "18",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:03/1122/19-05-2024/1820/5",
+        "cinemaId": "gv:03",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716114000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/03/filmCode/1122/showDate/19-05-2024/showTime/1820/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Tiong Bahru",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 18,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:03",
+          "name": "GV Tiong Bahru",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "03",
+            "chainSpecific": {
+              "sequence": 19,
+              "locationCode": "03",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.28602,
+              "longitude": 103.827096
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2FjZDg5ZmEtZDkyNS00Zjg4LWE5YTQtYzIzMTUxNzhjYTg0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/1122/19-05-2024/1910/4",
+        "cinemaId": "gv:12",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716117000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1122/showDate/19-05-2024/showTime/1910/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 19,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1122/19-05-2024/1915/12",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716117300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/19-05-2024/showTime/1915/hallNumber/12",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "12",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 19,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:15/1122/19-05-2024/1930/6",
+        "cinemaId": "gv:15",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716118200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/15/filmCode/1122/showDate/19-05-2024/showTime/1930/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Funan",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 19,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:15",
+          "name": "GV Funan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "15",
+            "chainSpecific": {
+              "sequence": 16,
+              "locationCode": "15",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:10/1122/19-05-2024/2115/3",
+        "cinemaId": "gv:10",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716124500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/10/filmCode/1122/showDate/19-05-2024/showTime/2115/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Katong",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 21,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:10",
+          "name": "GV Katong",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "10",
+            "chainSpecific": {
+              "sequence": 15,
+              "locationCode": "10",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "East Coast Road #04 - 09 112",
+            "full_address": "East Coast Road #04 - 09 112, Singapore, 428802, Singapore",
+            "location": {
+              "latitude": 1.305111,
+              "longitude": 103.905067
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTphNjhmYjQ1MC1kOGZmLTQxZjktOTJkYy01NmRjZDMzY2Y1NDM",
+              "foursquare": "50798f38e4b0112fc37a90c3",
+              "safegraph": "zzy-278@cdp-wkn-b6k"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/1122/20-05-2024/1310/4",
+        "cinemaId": "gv:12",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716181800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1122/showDate/20-05-2024/showTime/1310/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 13,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:01/1122/20-05-2024/1310/5",
+        "cinemaId": "gv:01",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716181800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1122/showDate/20-05-2024/showTime/1310/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 13,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/1122/20-05-2024/1400/10",
+        "cinemaId": "gv:08",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716184800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1122/showDate/20-05-2024/showTime/1400/hallNumber/10",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "10",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 14,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:14/1122/20-05-2024/1525/6",
+        "cinemaId": "gv:14",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716189900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/14/filmCode/1122/showDate/20-05-2024/showTime/1525/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bedok",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 15,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:14",
+          "name": "GV Bedok",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "14",
+            "chainSpecific": {
+              "sequence": 17,
+              "locationCode": "14",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.324068,
+              "longitude": 103.93188
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpTc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1122/20-05-2024/1530/7",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716190200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/20-05-2024/showTime/1530/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 15,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:02/1122/20-05-2024/1600/6",
+        "cinemaId": "gv:02",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716192000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/02/filmCode/1122/showDate/20-05-2024/showTime/1600/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bishan",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 16,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:02",
+          "name": "GV Bishan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "02",
+            "chainSpecific": {
+              "sequence": 25,
+              "locationCode": "02",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.353109,
+              "longitude": 103.848303
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzphc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:13/1122/20-05-2024/1610/8",
+        "cinemaId": "gv:13",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716192600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/13/filmCode/1122/showDate/20-05-2024/showTime/1610/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Paya Lebar",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 16,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:13",
+          "name": "GV Paya Lebar",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "13",
+            "chainSpecific": {
+              "sequence": 18,
+              "locationCode": "13",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.358791,
+              "longitude": 103.915368
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCQXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:10/1122/20-05-2024/1810/3",
+        "cinemaId": "gv:10",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716199800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/10/filmCode/1122/showDate/20-05-2024/showTime/1810/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Katong",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:10",
+          "name": "GV Katong",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "10",
+            "chainSpecific": {
+              "sequence": 15,
+              "locationCode": "10",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "East Coast Road #04 - 09 112",
+            "full_address": "East Coast Road #04 - 09 112, Singapore, 428802, Singapore",
+            "location": {
+              "latitude": 1.305111,
+              "longitude": 103.905067
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTphNjhmYjQ1MC1kOGZmLTQxZjktOTJkYy01NmRjZDMzY2Y1NDM",
+              "foursquare": "50798f38e4b0112fc37a90c3",
+              "safegraph": "zzy-278@cdp-wkn-b6k"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:11/1122/20-05-2024/1820/5",
+        "cinemaId": "gv:11",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716200400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/1122/showDate/20-05-2024/showTime/1820/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV City Square",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/1122/20-05-2024/1820/5",
+        "cinemaId": "gv:01",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716200400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1122/showDate/20-05-2024/showTime/1820/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/1122/20-05-2024/1845/4",
+        "cinemaId": "gv:12",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716201900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1122/showDate/20-05-2024/showTime/1845/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1122/20-05-2024/1855/12",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716202500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/20-05-2024/showTime/1855/hallNumber/12",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "12",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:15/1122/20-05-2024/1930/6",
+        "cinemaId": "gv:15",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716204600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/15/filmCode/1122/showDate/20-05-2024/showTime/1930/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Funan",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 19,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:15",
+          "name": "GV Funan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "15",
+            "chainSpecific": {
+              "sequence": 16,
+              "locationCode": "15",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/1122/21-05-2024/1310/5",
+        "cinemaId": "gv:01",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716268200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1122/showDate/21-05-2024/showTime/1310/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 13,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/1122/21-05-2024/1440/10",
+        "cinemaId": "gv:08",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716273600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1122/showDate/21-05-2024/showTime/1440/hallNumber/10",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "10",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 14,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:13/1122/21-05-2024/1555/8",
+        "cinemaId": "gv:13",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716278100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/13/filmCode/1122/showDate/21-05-2024/showTime/1555/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Paya Lebar",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 15,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:13",
+          "name": "GV Paya Lebar",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "13",
+            "chainSpecific": {
+              "sequence": 18,
+              "locationCode": "13",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.358791,
+              "longitude": 103.915368
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCQXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1122/21-05-2024/1610/7",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716279000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/21-05-2024/showTime/1610/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 16,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/1122/21-05-2024/1800/4",
+        "cinemaId": "gv:12",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716285600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1122/showDate/21-05-2024/showTime/1800/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 18,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:02/1122/21-05-2024/1800/6",
+        "cinemaId": "gv:02",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716285600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/02/filmCode/1122/showDate/21-05-2024/showTime/1800/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bishan",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 18,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:02",
+          "name": "GV Bishan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "02",
+            "chainSpecific": {
+              "sequence": 25,
+              "locationCode": "02",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.353109,
+              "longitude": 103.848303
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzphc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:01/1122/21-05-2024/1820/5",
+        "cinemaId": "gv:01",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716286800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1122/showDate/21-05-2024/showTime/1820/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 18,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1122/21-05-2024/1825/12",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716287100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/21-05-2024/showTime/1825/hallNumber/12",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "12",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 18,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:13/1122/22-05-2024/1045/8",
+        "cinemaId": "gv:13",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716345900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/13/filmCode/1122/showDate/22-05-2024/showTime/1045/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Paya Lebar",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 10,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:13",
+          "name": "GV Paya Lebar",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "13",
+            "chainSpecific": {
+              "sequence": 18,
+              "locationCode": "13",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.358791,
+              "longitude": 103.915368
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCQXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:02/1122/22-05-2024/1115/6",
+        "cinemaId": "gv:02",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716347700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/02/filmCode/1122/showDate/22-05-2024/showTime/1115/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bishan",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 11,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:02",
+          "name": "GV Bishan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "02",
+            "chainSpecific": {
+              "sequence": 25,
+              "locationCode": "02",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.353109,
+              "longitude": 103.848303
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzphc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:114/1122/22-05-2024/1245/4",
+        "cinemaId": "gv:11",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716353100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/1122/showDate/22-05-2024/showTime/1245/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 12,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/1122/22-05-2024/1335/10",
+        "cinemaId": "gv:05",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716356100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1122/showDate/22-05-2024/showTime/1335/hallNumber/10",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "10",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 13,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1122/22-05-2024/1400/10",
+        "cinemaId": "gv:08",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716357600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1122/showDate/22-05-2024/showTime/1400/hallNumber/10",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "10",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 14,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/1122/22-05-2024/1610/1",
+        "cinemaId": "gv:01",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716365400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1122/showDate/22-05-2024/showTime/1610/hallNumber/1",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 16,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/1122/22-05-2024/2130/4",
+        "cinemaId": "gv:12",
+        "filmId": "8e73b8bb5a",
+        "unixTime": 1716384600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1122/showDate/22-05-2024/showTime/2130/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Godzilla X Kong: The New Empire",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 21,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

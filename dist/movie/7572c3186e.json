@@ -1,0 +1,2197 @@
+{
+  "movie": {
+    "id": "7572c3186e",
+    "filmTitle": "Immaculate",
+    "language": "English",
+    "sourceIds": [
+      "gv:1169"
+    ],
+    "metadata": {
+      "parental": "M18",
+      "runtime": 89,
+      "crew": {
+        "director": [
+          "Michael Mohan"
+        ],
+        "writer": [
+          "Andrew Lobel"
+        ],
+        "actors": [
+          "Sydney Sweeney",
+          "Álvaro Morte",
+          "Simona Tabasco"
+        ]
+      },
+      "plot": "Cecilia, a woman of devout faith, is warmly welcomed to the picture-perfect Italian countryside where she is offered a new role at an illustrious convent. But it becomes clear to Cecilia that her new home harbors dark and horrifyi...",
+      "awards": "1 nomination",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "6.306/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/5Eip60UDiPLASyKjmHPMruggTc4.jpg",
+      "belongs_to_collection": null,
+      "budget": 9000000,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "homepage": "https://www.immaculate.film",
+      "id": 1041613,
+      "imdb_id": "tt23137390",
+      "origin_country": [
+        "US"
+      ],
+      "original_title": "Immaculate",
+      "overview": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors.",
+      "popularity": 418.276,
+      "poster_path": "https://image.tmdb.org/t/p/original/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg",
+      "production_companies": [
+        {
+          "id": 22146,
+          "logo_path": "/jPBtpMh0AUFqf9yfOJXer9d5Rei.png",
+          "name": "Black Bear Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 184023,
+          "logo_path": "/fpMQBF9krWUG3nPN4qV6d1ibkFM.png",
+          "name": "Fifty-Fifty Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 216431,
+          "logo_path": null,
+          "name": "Middle Child Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2024-05-09T00:00:00.000Z",
+      "revenue": 22314913,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Not every intervention is divine.",
+      "title": "Immaculate",
+      "video": false,
+      "vote_average": 6.306,
+      "vote_count": 614,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "MA 15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "MA 15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-20T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BR",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CA",
+            "release_dates": [
+              {
+                "certification": "14A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-07-10T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CY",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CZ",
+            "release_dates": [
+              {
+                "certification": "15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DK",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-25T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EC",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ES",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-01T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FI",
+            "release_dates": [
+              {
+                "certification": "K-16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-03T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-20T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "III",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HU",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-08T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IL",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "14+",
+                "descriptors": [],
+                "iso_639_1": "it",
+                "note": "",
+                "release_date": "2024-07-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KR",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-07-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "LT",
+            "release_dates": [
+              {
+                "certification": "N-16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MX",
+            "release_dates": [
+              {
+                "certification": "C",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MY",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NL",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [
+                  "Violence",
+                  "Fear",
+                  "Coarse Language"
+                ],
+                "iso_639_1": "en",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NO",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-03T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PH",
+            "release_dates": [
+              {
+                "certification": "R-16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-20T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-26T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PT",
+            "release_dates": [
+              {
+                "certification": "M/16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "RU",
+            "release_dates": [
+              {
+                "certification": "18+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SE",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "M18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-09T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TH",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TR",
+            "release_dates": [
+              {
+                "certification": "16+",
+                "descriptors": [
+                  "Violence / Horror",
+                  "Negative examples"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-26T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "UA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "uk",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "South by Southwest Film & TV Festival",
+                "release_date": "2024-03-12T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Fargo Film Festival",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-16T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Blu-ray / DVD",
+                "release_date": "2024-06-11T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "11gb7q1tosI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-01-26T15:22:42.000Z",
+          "id": "65fdc09f04733f014ae704f2"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Redband Trailer",
+          "key": "ewxS9Z-XXYo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-01-25T17:01:32.000Z",
+          "id": "65b2946d1c63290152934c6d"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Love & Suffering\"",
+          "key": "AiZwPo3nbBQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "published_at": "2024-04-22T11:30:07.000Z",
+          "id": "66701e08f141795e76191f98"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Date Night",
+          "key": "BvyeARI4MtQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "published_at": "2024-04-22T11:30:01.000Z",
+          "id": "66701de927fbf805b7192915"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"The Ending\"",
+          "key": "FLUrVBvh0CY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "published_at": "2024-04-22T11:29:23.000Z",
+          "id": "66701dc46820a39a80ec1eb3"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 1041613,
+        "imdb_id": "tt23137390",
+        "wikidata_id": "Q116980365",
+        "facebook_id": "",
+        "instagram_id": "immaculatemovie",
+        "twitter_id": "ImmaculateMovie"
+      },
+      "source": {
+        "id": 1041613,
+        "api": "TMDB"
+      },
+      "language": "English"
+    },
+    "showtimes": [
+      {
+        "id": "gv:05/1169/17-05-2024/2110/5",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1715951400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/17-05-2024/showTime/2110/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "1%",
+          "hall": "5",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1169/17-05-2024/2250/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1715957400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/17-05-2024/showTime/2250/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 22,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/1169/17-05-2024/2320/5",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1715959200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/17-05-2024/showTime/2320/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 23,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/1169/18-05-2024/1330/2",
+        "cinemaId": "gv:01",
+        "filmId": "7572c3186e",
+        "unixTime": 1716010200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1169/showDate/18-05-2024/showTime/1330/hallNumber/2",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "2",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 13,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1169/18-05-2024/1335/5",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1716010500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/18-05-2024/showTime/1335/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 13,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1169/18-05-2024/1750/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1716025800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/18-05-2024/showTime/1750/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 17,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1169/18-05-2024/2250/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1716043800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/18-05-2024/showTime/2250/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 22,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/1169/18-05-2024/2255/8",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1716044100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/18-05-2024/showTime/2255/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 22,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/1169/19-05-2024/1330/5",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1716096600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/19-05-2024/showTime/1330/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 13,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/1169/19-05-2024/1330/2",
+        "cinemaId": "gv:01",
+        "filmId": "7572c3186e",
+        "unixTime": 1716096600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1169/showDate/19-05-2024/showTime/1330/hallNumber/2",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "2",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 13,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/1169/19-05-2024/1640/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1716108000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/19-05-2024/showTime/1640/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 16,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/1169/19-05-2024/2055/5",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1716123300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/19-05-2024/showTime/2055/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 20,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1169/19-05-2024/2140/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1716126000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/19-05-2024/showTime/2140/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 21,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/1169/20-05-2024/1335/5",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1716183300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/20-05-2024/showTime/1335/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 13,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1169/20-05-2024/1640/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1716194400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/20-05-2024/showTime/1640/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 16,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/1169/20-05-2024/1905/1",
+        "cinemaId": "gv:01",
+        "filmId": "7572c3186e",
+        "unixTime": 1716203100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1169/showDate/20-05-2024/showTime/1905/hallNumber/1",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 19,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/1169/20-05-2024/1940/8",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1716205200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/20-05-2024/showTime/1940/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 19,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1169/20-05-2024/2140/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1716212400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/20-05-2024/showTime/2140/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 21,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/1169/21-05-2024/1335/5",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1716269700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/21-05-2024/showTime/1335/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 13,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:08/1169/21-05-2024/1745/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1716284700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/21-05-2024/showTime/1745/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 17,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/1169/21-05-2024/1905/1",
+        "cinemaId": "gv:01",
+        "filmId": "7572c3186e",
+        "unixTime": 1716289500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1169/showDate/21-05-2024/showTime/1905/hallNumber/1",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 19,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/1169/21-05-2024/2250/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1716303000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/21-05-2024/showTime/2250/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 22,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/1169/22-05-2024/1320/5",
+        "cinemaId": "gv:05",
+        "filmId": "7572c3186e",
+        "unixTime": 1716355200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/1169/showDate/22-05-2024/showTime/1320/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 13,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:01/1169/22-05-2024/1910/2",
+        "cinemaId": "gv:01",
+        "filmId": "7572c3186e",
+        "unixTime": 1716376200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/1169/showDate/22-05-2024/showTime/1910/hallNumber/2",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "2",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 19,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/1169/22-05-2024/2140/4",
+        "cinemaId": "gv:08",
+        "filmId": "7572c3186e",
+        "unixTime": 1716385200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/1169/showDate/22-05-2024/showTime/2140/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese",
+            "Malay"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Immaculate",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 21,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      }
+    ]
+  }
+}

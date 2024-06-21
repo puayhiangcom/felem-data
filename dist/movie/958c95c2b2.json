@@ -1,0 +1,256 @@
+{
+  "movie": {
+    "id": "958c95c2b2",
+    "filmTitle": "Drift",
+    "language": "Greek, Modern (1453–)",
+    "sourceIds": [
+      "projector:ST00004192"
+    ],
+    "metadata": {
+      "parental": "NC16",
+      "runtime": 93,
+      "crew": {
+        "director": [
+          "Anthony Chen"
+        ],
+        "writer": [
+          "Susanne Farrell",
+          "Alexander Maksik"
+        ],
+        "actors": [
+          "Adonis Sklavenas",
+          "Adriana Teplytska",
+          "Aggelos Georgiadis"
+        ]
+      },
+      "plot": "Jacqueline escapes her war-torn country to a Greek island. She meets an unmoored tour guide and the two become close as they each find hope in the other.",
+      "awards": "3 nominations",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "6.042/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/5kvxM8l6DkMKQB23hMqLGMsYzkK.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "homepage": "https://drift.film",
+      "id": 977966,
+      "imdb_id": "tt20415224",
+      "origin_country": [
+        "GR"
+      ],
+      "original_title": "Drift",
+      "overview": "After fleeing civil war in Liberia, a formerly-privileged refugee is barely scraping by in her new life in Greece when she strikes up an unexpected friendship with a rootless tour guide.",
+      "popularity": 7.301,
+      "poster_path": "https://image.tmdb.org/t/p/original/4OMssa91kM2GUNrDUfcqDqxajnR.jpg",
+      "production_companies": [
+        {
+          "id": 28360,
+          "logo_path": "/juWn38bElYfPvCCu8OUR1ovDBbO.png",
+          "name": "Paradise City",
+          "origin_country": "FR"
+        },
+        {
+          "id": 76888,
+          "logo_path": "/eQzzrPMtHbgAxKgQysFH73mHaHF.png",
+          "name": "Heretic",
+          "origin_country": "GR"
+        },
+        {
+          "id": 205640,
+          "logo_path": null,
+          "name": "FortyNineSixty",
+          "origin_country": "GB"
+        },
+        {
+          "id": 7255,
+          "logo_path": "/aHu0SirjV9Mi0OrlnFWqZwy50wW.png",
+          "name": "EPT",
+          "origin_country": "GR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GR",
+          "name": "Greece"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "release_date": "2024-04-04T00:00:00.000Z",
+      "revenue": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Greek",
+          "iso_639_1": "el",
+          "name": "ελληνικά"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Drift",
+      "video": false,
+      "vote_average": 6.042,
+      "vote_count": 12,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "CA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-02T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-24T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Glasgow Film Festival",
+                "release_date": "2024-03-07T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "NC16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Sundance Film Festival",
+                "release_date": "2023-01-22T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "NR",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-09T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "NR",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-26T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "hYLgGGuFcVI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2023-10-25T16:13:29.000Z",
+          "id": "6539ab608a0e9b010b28a1f6"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 977966,
+        "imdb_id": "tt20415224",
+        "wikidata_id": "Q115702553",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 977966,
+        "api": "TMDB"
+      },
+      "language": "Greek, Modern (1453–)"
+    },
+    "showtimes": []
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "movie": {
+    "id": "a40f5c1ea6",
+    "filmTitle": "Do Aur Do Pyaar",
+    "language": "Hindi",
+    "sourceIds": [
+      "gv:8361"
+    ],
+    "metadata": {
+      "parental": "N/A",
+      "runtime": 139,
+      "crew": {
+        "director": [
+          "Shirsha Guha Thakurta"
+        ],
+        "writer": [
+          "Amrita Bagchi",
+          "Eisha Chopra",
+          "Suprotim Sengupta"
+        ],
+        "actors": [
+          "Vidya Balan",
+          "Pratik Gandhi",
+          "Ileana D'Cruz"
+        ]
+      },
+      "plot": "A couple on the brink of a breakup are cheating on each other with two sexy outsiders. Whilst they're waiting to reveal their secret and go their separate ways, life has other plans for them.",
+      "awards": "N/A",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "0/10"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/gqUsTOKpoRmczS9c3NaLhLdnwen.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "homepage": "",
+      "id": 951015,
+      "imdb_id": "tt15576290",
+      "origin_country": [
+        "IN"
+      ],
+      "original_title": "दो और दो प्यार",
+      "overview": "Kavya and Ani are a married couple. They live together, but are estranged from one another. They are both having long-standing extramarital affairs—she with Vikram and he with Nora.",
+      "popularity": 7.544,
+      "poster_path": "https://image.tmdb.org/t/p/original/2eDWmo69uPMKPzxVY5KKkf8vOMi.jpg",
+      "production_companies": [
+        {
+          "id": 113699,
+          "logo_path": null,
+          "name": "Ellipsis Entertainment",
+          "origin_country": ""
+        },
+        {
+          "id": 34088,
+          "logo_path": null,
+          "name": "Applause Entertainment",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "release_date": "2024-04-19",
+      "revenue": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Let love surprise you. Confuse you. Consume you.",
+      "title": "Do Aur Do Pyaar",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "12A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IN",
+            "release_dates": [
+              {
+                "certification": "UA",
+                "descriptors": [],
+                "iso_639_1": "hi",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Do Aur Do Pyaar - Official Trailer | Vidya B, Pratik G, Ileana D, Sendhil R | Applause Entertainment",
+          "key": "lZCWcsfc5Ho",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-04-06T06:28:06.000Z",
+          "id": "661d6e4bcb6db5016209698b"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 951015,
+        "imdb_id": "tt15576290",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 951015,
+        "api": "TMDB"
+      },
+      "language": "Hindi"
+    },
+    "showtimes": [
+      {
+        "id": "gv:11/8361/18-05-2024/1755/6",
+        "cinemaId": "gv:11",
+        "filmId": "a40f5c1ea6",
+        "unixTime": 1716026100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/8361/showDate/18-05-2024/showTime/1755/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV City Square",
+          "movieTitle": "Do Aur Do Pyaar",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 17,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:11/8361/19-05-2024/1800/6",
+        "cinemaId": "gv:11",
+        "filmId": "a40f5c1ea6",
+        "unixTime": 1716112800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/8361/showDate/19-05-2024/showTime/1800/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV City Square",
+          "movieTitle": "Do Aur Do Pyaar",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 18,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:11/8361/20-05-2024/1810/6",
+        "cinemaId": "gv:11",
+        "filmId": "a40f5c1ea6",
+        "unixTime": 1716199800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/8361/showDate/20-05-2024/showTime/1810/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV City Square",
+          "movieTitle": "Do Aur Do Pyaar",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 18,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      }
+    ]
+  }
+}
