@@ -1,0 +1,1163 @@
+{
+  "movie": {
+    "id": "331f3b99c2",
+    "filmTitle": "Abigail",
+    "language": "English",
+    "sourceIds": [
+      "gv:1146"
+    ],
+    "metadata": {
+      "parental": "M18",
+      "runtime": 109,
+      "crew": {
+        "director": [
+          "Matt Bettinelli-Olpin",
+          "Tyler Gillett"
+        ],
+        "writer": [
+          "Stephen Shields",
+          "Guy Busick"
+        ],
+        "actors": [
+          "Melissa Barrera",
+          "Dan Stevens",
+          "Alisha Weir"
+        ]
+      },
+      "plot": "After a group of criminals kidnap the ballerina daughter of a powerful underworld figure, they retreat to an isolated mansion, unaware that they're locked inside with no normal little girl.",
+      "awards": "N/A",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+      "belongs_to_collection": null,
+      "budget": 28000000,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "homepage": "https://www.abigailmovie.com",
+      "id": 1111873,
+      "imdb_id": "tt27489557",
+      "origin_country": [
+        "US"
+      ],
+      "original_title": "Abigail",
+      "overview": "A group of criminals kidnaps a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with an unusual girl.",
+      "popularity": 268.178,
+      "poster_path": "https://image.tmdb.org/t/p/original/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+      "production_companies": [
+        {
+          "id": 130448,
+          "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+          "name": "Project X Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 126588,
+          "logo_path": "/cNhOITS96oOV7SCgUHxvZlWRecx.png",
+          "name": "Radio Silence",
+          "origin_country": "US"
+        },
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 19367,
+          "logo_path": null,
+          "name": "Vinson Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2024-04-18T00:00:00.000Z",
+      "revenue": 41773515,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Children can be such monsters.",
+      "title": "Abigail",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 732,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AD",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AG",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AR",
+            "release_dates": [
+              {
+                "certification": "+16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-06T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "MA 15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-25T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BR",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [
+                  "Extreme Violence",
+                  "Inappropriate Language",
+                  "Drugs"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CZ",
+            "release_dates": [
+              {
+                "certification": "15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ES",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-07T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Blu-ray / DVD",
+                "release_date": "2024-07-09T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "III",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HU",
+            "release_dates": [
+              {
+                "certification": "18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-25T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "17+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-03T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IL",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-09T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "6+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-16T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KG",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KR",
+            "release_dates": [
+              {
+                "certification": "19",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "LT",
+            "release_dates": [
+              {
+                "certification": "N-16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MP",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-07T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MX",
+            "release_dates": [
+              {
+                "certification": "B-15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MY",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-25T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NL",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [
+                  "Violence",
+                  "Fear",
+                  "Coarse Language"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NO",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NZ",
+            "release_dates": [
+              {
+                "certification": "R16",
+                "descriptors": [],
+                "iso_639_1": "en",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PR",
+            "release_dates": [
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-07T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Blu-ray / DVD",
+                "release_date": "2024-07-09T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "RS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-16T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SE",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "M18",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "edited version",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SK",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "en",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TH",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TR",
+            "release_dates": [
+              {
+                "certification": "18+",
+                "descriptors": [
+                  "Negative examples",
+                  "Violence / Horror"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "18+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "MyVideo",
+                "release_date": "2024-06-03T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "UA",
+            "release_dates": [
+              {
+                "certification": "18+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Overlook Film Festival",
+                "release_date": "2024-04-06T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-19T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-07T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Blu-ray / DVD",
+                "release_date": "2024-07-09T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VI",
+            "release_dates": [
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-07T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Blu-ray / DVD",
+                "release_date": "2024-07-09T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2",
+          "key": "xtAL2x58hns",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-04-04T17:00:42.000Z",
+          "id": "6610d939d768fe01624180ff"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official UK Trailer",
+          "key": "yincrFV0P8s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-01-11T16:00:41.000Z",
+          "id": "6616aee06af9dd017dedc479"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "3PsP8MFH8p0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-01-11T16:00:08.000Z",
+          "id": "65a01176c14fee01216d82fe"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Yours to Own Promo",
+          "key": "0YW1m-yIDpI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "published_at": "2024-06-18T14:00:01.000Z",
+          "id": "6674e846b1b669feab8f3645"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You've Made A Mistake - Extended Preview",
+          "key": "S6BPb9PQqCk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "published_at": "2024-05-07T17:00:25.000Z",
+          "id": "663aa69823b085be4e0ac52d"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 1111873,
+        "imdb_id": "tt27489557",
+        "wikidata_id": "Q120758628",
+        "facebook_id": "AbigailMovie",
+        "instagram_id": "abigailthemovie",
+        "twitter_id": "UniversalHorror"
+      },
+      "source": {
+        "id": 1111873,
+        "api": "TMDB"
+      },
+      "language": "English"
+    },
+    "showtimes": [
+      {
+        "id": "gv:12/1146/18-05-2024/2355/6",
+        "cinemaId": "gv:12",
+        "filmId": "331f3b99c2",
+        "unixTime": 1716047700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1146/showDate/18-05-2024/showTime/2355/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Abigail",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 23,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/1146/19-05-2024/1655/5",
+        "cinemaId": "gv:12",
+        "filmId": "331f3b99c2",
+        "unixTime": 1716108900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1146/showDate/19-05-2024/showTime/1655/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Abigail",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 16,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/1146/20-05-2024/1630/5",
+        "cinemaId": "gv:12",
+        "filmId": "331f3b99c2",
+        "unixTime": 1716193800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1146/showDate/20-05-2024/showTime/1630/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Abigail",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 16,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/1146/21-05-2024/1555/5",
+        "cinemaId": "gv:12",
+        "filmId": "331f3b99c2",
+        "unixTime": 1716278100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1146/showDate/21-05-2024/showTime/1555/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Abigail",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 15,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/1146/22-05-2024/1655/5",
+        "cinemaId": "gv:12",
+        "filmId": "331f3b99c2",
+        "unixTime": 1716368100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/1146/showDate/22-05-2024/showTime/1655/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Abigail",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 16,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

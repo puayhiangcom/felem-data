@@ -1,0 +1,970 @@
+{
+  "movie": {
+    "id": "8c722336e4",
+    "filmTitle": "GU",
+    "language": "Malayalam",
+    "sourceIds": [
+      "cathay:HO00002582"
+    ],
+    "metadata": {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "homepage": "",
+      "id": 1288349,
+      "imdb_id": null,
+      "origin_country": [
+        "IN"
+      ],
+      "original_title": "Gu",
+      "overview": "Gu follows the fearless eight-year-old Minna on her first visit to her dads ancestral home where she becomes enthralled by the legend of Gulikan, a spectral presence rumored to appear anytime, day or night.  When her cousin Paru falls under the grip of an evil entity, Minna and her cousins embark on a courageous mission to banish the malevolent force",
+      "popularity": 0.531,
+      "poster_path": "https://image.tmdb.org/t/p/original/64Jg10s5g215yCMjtrPCI8oXwvo.jpg",
+      "production_companies": [
+        {
+          "id": 104087,
+          "logo_path": null,
+          "name": "Maniyanpilla Raju Productions",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "release_date": "",
+      "revenue": 0,
+      "runtime": 127,
+      "spoken_languages": [
+        {
+          "english_name": "Malayalam",
+          "iso_639_1": "ml",
+          "name": ""
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Gu",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Gu - Official Teaser | Manu Radhakrishnan | Deva Nandha | Saiju Kurup | Niranj",
+          "key": "IUjBbpSGOlg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "published_at": "2024-05-14T11:30:13.000Z",
+          "id": "664743e9bb4e314531e08cda"
+        }
+      ],
+      "release_dates": {
+        "results": []
+      },
+      "external_ids": {
+        "tmdb_id": 1288349,
+        "imdb_id": null,
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1288349,
+        "api": "TMDB"
+      },
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "0/10"
+        }
+      ],
+      "language": "Malayalam"
+    },
+    "showtimes": [
+      {
+        "id": "cathay:107045",
+        "cinemaId": "cathay:1106",
+        "filmId": "8c722336e4",
+        "unixTime": 1716618600000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1106/107045",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Downtown East",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 25,
+          "hour": 14,
+          "min": 30
+        },
+        "cinema": {
+          "id": "cathay:1106",
+          "name": "CATHAY CINEPLEX DOWNTOWN EAST",
+          "source": {
+            "chain": "cathay",
+            "id": "1106",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1106",
+              "address": "Market Square @ Downtown East 1 Pasir Ris Close Level 4, E!Hub Singapore 519599",
+              "nearestMRTStation": "EW1 Pasir Ris",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Pasir+Ris+Close,+E!Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "50 Taman Warna",
+            "full_address": "50 Taman Warna, Singapore, 276382, Singapore",
+            "location": {
+              "latitude": 1.310245,
+              "longitude": 103.797967
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmZDM4OGQyOS1lNDQ3LTQ0ZWMtYjkzNC00ZWYyZGRjODQ3OTU",
+              "foursquare": "e98321910180439051901126"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:169117",
+        "cinemaId": "cathay:1105",
+        "filmId": "8c722336e4",
+        "unixTime": 1716625200000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1105/169117",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "AMK Hub",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 25,
+          "hour": 16,
+          "min": 20
+        },
+        "cinema": {
+          "id": "cathay:1105",
+          "name": "CATHAY CINEPLEX AMK HUB",
+          "source": {
+            "chain": "cathay",
+            "id": "1105",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1105",
+              "address": "53 Ang Mo Kio Ave 3 Level 4, AMK Hub Singapore 569933",
+              "nearestMRTStation": "NS16 Ang Mo Kio",
+              "gMapsLink": "https://maps.google.com/maps?q=53+Ang+Mo+Kio+Ave+3,+AMK+Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "53 Ang Mo Kio Avenue 3",
+            "full_address": "53 Ang Mo Kio Avenue 3, Ang Mo Kio, Singapore 567751",
+            "location": {
+              "latitude": 1.369393,
+              "longitude": 103.848462
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjg3OWU4NS02NzJkLTQ4YWEtYjgwZC0xOTQ1ZWRkNjk3Yzg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:138399",
+        "cinemaId": "cathay:1102",
+        "filmId": "8c722336e4",
+        "unixTime": 1716640800000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1102/138399",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Causeway Point",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 25,
+          "hour": 20,
+          "min": 40
+        },
+        "cinema": {
+          "id": "cathay:1102",
+          "name": "CATHAY CINEPLEX CAUSEWAY POINT",
+          "source": {
+            "chain": "cathay",
+            "id": "1102",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1102",
+              "address": "1 Woodlands Square Level 7, Causeway Point Singapore 738099",
+              "nearestMRTStation": "NS9 TE2 Woodlands",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Woodlands+Square,+Causeway+Point,+Singapore+738099"
+            }
+          },
+          "metadata": {
+            "address": "1 Woodlands Square",
+            "full_address": "1 Woodlands Square, Woodlands, Singapore 738099",
+            "location": {
+              "latitude": 1.435976,
+              "longitude": 103.785999
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo4MDJmY2NjNS0xNTI2LTQ2NDktYjY5YS02ZmIwOTY1ZjQwNTg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:106968",
+        "cinemaId": "cathay:1106",
+        "filmId": "8c722336e4",
+        "unixTime": 1716707700000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1106/106968",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Downtown East",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 26,
+          "hour": 15,
+          "min": 15
+        },
+        "cinema": {
+          "id": "cathay:1106",
+          "name": "CATHAY CINEPLEX DOWNTOWN EAST",
+          "source": {
+            "chain": "cathay",
+            "id": "1106",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1106",
+              "address": "Market Square @ Downtown East 1 Pasir Ris Close Level 4, E!Hub Singapore 519599",
+              "nearestMRTStation": "EW1 Pasir Ris",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Pasir+Ris+Close,+E!Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "50 Taman Warna",
+            "full_address": "50 Taman Warna, Singapore, 276382, Singapore",
+            "location": {
+              "latitude": 1.310245,
+              "longitude": 103.797967
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmZDM4OGQyOS1lNDQ3LTQ0ZWMtYjkzNC00ZWYyZGRjODQ3OTU",
+              "foursquare": "e98321910180439051901126"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:169102",
+        "cinemaId": "cathay:1105",
+        "filmId": "8c722336e4",
+        "unixTime": 1716710400000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1105/169102",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "AMK Hub",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 26,
+          "hour": 16,
+          "min": 0
+        },
+        "cinema": {
+          "id": "cathay:1105",
+          "name": "CATHAY CINEPLEX AMK HUB",
+          "source": {
+            "chain": "cathay",
+            "id": "1105",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1105",
+              "address": "53 Ang Mo Kio Ave 3 Level 4, AMK Hub Singapore 569933",
+              "nearestMRTStation": "NS16 Ang Mo Kio",
+              "gMapsLink": "https://maps.google.com/maps?q=53+Ang+Mo+Kio+Ave+3,+AMK+Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "53 Ang Mo Kio Avenue 3",
+            "full_address": "53 Ang Mo Kio Avenue 3, Ang Mo Kio, Singapore 567751",
+            "location": {
+              "latitude": 1.369393,
+              "longitude": 103.848462
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjg3OWU4NS02NzJkLTQ4YWEtYjgwZC0xOTQ1ZWRkNjk3Yzg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:138400",
+        "cinemaId": "cathay:1102",
+        "filmId": "8c722336e4",
+        "unixTime": 1716711600000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1102/138400",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Causeway Point",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 26,
+          "hour": 16,
+          "min": 20
+        },
+        "cinema": {
+          "id": "cathay:1102",
+          "name": "CATHAY CINEPLEX CAUSEWAY POINT",
+          "source": {
+            "chain": "cathay",
+            "id": "1102",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1102",
+              "address": "1 Woodlands Square Level 7, Causeway Point Singapore 738099",
+              "nearestMRTStation": "NS9 TE2 Woodlands",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Woodlands+Square,+Causeway+Point,+Singapore+738099"
+            }
+          },
+          "metadata": {
+            "address": "1 Woodlands Square",
+            "full_address": "1 Woodlands Square, Woodlands, Singapore 738099",
+            "location": {
+              "latitude": 1.435976,
+              "longitude": 103.785999
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo4MDJmY2NjNS0xNTI2LTQ2NDktYjY5YS02ZmIwOTY1ZjQwNTg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:169104",
+        "cinemaId": "cathay:1105",
+        "filmId": "8c722336e4",
+        "unixTime": 1716796800000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1105/169104",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "AMK Hub",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 27,
+          "hour": 16,
+          "min": 0
+        },
+        "cinema": {
+          "id": "cathay:1105",
+          "name": "CATHAY CINEPLEX AMK HUB",
+          "source": {
+            "chain": "cathay",
+            "id": "1105",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1105",
+              "address": "53 Ang Mo Kio Ave 3 Level 4, AMK Hub Singapore 569933",
+              "nearestMRTStation": "NS16 Ang Mo Kio",
+              "gMapsLink": "https://maps.google.com/maps?q=53+Ang+Mo+Kio+Ave+3,+AMK+Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "53 Ang Mo Kio Avenue 3",
+            "full_address": "53 Ang Mo Kio Avenue 3, Ang Mo Kio, Singapore 567751",
+            "location": {
+              "latitude": 1.369393,
+              "longitude": 103.848462
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjg3OWU4NS02NzJkLTQ4YWEtYjgwZC0xOTQ1ZWRkNjk3Yzg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:138401",
+        "cinemaId": "cathay:1102",
+        "filmId": "8c722336e4",
+        "unixTime": 1716811800000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1102/138401",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Causeway Point",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 27,
+          "hour": 20,
+          "min": 10
+        },
+        "cinema": {
+          "id": "cathay:1102",
+          "name": "CATHAY CINEPLEX CAUSEWAY POINT",
+          "source": {
+            "chain": "cathay",
+            "id": "1102",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1102",
+              "address": "1 Woodlands Square Level 7, Causeway Point Singapore 738099",
+              "nearestMRTStation": "NS9 TE2 Woodlands",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Woodlands+Square,+Causeway+Point,+Singapore+738099"
+            }
+          },
+          "metadata": {
+            "address": "1 Woodlands Square",
+            "full_address": "1 Woodlands Square, Woodlands, Singapore 738099",
+            "location": {
+              "latitude": 1.435976,
+              "longitude": 103.785999
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo4MDJmY2NjNS0xNTI2LTQ2NDktYjY5YS02ZmIwOTY1ZjQwNTg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:106910",
+        "cinemaId": "cathay:1106",
+        "filmId": "8c722336e4",
+        "unixTime": 1716813000000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1106/106910",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Downtown East",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 27,
+          "hour": 20,
+          "min": 30
+        },
+        "cinema": {
+          "id": "cathay:1106",
+          "name": "CATHAY CINEPLEX DOWNTOWN EAST",
+          "source": {
+            "chain": "cathay",
+            "id": "1106",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1106",
+              "address": "Market Square @ Downtown East 1 Pasir Ris Close Level 4, E!Hub Singapore 519599",
+              "nearestMRTStation": "EW1 Pasir Ris",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Pasir+Ris+Close,+E!Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "50 Taman Warna",
+            "full_address": "50 Taman Warna, Singapore, 276382, Singapore",
+            "location": {
+              "latitude": 1.310245,
+              "longitude": 103.797967
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmZDM4OGQyOS1lNDQ3LTQ0ZWMtYjkzNC00ZWYyZGRjODQ3OTU",
+              "foursquare": "e98321910180439051901126"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:169105",
+        "cinemaId": "cathay:1105",
+        "filmId": "8c722336e4",
+        "unixTime": 1716814800000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1105/169105",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "AMK Hub",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 27,
+          "hour": 21,
+          "min": 0
+        },
+        "cinema": {
+          "id": "cathay:1105",
+          "name": "CATHAY CINEPLEX AMK HUB",
+          "source": {
+            "chain": "cathay",
+            "id": "1105",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1105",
+              "address": "53 Ang Mo Kio Ave 3 Level 4, AMK Hub Singapore 569933",
+              "nearestMRTStation": "NS16 Ang Mo Kio",
+              "gMapsLink": "https://maps.google.com/maps?q=53+Ang+Mo+Kio+Ave+3,+AMK+Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "53 Ang Mo Kio Avenue 3",
+            "full_address": "53 Ang Mo Kio Avenue 3, Ang Mo Kio, Singapore 567751",
+            "location": {
+              "latitude": 1.369393,
+              "longitude": 103.848462
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjg3OWU4NS02NzJkLTQ4YWEtYjgwZC0xOTQ1ZWRkNjk3Yzg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:169106",
+        "cinemaId": "cathay:1105",
+        "filmId": "8c722336e4",
+        "unixTime": 1716883200000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1105/169106",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "AMK Hub",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 28,
+          "hour": 16,
+          "min": 0
+        },
+        "cinema": {
+          "id": "cathay:1105",
+          "name": "CATHAY CINEPLEX AMK HUB",
+          "source": {
+            "chain": "cathay",
+            "id": "1105",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1105",
+              "address": "53 Ang Mo Kio Ave 3 Level 4, AMK Hub Singapore 569933",
+              "nearestMRTStation": "NS16 Ang Mo Kio",
+              "gMapsLink": "https://maps.google.com/maps?q=53+Ang+Mo+Kio+Ave+3,+AMK+Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "53 Ang Mo Kio Avenue 3",
+            "full_address": "53 Ang Mo Kio Avenue 3, Ang Mo Kio, Singapore 567751",
+            "location": {
+              "latitude": 1.369393,
+              "longitude": 103.848462
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjg3OWU4NS02NzJkLTQ4YWEtYjgwZC0xOTQ1ZWRkNjk3Yzg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:138402",
+        "cinemaId": "cathay:1102",
+        "filmId": "8c722336e4",
+        "unixTime": 1716898200000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1102/138402",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Causeway Point",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 28,
+          "hour": 20,
+          "min": 10
+        },
+        "cinema": {
+          "id": "cathay:1102",
+          "name": "CATHAY CINEPLEX CAUSEWAY POINT",
+          "source": {
+            "chain": "cathay",
+            "id": "1102",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1102",
+              "address": "1 Woodlands Square Level 7, Causeway Point Singapore 738099",
+              "nearestMRTStation": "NS9 TE2 Woodlands",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Woodlands+Square,+Causeway+Point,+Singapore+738099"
+            }
+          },
+          "metadata": {
+            "address": "1 Woodlands Square",
+            "full_address": "1 Woodlands Square, Woodlands, Singapore 738099",
+            "location": {
+              "latitude": 1.435976,
+              "longitude": 103.785999
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo4MDJmY2NjNS0xNTI2LTQ2NDktYjY5YS02ZmIwOTY1ZjQwNTg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:107094",
+        "cinemaId": "cathay:1106",
+        "filmId": "8c722336e4",
+        "unixTime": 1716899400000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1106/107094",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Downtown East",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 28,
+          "hour": 20,
+          "min": 30
+        },
+        "cinema": {
+          "id": "cathay:1106",
+          "name": "CATHAY CINEPLEX DOWNTOWN EAST",
+          "source": {
+            "chain": "cathay",
+            "id": "1106",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1106",
+              "address": "Market Square @ Downtown East 1 Pasir Ris Close Level 4, E!Hub Singapore 519599",
+              "nearestMRTStation": "EW1 Pasir Ris",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Pasir+Ris+Close,+E!Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "50 Taman Warna",
+            "full_address": "50 Taman Warna, Singapore, 276382, Singapore",
+            "location": {
+              "latitude": 1.310245,
+              "longitude": 103.797967
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmZDM4OGQyOS1lNDQ3LTQ0ZWMtYjkzNC00ZWYyZGRjODQ3OTU",
+              "foursquare": "e98321910180439051901126"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:169107",
+        "cinemaId": "cathay:1105",
+        "filmId": "8c722336e4",
+        "unixTime": 1716901200000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1105/169107",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "AMK Hub",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 28,
+          "hour": 21,
+          "min": 0
+        },
+        "cinema": {
+          "id": "cathay:1105",
+          "name": "CATHAY CINEPLEX AMK HUB",
+          "source": {
+            "chain": "cathay",
+            "id": "1105",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1105",
+              "address": "53 Ang Mo Kio Ave 3 Level 4, AMK Hub Singapore 569933",
+              "nearestMRTStation": "NS16 Ang Mo Kio",
+              "gMapsLink": "https://maps.google.com/maps?q=53+Ang+Mo+Kio+Ave+3,+AMK+Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "53 Ang Mo Kio Avenue 3",
+            "full_address": "53 Ang Mo Kio Avenue 3, Ang Mo Kio, Singapore 567751",
+            "location": {
+              "latitude": 1.369393,
+              "longitude": 103.848462
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjg3OWU4NS02NzJkLTQ4YWEtYjgwZC0xOTQ1ZWRkNjk3Yzg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:169108",
+        "cinemaId": "cathay:1105",
+        "filmId": "8c722336e4",
+        "unixTime": 1716969600000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1105/169108",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "AMK Hub",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 29,
+          "hour": 16,
+          "min": 0
+        },
+        "cinema": {
+          "id": "cathay:1105",
+          "name": "CATHAY CINEPLEX AMK HUB",
+          "source": {
+            "chain": "cathay",
+            "id": "1105",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1105",
+              "address": "53 Ang Mo Kio Ave 3 Level 4, AMK Hub Singapore 569933",
+              "nearestMRTStation": "NS16 Ang Mo Kio",
+              "gMapsLink": "https://maps.google.com/maps?q=53+Ang+Mo+Kio+Ave+3,+AMK+Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "53 Ang Mo Kio Avenue 3",
+            "full_address": "53 Ang Mo Kio Avenue 3, Ang Mo Kio, Singapore 567751",
+            "location": {
+              "latitude": 1.369393,
+              "longitude": 103.848462
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjozNjg3OWU4NS02NzJkLTQ4YWEtYjgwZC0xOTQ1ZWRkNjk3Yzg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:138403",
+        "cinemaId": "cathay:1102",
+        "filmId": "8c722336e4",
+        "unixTime": 1716984600000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1102/138403",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Causeway Point",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 29,
+          "hour": 20,
+          "min": 10
+        },
+        "cinema": {
+          "id": "cathay:1102",
+          "name": "CATHAY CINEPLEX CAUSEWAY POINT",
+          "source": {
+            "chain": "cathay",
+            "id": "1102",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1102",
+              "address": "1 Woodlands Square Level 7, Causeway Point Singapore 738099",
+              "nearestMRTStation": "NS9 TE2 Woodlands",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Woodlands+Square,+Causeway+Point,+Singapore+738099"
+            }
+          },
+          "metadata": {
+            "address": "1 Woodlands Square",
+            "full_address": "1 Woodlands Square, Woodlands, Singapore 738099",
+            "location": {
+              "latitude": 1.435976,
+              "longitude": 103.785999
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkcjo4MDJmY2NjNS0xNTI2LTQ2NDktYjY5YS02ZmIwOTY1ZjQwNTg"
+            }
+          }
+        }
+      },
+      {
+        "id": "cathay:107119",
+        "cinemaId": "cathay:1106",
+        "filmId": "8c722336e4",
+        "unixTime": 1716985800000,
+        "link": "https://www.cathaycineplexes.com.sg/ticketing/1106/107119",
+        "ticketType": {
+          "type": "S",
+          "label": "Standard"
+        },
+        "movieFormat": "Digital",
+        "chainSpecific": {
+          "subtitles": "Eng Sub",
+          "soldOut": "false",
+          "cinemaName": "Downtown East",
+          "movieTitle": "GU-Malayalam-PG13",
+          "movieFullTitle": "GU (Malayalam) PG13 *"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 29,
+          "hour": 20,
+          "min": 30
+        },
+        "cinema": {
+          "id": "cathay:1106",
+          "name": "CATHAY CINEPLEX DOWNTOWN EAST",
+          "source": {
+            "chain": "cathay",
+            "id": "1106",
+            "chainSpecific": {
+              "url": "https://www.cathaycineplexes.com.sg/cinemas/1106",
+              "address": "Market Square @ Downtown East 1 Pasir Ris Close Level 4, E!Hub Singapore 519599",
+              "nearestMRTStation": "EW1 Pasir Ris",
+              "gMapsLink": "https://maps.google.com/maps?q=1+Pasir+Ris+Close,+E!Hub,+Singapore+569933"
+            }
+          },
+          "metadata": {
+            "address": "50 Taman Warna",
+            "full_address": "50 Taman Warna, Singapore, 276382, Singapore",
+            "location": {
+              "latitude": 1.310245,
+              "longitude": 103.797967
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmZDM4OGQyOS1lNDQ3LTQ0ZWMtYjkzNC00ZWYyZGRjODQ3OTU",
+              "foursquare": "e98321910180439051901126"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

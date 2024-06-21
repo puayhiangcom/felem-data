@@ -1,0 +1,1079 @@
+{
+  "movie": {
+    "id": "61f5f4082a",
+    "filmTitle": "Perfect Days",
+    "language": "Japanese",
+    "sourceIds": [
+      "projector:ST00004100"
+    ],
+    "metadata": {
+      "parental": "PG",
+      "runtime": 124,
+      "crew": {
+        "director": [
+          "Wim Wenders"
+        ],
+        "writer": [
+          "Wim Wenders",
+          "Takuma Takasaki"
+        ],
+        "actors": [
+          "Koji Yakusho",
+          "Tokio Emoto",
+          "Arisa Nakano"
+        ]
+      },
+      "plot": "Hirayama cleans public toilets in Tokyo, lives his life in simplicity and daily tranquility. Some encounters also lead him to reflect on himself.",
+      "awards": "Nominated for 1 Oscar. 8 wins & 36 nominations total",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "7.819/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/7WBIaphEm09Z8WFBo85kWGxYYkk.jpg",
+      "belongs_to_collection": null,
+      "budget": 14000000,
+      "genres": [
+        "Drama"
+      ],
+      "homepage": "https://neonrated.com/films/perfect-days",
+      "id": 976893,
+      "imdb_id": "tt27503384",
+      "origin_country": [
+        "JP"
+      ],
+      "original_title": "PERFECT DAYS",
+      "overview": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
+      "popularity": 135.95,
+      "poster_path": "https://image.tmdb.org/t/p/original/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
+      "production_companies": [
+        {
+          "id": 197904,
+          "logo_path": null,
+          "name": "Master Mind",
+          "origin_country": "JP"
+        },
+        {
+          "id": 197905,
+          "logo_path": null,
+          "name": "Wenders Images",
+          "origin_country": "DE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2024-02-08T00:00:00.000Z",
+      "revenue": 24094016,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Perfect Days",
+      "video": false,
+      "vote_average": 7.819,
+      "vote_count": 877,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AT",
+            "release_dates": [
+              {
+                "certification": "AA",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-12-22T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Sydney Film Festival",
+                "release_date": "2023-06-12T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Rio de Janeiro International Film Festival",
+                "release_date": "2023-10-06T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Toronto International Film Festival",
+                "release_date": "2023-09-07T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-16T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "The Criterion Collection 4K/Blu-Ray",
+                "release_date": "2024-07-16T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Zurich Film Festival",
+                "release_date": "2023-09-28T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "German-speaking Switzerland",
+                "release_date": "2023-12-21T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Romandy",
+                "release_date": "2023-11-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Beijing International Film Festival （4K）",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Shanghai International Film Festival",
+                "release_date": "2024-06-14T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "大陆流媒体上线",
+                "release_date": "2024-04-03T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CZ",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Karlovy Vary International Film Festival",
+                "release_date": "2023-07-03T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "12+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "0",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-12-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-12-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ES",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-01-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Cannes Film Festival",
+                "release_date": "2023-05-25T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "TP",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-11-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "BFI London Film Festival",
+                "release_date": "2023-10-11T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-23T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "MUBI",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "DVD/Blu-ray",
+                "release_date": "2024-05-27T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "IIA",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Hong Kong Asian Film Festival",
+                "release_date": "2023-10-26T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "IIA",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-01-25T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Jakarta World Cinema Week",
+                "release_date": "2023-11-16T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Jogja-NETPAC Asian Film Festival",
+                "release_date": "2023-11-27T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Japanese Film Festival",
+                "release_date": "2023-11-18T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "KlikFilm",
+                "release_date": "2024-04-05T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-09T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "MUBI",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-02T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Jio MAMI Film Festival",
+                "release_date": "2023-10-27T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "MUBI",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "T",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-01-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "JP",
+            "release_dates": [
+              {
+                "certification": "G",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-12-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Cinecube Premiere Festival",
+                "release_date": "2023-12-02T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-07-03T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "LT",
+            "release_dates": [
+              {
+                "certification": "N-13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-12-22T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Žmonės Cinema",
+                "release_date": "2024-04-25T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MX",
+            "release_dates": [
+              {
+                "certification": "A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-14T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "MUBI",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NL",
+            "release_dates": [
+              {
+                "certification": "AL",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-12-14T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NZ",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "New Zealand International Film Festival",
+                "release_date": "2023-07-20T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Lima Film Festival",
+                "release_date": "2023-08-11T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "QCinema International Film Festival",
+                "release_date": "2023-11-18T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PT",
+            "release_dates": [
+              {
+                "certification": "M/12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2023-12-14T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SE",
+            "release_dates": [
+              {
+                "certification": "Btl",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-01-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-08T00:00:00.000Z",
+                "type": 2
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-01T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Istanbul Film Festival",
+                "release_date": "2024-04-23T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "MUBI",
+                "release_date": "2024-04-12T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "0+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Taipei Golden Horse Film Festival",
+                "release_date": "2023-11-24T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "0+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-08T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "UA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "New German Cinema Festival",
+                "release_date": "2023-11-11T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-01T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Telluride Film Festival",
+                "release_date": "2023-09-01T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "New York Film Festival",
+                "release_date": "2023-10-11T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Philadelphia Film Festival",
+                "release_date": "2023-10-25T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "AFI Fest",
+                "release_date": "2023-10-28T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "New York City, NY",
+                "release_date": "2023-11-10T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "New York City, NY / Los Angeles, CA",
+                "release_date": "2024-02-07T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-05T00:00:00.000Z",
+                "type": 4
+              },
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "The Criterion Collection 4K/Blu-Ray",
+                "release_date": "2024-07-16T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official International Trailer [Subtitled]",
+          "key": "Iv8YO5BXCAQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-01-22T12:01:31.000Z",
+          "id": "65ae731909c24c010a826406"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official US Trailer [Subtitled]",
+          "key": "QzZBbX5A1FA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2023-11-09T15:00:08.000Z",
+          "id": "654cf437d4653700e1a6b8b3"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer [Subtitled]",
+          "key": "HTgWYojq-z8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2023-05-20T13:50:47.000Z",
+          "id": "6468d4aad18572014030e511"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Koji Yakusho and Takuma Takasaki on Perfect Days at NYFF61",
+          "key": "CPfV5c6hFsE",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Featurette",
+          "official": true,
+          "published_at": "2023-10-16T19:34:47.000Z",
+          "id": "652d942a0cb33516f74890de"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip - Next Time Is Next Time. Now Is Now. [Subtitled]",
+          "key": "F24IoeMlM3Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "published_at": "2024-04-04T04:50:15.000Z",
+          "id": "660eaf5915dea0017c37c006"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 976893,
+        "imdb_id": "tt27503384",
+        "wikidata_id": "Q117663112",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 976893,
+        "api": "TMDB"
+      },
+      "language": "Japanese"
+    },
+    "showtimes": [
+      {
+        "id": "projector:25542",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "61f5f4082a",
+        "unixTime": 1716725400000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25542?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "FRI after 6pm/SAT/SUN",
+          "type": "FRI after 6pm/SAT/SUN"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "Perfect Days",
+          "ScreenId": 8,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-05-26T20:10:00",
+          "FeatureStartTime": "2024-05-26T20:20:00",
+          "FeatureEndTime": "2024-05-26T22:23:00",
+          "CleanupEndTime": "2024-05-26T22:33:00",
+          "SeatsAvailable": 101,
+          "SeatsHeld": 0,
+          "SeatsHouse": 0,
+          "SeatsSold": 6,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 8,
+          "accessibility": [
+            "wheelchair"
+          ],
+          "venueTitle": "Golden Mile: Blue Room",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004100",
+          "filmURL": "https://theprojector.sg/films-and-events/perfect-days/",
+          "filmfilmTitle": "Perfect Days",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 26,
+          "hour": 20,
+          "min": 10
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

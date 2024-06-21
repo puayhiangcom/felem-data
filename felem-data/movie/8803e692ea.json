@@ -1,0 +1,761 @@
+{
+  "movie": {
+    "id": "8803e692ea",
+    "filmTitle": "Crew",
+    "language": "Hindi",
+    "sourceIds": [
+      "gv:8357"
+    ],
+    "metadata": {
+      "parental": "N/A",
+      "runtime": 124,
+      "crew": {
+        "director": [
+          "Rajesh A Krishnan"
+        ],
+        "writer": [
+          "Nidhi Mehra",
+          "Mehul Suri"
+        ],
+        "actors": [
+          "Tabu",
+          "Kareena Kapoor",
+          "Kriti Sanon"
+        ]
+      },
+      "plot": "Follows three hard-working women as their destinies lead to some unwarranted situations and they end up caught in a web of lies.",
+      "awards": "N/A",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/4kX80Ea98cEy2Ahy0LSMYtFvJDG.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "homepage": "",
+      "id": 1045931,
+      "imdb_id": "tt21383812",
+      "origin_country": [
+        "IN"
+      ],
+      "original_title": "Crew",
+      "overview": "Three ordinary air hostesses from Mumbai embark on a journey to pursue their dreams but find themselves caught up in unexpected misfortunes.",
+      "popularity": 117.719,
+      "poster_path": "https://image.tmdb.org/t/p/original/7aYI3oubXqbqI9IZ2OedNieVzi5.jpg",
+      "production_companies": [
+        {
+          "id": 3750,
+          "logo_path": "/4YRT7sNsvvULDZclOcJkvNpDGOb.png",
+          "name": "Balaji Motion Pictures",
+          "origin_country": "IN"
+        },
+        {
+          "id": 221540,
+          "logo_path": null,
+          "name": "Anil Kapoor Film & Communication Network (IN)",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "release_date": "2024-03-29",
+      "revenue": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Risk it. Fake it. Steal it.",
+      "title": "Crew",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 23,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "12A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IN",
+            "release_dates": [
+              {
+                "certification": "UA",
+                "descriptors": [],
+                "iso_639_1": "hi",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "hi",
+                "note": "Netflix",
+                "release_date": "2024-05-24T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MY",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Crew | Trailer | Tabu, Kareena Kapoor Khan, Kriti Sanon, Diljit Dosanjh, Kapil Sharma | March 29",
+          "key": "3uvfq4Cu8R8",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-03-16T10:30:01.000Z",
+          "id": "65f6eacdeb79c2016352b904"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer [Subtitled]",
+          "key": "LH6sHR86t-M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-05-23T11:30:00.000Z",
+          "id": "664fdacd691dda35fb066c33"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Crew | Teaser | Tabu, Kareena Kapoor Khan, Kriti Sanon, Diljit Dosanjh, Kapil Sharma | March 29",
+          "key": "P-qozw4K87s",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": true,
+          "published_at": "2024-02-24T10:30:04.000Z",
+          "id": "65d9fecf72d8550162bbcf28"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 1045931,
+        "imdb_id": "tt21383812",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1045931,
+        "api": "TMDB"
+      },
+      "language": "Hindi"
+    },
+    "showtimes": [
+      {
+        "id": "gv:10/8357/17-05-2024/2055/5",
+        "cinemaId": "gv:10",
+        "filmId": "8803e692ea",
+        "unixTime": 1715950500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/10/filmCode/8357/showDate/17-05-2024/showTime/2055/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Katong",
+          "movieTitle": "Crew",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 20,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:10",
+          "name": "GV Katong",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "10",
+            "chainSpecific": {
+              "sequence": 15,
+              "locationCode": "10",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "East Coast Road #04 - 09 112",
+            "full_address": "East Coast Road #04 - 09 112, Singapore, 428802, Singapore",
+            "location": {
+              "latitude": 1.305111,
+              "longitude": 103.905067
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTphNjhmYjQ1MC1kOGZmLTQxZjktOTJkYy01NmRjZDMzY2Y1NDM",
+              "foursquare": "50798f38e4b0112fc37a90c3",
+              "safegraph": "zzy-278@cdp-wkn-b6k"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:114/8357/18-05-2024/1545/4",
+        "cinemaId": "gv:11",
+        "filmId": "8803e692ea",
+        "unixTime": 1716018300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/8357/showDate/18-05-2024/showTime/1545/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Crew",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 15,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:10/8357/18-05-2024/2055/5",
+        "cinemaId": "gv:10",
+        "filmId": "8803e692ea",
+        "unixTime": 1716036900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/10/filmCode/8357/showDate/18-05-2024/showTime/2055/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Katong",
+          "movieTitle": "Crew",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 20,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:10",
+          "name": "GV Katong",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "10",
+            "chainSpecific": {
+              "sequence": 15,
+              "locationCode": "10",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "East Coast Road #04 - 09 112",
+            "full_address": "East Coast Road #04 - 09 112, Singapore, 428802, Singapore",
+            "location": {
+              "latitude": 1.305111,
+              "longitude": 103.905067
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTphNjhmYjQ1MC1kOGZmLTQxZjktOTJkYy01NmRjZDMzY2Y1NDM",
+              "foursquare": "50798f38e4b0112fc37a90c3",
+              "safegraph": "zzy-278@cdp-wkn-b6k"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:114/8357/19-05-2024/1550/4",
+        "cinemaId": "gv:11",
+        "filmId": "8803e692ea",
+        "unixTime": 1716105000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/8357/showDate/19-05-2024/showTime/1550/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Crew",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 15,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:10/8357/19-05-2024/2055/5",
+        "cinemaId": "gv:10",
+        "filmId": "8803e692ea",
+        "unixTime": 1716123300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/10/filmCode/8357/showDate/19-05-2024/showTime/2055/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Katong",
+          "movieTitle": "Crew",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 20,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:10",
+          "name": "GV Katong",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "10",
+            "chainSpecific": {
+              "sequence": 15,
+              "locationCode": "10",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "East Coast Road #04 - 09 112",
+            "full_address": "East Coast Road #04 - 09 112, Singapore, 428802, Singapore",
+            "location": {
+              "latitude": 1.305111,
+              "longitude": 103.905067
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTphNjhmYjQ1MC1kOGZmLTQxZjktOTJkYy01NmRjZDMzY2Y1NDM",
+              "foursquare": "50798f38e4b0112fc37a90c3",
+              "safegraph": "zzy-278@cdp-wkn-b6k"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:114/8357/20-05-2024/1515/4",
+        "cinemaId": "gv:11",
+        "filmId": "8803e692ea",
+        "unixTime": 1716189300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/8357/showDate/20-05-2024/showTime/1515/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Crew",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 15,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:10/8357/20-05-2024/2055/5",
+        "cinemaId": "gv:10",
+        "filmId": "8803e692ea",
+        "unixTime": 1716209700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/10/filmCode/8357/showDate/20-05-2024/showTime/2055/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Katong",
+          "movieTitle": "Crew",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 20,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:10",
+          "name": "GV Katong",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "10",
+            "chainSpecific": {
+              "sequence": 15,
+              "locationCode": "10",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "East Coast Road #04 - 09 112",
+            "full_address": "East Coast Road #04 - 09 112, Singapore, 428802, Singapore",
+            "location": {
+              "latitude": 1.305111,
+              "longitude": 103.905067
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTphNjhmYjQ1MC1kOGZmLTQxZjktOTJkYy01NmRjZDMzY2Y1NDM",
+              "foursquare": "50798f38e4b0112fc37a90c3",
+              "safegraph": "zzy-278@cdp-wkn-b6k"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:114/8357/21-05-2024/1515/4",
+        "cinemaId": "gv:11",
+        "filmId": "8803e692ea",
+        "unixTime": 1716275700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/8357/showDate/21-05-2024/showTime/1515/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Crew",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 15,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:114/8357/22-05-2024/1835/4",
+        "cinemaId": "gv:11",
+        "filmId": "8803e692ea",
+        "unixTime": 1716374100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/11/filmCode/8357/showDate/22-05-2024/showTime/1835/hallNumber/4",
+        "ticketType": {
+          "label": "Gemini",
+          "type": "C"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "Gemini City Square",
+          "movieTitle": "Crew",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 18,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:11",
+          "name": "GV City Square",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "11",
+            "chainSpecific": {
+              "sequence": 26,
+              "locationCode": "11",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      }
+    ]
+  }
+}

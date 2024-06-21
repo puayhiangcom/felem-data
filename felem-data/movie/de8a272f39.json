@@ -1,0 +1,898 @@
+{
+  "movie": {
+    "id": "de8a272f39",
+    "filmTitle": "How To Make Millions Before Grandma Dies",
+    "language": "Thai",
+    "sourceIds": [
+      "projector:ST00004330"
+    ],
+    "metadata": {
+      "adult": false,
+      "backdrop_path": "/3Xk8Agkn05SIjX1dnj2l2Mohytd.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Drama"
+      ],
+      "homepage": "",
+      "id": 1103621,
+      "imdb_id": "tt31392609",
+      "origin_country": [
+        "TH"
+      ],
+      "original_title": "หลานม่า",
+      "overview": "A man quits work to care for dying grandmother, motivated by her fortune. He schemes to win her favor before she passes.",
+      "popularity": 98.484,
+      "poster_path": "https://image.tmdb.org/t/p/original/aAnTgKWZ8UdMQTc9EebMLkowqhm.jpg",
+      "production_companies": [
+        {
+          "id": 93758,
+          "logo_path": "/g5TvAwkWnZyoZtVTpGo9eQT2EQ1.png",
+          "name": "GDH 559",
+          "origin_country": "TH"
+        },
+        {
+          "id": 8450,
+          "logo_path": "/A9Fyxru0SLt09ygbqahW4z2i6y4.png",
+          "name": "Jor Kwang Films",
+          "origin_country": "TH"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "TH",
+          "name": "Thailand"
+        }
+      ],
+      "release_date": "2024-05-30T00:00:00.000Z",
+      "revenue": 36800000,
+      "runtime": 126,
+      "spoken_languages": [
+        {
+          "english_name": "Thai",
+          "iso_639_1": "th",
+          "name": "ภาษาไทย"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Never underestimate a grandma's love for her family.",
+      "title": "How to Make Millions Before Grandma Dies",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 13,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-07-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-08T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-13T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "SU",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Cambodia International Film Festival",
+                "release_date": "2024-06-28T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "LA",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MM",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-31T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MY",
+            "release_dates": [
+              {
+                "certification": "P13",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PH",
+            "release_dates": [
+              {
+                "certification": "G",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-29T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "th",
+                "note": "",
+                "release_date": "2024-04-01T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "G",
+                "descriptors": [],
+                "iso_639_1": "th",
+                "note": "",
+                "release_date": "2024-04-04T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "12+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-07T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "HOW TO MAKE MILLIONS BEFORE GRANDMA DIES | Official International Trailer",
+          "key": "HrVX_nHNIUA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "published_at": "2024-03-01T03:56:13.000Z",
+          "id": "65e1ceaca39d0b0163084ec6"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 1103621,
+        "imdb_id": "tt31392609",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1103621,
+        "api": "TMDB"
+      },
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "parental": "PG",
+      "language": "Thai"
+    },
+    "showtimes": [
+      {
+        "id": "projector:25579",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "de8a272f39",
+        "unixTime": 1717059600000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25579?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "Mon-Fri Before 6pm",
+          "type": "Mon-Fri Before 6pm"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "How To Make Millions Before Grandma Dies",
+          "ScreenId": 2,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-05-30T17:00:00",
+          "FeatureStartTime": "2024-05-30T17:10:00",
+          "FeatureEndTime": "2024-05-30T19:16:00",
+          "CleanupEndTime": "2024-05-30T19:26:00",
+          "SeatsAvailable": 207,
+          "SeatsHeld": 0,
+          "SeatsHouse": 0,
+          "SeatsSold": 1,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 2,
+          "accessibility": null,
+          "venueTitle": "Golden Mile: Redrum",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004330",
+          "filmURL": "https://theprojector.sg/films-and-events/how-to-make-millions/",
+          "filmfilmTitle": "How To Make Millions Before Grandma Dies",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 30,
+          "hour": 17,
+          "min": 0
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      },
+      {
+        "id": "projector:25580",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "de8a272f39",
+        "unixTime": 1717155000000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25580?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "FRI after 6pm/SAT/SUN",
+          "type": "FRI after 6pm/SAT/SUN"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "How To Make Millions Before Grandma Dies",
+          "ScreenId": 2,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-05-31T19:30:00",
+          "FeatureStartTime": "2024-05-31T19:40:00",
+          "FeatureEndTime": "2024-05-31T21:46:00",
+          "CleanupEndTime": "2024-05-31T21:56:00",
+          "SeatsAvailable": 208,
+          "SeatsHeld": 0,
+          "SeatsHouse": 0,
+          "SeatsSold": 0,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 2,
+          "accessibility": null,
+          "venueTitle": "Golden Mile: Redrum",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004330",
+          "filmURL": "https://theprojector.sg/films-and-events/how-to-make-millions/",
+          "filmfilmTitle": "How To Make Millions Before Grandma Dies",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 31,
+          "hour": 19,
+          "min": 30
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      },
+      {
+        "id": "projector:25585",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "de8a272f39",
+        "unixTime": 1717232400000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25585?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "FRI after 6pm/SAT/SUN",
+          "type": "FRI after 6pm/SAT/SUN"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "How To Make Millions Before Grandma Dies",
+          "ScreenId": 4,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-06-01T17:00:00",
+          "FeatureStartTime": "2024-06-01T17:10:00",
+          "FeatureEndTime": "2024-06-01T19:16:00",
+          "CleanupEndTime": "2024-06-01T19:26:00",
+          "SeatsAvailable": 254,
+          "SeatsHeld": 0,
+          "SeatsHouse": 0,
+          "SeatsSold": 1,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 4,
+          "accessibility": null,
+          "venueTitle": "Golden Mile: Green Room",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004330",
+          "filmURL": "https://theprojector.sg/films-and-events/how-to-make-millions/",
+          "filmfilmTitle": "How To Make Millions Before Grandma Dies",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 6,
+          "date": 1,
+          "hour": 17,
+          "min": 0
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      },
+      {
+        "id": "projector:25584",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "de8a272f39",
+        "unixTime": 1717309800000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25584?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "FRI after 6pm/SAT/SUN",
+          "type": "FRI after 6pm/SAT/SUN"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "How To Make Millions Before Grandma Dies",
+          "ScreenId": 2,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-06-02T14:30:00",
+          "FeatureStartTime": "2024-06-02T14:40:00",
+          "FeatureEndTime": "2024-06-02T16:46:00",
+          "CleanupEndTime": "2024-06-02T16:56:00",
+          "SeatsAvailable": 205,
+          "SeatsHeld": 0,
+          "SeatsHouse": 0,
+          "SeatsSold": 3,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 2,
+          "accessibility": null,
+          "venueTitle": "Golden Mile: Redrum",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004330",
+          "filmURL": "https://theprojector.sg/films-and-events/how-to-make-millions/",
+          "filmfilmTitle": "How To Make Millions Before Grandma Dies",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 6,
+          "date": 2,
+          "hour": 14,
+          "min": 30
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

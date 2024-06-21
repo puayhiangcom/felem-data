@@ -1,0 +1,131 @@
+{
+  "movie": {
+    "id": "584aa9166c",
+    "filmTitle": "Larry",
+    "language": "Hungarian",
+    "sourceIds": [
+      "projector:ST00004234"
+    ],
+    "metadata": {
+      "parental": "N/A",
+      "runtime": 108,
+      "crew": {
+        "director": [
+          "Szilárd Bernáth"
+        ],
+        "writer": [
+          "Szilárd Bernáth",
+          "Gergö V. Nagy"
+        ],
+        "actors": [
+          "Benett Vilmányi",
+          "Szabolcs Thuróczy",
+          "Anna Szandtner"
+        ]
+      },
+      "plot": "It tells the story of Adam who lives in isolation due to his stuttering, and hip-hop is the only way he can get rid of his speech impediment.",
+      "awards": "4 wins & 6 nominations",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/pB7OM5kgDhNO68tivYHrbp7FQ33.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Drama"
+      ],
+      "homepage": "",
+      "id": 1037675,
+      "imdb_id": "tt12952376",
+      "origin_country": [
+        "HU"
+      ],
+      "original_title": "Larry",
+      "overview": "It tells the story of Adam who lives in isolation due to his stuttering, and hip-hop is the only way he can get rid of his speech impediment.",
+      "popularity": 0.733,
+      "poster_path": "https://image.tmdb.org/t/p/original/A8h3ihtnWrspIaTvQCDr6LtfFWu.jpg",
+      "production_companies": [
+        {
+          "id": 128330,
+          "logo_path": "/j5YMevr8nQPCY7J5WbkuAS3EQqm.png",
+          "name": "FocusFox",
+          "origin_country": "HU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "HU",
+          "name": "Hungary"
+        }
+      ],
+      "release_date": "2022-12-01",
+      "revenue": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Hungarian",
+          "iso_639_1": "hu",
+          "name": "Magyar"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Larry",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 3,
+      "videos": [],
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Cottbus Filmfestival",
+                "release_date": "2022-11-10T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HU",
+            "release_dates": [
+              {
+                "certification": "16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2022-12-01T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "external_ids": {
+        "tmdb_id": 1037675,
+        "imdb_id": "tt12952376",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1037675,
+        "api": "TMDB"
+      },
+      "language": "Hungarian"
+    },
+    "showtimes": []
+  }
+}

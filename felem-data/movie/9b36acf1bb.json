@@ -1,0 +1,197 @@
+{
+  "movie": {
+    "id": "9b36acf1bb",
+    "filmTitle": "Oversteer",
+    "language": "Mandarin, Cantonese, English",
+    "sourceIds": [
+      "gv:2145"
+    ],
+    "metadata": {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "homepage": "",
+      "id": 1238953,
+      "imdb_id": null,
+      "origin_country": [
+        "SG"
+      ],
+      "original_title": "速战人生",
+      "overview": "Inspired by a true story, ‘Oversteer’ follows the journey of Wind, a young man whose passion for cars leads him to fall out with his family, leading to a world he’s unprepared for. As he navigates financial struggles and personal challenges, Wind finds support from unexpected sources. The film explores themes of perseverance, friendship, and the pursuit of one's dreams, offering a heartfelt and inspiring narrative in a car racing world.",
+      "popularity": 1.91,
+      "poster_path": "https://image.tmdb.org/t/p/originalnull",
+      "production_companies": [],
+      "production_countries": [],
+      "release_date": "2024-01-31T00:00:00.000Z",
+      "revenue": 0,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Oversteer",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "zh",
+                "note": "",
+                "release_date": "2024-01-31T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [],
+      "external_ids": {
+        "tmdb_id": 1238953,
+        "imdb_id": null,
+        "wikidata_id": null,
+        "facebook_id": "OversteerMovie",
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 1238953,
+        "api": "TMDB"
+      },
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "0/10"
+        }
+      ],
+      "parental": "PG",
+      "language": "Chinese"
+    },
+    "showtimes": [
+      {
+        "id": "gv:05/2145/17-05-2024/2030/8",
+        "cinemaId": "gv:05",
+        "filmId": "9b36acf1bb",
+        "unixTime": 1715949000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/2145/showDate/17-05-2024/showTime/2030/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "4%",
+          "hall": "8",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Oversteer",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 20,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/2145/22-05-2024/1600/8",
+        "cinemaId": "gv:05",
+        "filmId": "9b36acf1bb",
+        "unixTime": 1716364800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/2145/showDate/22-05-2024/showTime/1600/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English"
+          ],
+          "soldPercent": "3%",
+          "hall": "8",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Oversteer",
+          "discounts": {
+            "concessionAllow": false,
+            "freeValidity": false,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 16,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      }
+    ]
+  }
+}

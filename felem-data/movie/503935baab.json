@@ -1,0 +1,3907 @@
+{
+  "movie": {
+    "id": "503935baab",
+    "filmTitle": "Exhuma",
+    "language": "Korean",
+    "sourceIds": [
+      "gv:4063",
+      "shaw:702"
+    ],
+    "metadata": {
+      "parental": "NC16",
+      "runtime": 134,
+      "crew": {
+        "director": [
+          "Jang Jae-hyun"
+        ],
+        "writer": [
+          "Jang Jae-hyun"
+        ],
+        "actors": [
+          "Kim Go-eun",
+          "Choi Min-sik",
+          "Lee Do-hyun"
+        ]
+      },
+      "plot": "The process of excavating an ominous grave unleashes dreadful consequences buried underneath.",
+      "awards": "4 wins & 6 nominations",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "7.519/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/aINel9503ompOlGKn4sIVMg09Un.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "homepage": "https://wellgousa.com/films/exhuma",
+      "id": 838209,
+      "imdb_id": "tt27802490",
+      "origin_country": [
+        "KR"
+      ],
+      "original_title": "파묘",
+      "overview": "After tracing the origin of a disturbing supernatural affliction to a wealthy family's ancestral gravesite, a team of paranormal experts relocates the remains—and soon discovers what happens to those who dare to mess with the wrong grave.",
+      "popularity": 174.103,
+      "poster_path": "https://image.tmdb.org/t/p/original/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+      "production_companies": [
+        {
+          "id": 3491,
+          "logo_path": "/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png",
+          "name": "Showbox",
+          "origin_country": "KR"
+        },
+        {
+          "id": 15974,
+          "logo_path": "/whf327LIlsbElBmCXIgnL0aueko.png",
+          "name": "MCMC",
+          "origin_country": "KR"
+        },
+        {
+          "id": 217380,
+          "logo_path": null,
+          "name": "Pinetown Production",
+          "origin_country": "KR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        }
+      ],
+      "release_date": "2024-03-14T00:00:00.000Z",
+      "revenue": 97140401,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "The vicious emerges",
+      "title": "Exhuma",
+      "video": false,
+      "vote_average": 7.519,
+      "vote_count": 180,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-13T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-03T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-14T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Brussels International Fantastic Film Festival",
+                "release_date": "2024-04-17T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Beijing International Film Festival",
+                "release_date": "2024-04-20T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Shanghai International Film Festival",
+                "release_date": "2024-06-14T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Berlin International Film Festival",
+                "release_date": "2024-02-16T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "DVD",
+                "release_date": "2024-07-26T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "EC",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-09-12T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-15T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-09-20T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-04T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "HK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Hong Kong International Film Festival",
+                "release_date": "2024-04-07T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "IIB",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-11T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ID",
+            "release_dates": [
+              {
+                "certification": "17+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-28T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "ko",
+                "note": "Cinevesture International Film Festival",
+                "release_date": "2024-03-31T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "UA",
+                "descriptors": [],
+                "iso_639_1": "ko",
+                "note": "",
+                "release_date": "2024-05-03T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Far East Film Festival",
+                "release_date": "2024-04-29T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-10-17T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-18T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "KR",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Gangnam, Seoul",
+                "release_date": "2024-02-20T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "MCFF Marie Claire Film Festival",
+                "release_date": "2024-04-26T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-22T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-04-22T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-02-23T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MP",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-04T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MX",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-20T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-09-13T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MY",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-14T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Club Imagine @ Imagine Fantastic Film Festival",
+                "release_date": "2024-06-22T00:00:00.000Z",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NZ",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-14T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-20T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PR",
+            "release_dates": [
+              {
+                "certification": "NR",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-04T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "RU",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-30T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SG",
+            "release_dates": [
+              {
+                "certification": "NC16",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-14T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TH",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-21T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TR",
+            "release_dates": [
+              {
+                "certification": "16+",
+                "descriptors": [
+                  "Violence / Horror",
+                  "Negative examples"
+                ],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-05-31T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "TW",
+            "release_dates": [
+              {
+                "certification": "15+",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-08T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "NR",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "Los Angeles, California",
+                "release_date": "2024-03-15T00:00:00.000Z",
+                "type": 2
+              },
+              {
+                "certification": "NR",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-22T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "NR",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-04T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VI",
+            "release_dates": [
+              {
+                "certification": "NR",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-06-04T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "VN",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2024-03-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer [Subtitled]",
+          "key": "j_6_wLF1pDg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-03-01T13:00:47.000Z",
+          "id": "66299313002134011c02115d"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Teaser Trailer [Subtitled]",
+          "key": "BLPprtcADkk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-02-09T01:00:03.000Z",
+          "id": "65c8a746ce6c4c0149b93596"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer [Subtitled]",
+          "key": "RUDG0LOwxII",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "published_at": "2024-02-08T07:51:23.000Z",
+          "id": "65c8a7a8ce6c4c017cba63f1"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cast Greeting [ENG SUB]",
+          "key": "wa76q_kZVqI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "published_at": "2024-03-15T09:00:45.000Z",
+          "id": "65fed763770700016309a1b5"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 838209,
+        "imdb_id": "tt27802490",
+        "wikidata_id": "Q117322466",
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 838209,
+        "api": "TMDB"
+      },
+      "language": "Korean"
+    },
+    "showtimes": [
+      {
+        "id": "gv:12/4063/18-05-2024/30/8",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": null,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/18-05-2024/showTime/30/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 1970,
+          "month": 1,
+          "date": 1,
+          "hour": 8,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199130",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715829300000,
+        "link": "https://shaw.sg/seat-selection/199130",
+        "ticketType": {
+          "label": "Lumiere",
+          "type": "LUMR"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Lumiere One",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 11,
+          "min": 15
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199140",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715839800000,
+        "link": "https://shaw.sg/seat-selection/199140",
+        "ticketType": {
+          "label": "Lumiere",
+          "type": "LUMR"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Lumiere One",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 14,
+          "min": 10
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199102",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715844900000,
+        "link": "https://shaw.sg/seat-selection/199102",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 6",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 15,
+          "min": 35
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199186",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715845200000,
+        "link": "https://shaw.sg/seat-selection/199186",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 15,
+          "min": 40
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199141",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715850300000,
+        "link": "https://shaw.sg/seat-selection/199141",
+        "ticketType": {
+          "label": "Lumiere",
+          "type": "LUMR"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Lumiere One",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 17,
+          "min": 5
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199142",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715860800000,
+        "link": "https://shaw.sg/seat-selection/199142",
+        "ticketType": {
+          "label": "Lumiere",
+          "type": "LUMR"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Lumiere One",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 20,
+          "min": 0
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199177",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715864700000,
+        "link": "https://shaw.sg/seat-selection/199177",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 5
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199097",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:6",
+        "unixTime": 1715865000000,
+        "link": "https://shaw.sg/seat-selection/199097",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Seletar Hall 5",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 16,
+          "hour": 21,
+          "min": 10
+        },
+        "cinema": {
+          "id": "shaw:6",
+          "name": "Shaw Theatres Seletar",
+          "source": {
+            "chain": "shaw",
+            "id": 6,
+            "chainSpecific": {
+              "address": "33, Sengkang West Avenue, The Seletar Mall, #04-01-02/22, Singapore 797653",
+              "code": "0800"
+            }
+          },
+          "metadata": {
+            "address": "33 Sengkang West Avenue",
+            "full_address": "33 Sengkang West Avenue, Sengkang, Singapore 797653",
+            "location": {
+              "latitude": 1.390768,
+              "longitude": 103.875891
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUl6TXl3Z2MyVnVaMnRoYm1jZ2QyVnpkQ0JoZG1WdWRXVXNJSE5sYkdWMFlYSWdiV0ZzYkN3Z0l6QTBMVEF4TFRBeUx6SXlMQ0J6YVc1bllYQnZjbVVnTnprM05qVXpJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199180",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715931600000,
+        "link": "https://shaw.sg/seat-selection/199180",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 15,
+          "min": 40
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:18/4063/17-05-2024/1945/1",
+        "cinemaId": "gv:18",
+        "filmId": "503935baab",
+        "unixTime": 1715946300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/18/filmCode/4063/showDate/17-05-2024/showTime/1945/hallNumber/1",
+        "ticketType": {
+          "label": "Cineleisure",
+          "type": "Cineleisure"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "1%",
+          "hall": "1",
+          "cinemaName": "GV Cineleisure",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 19,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:18",
+          "name": "GV Cineleisure",
+          "type": {
+            "label": "Cineleisure",
+            "type": "Cineleisure"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "18",
+            "chainSpecific": {
+              "sequence": 12,
+              "locationCode": "18",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "shaw:199178",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715951100000,
+        "link": "https://shaw.sg/seat-selection/199178",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": false,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 5
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:17/4063/17-05-2024/2120/4",
+        "cinemaId": "gv:17",
+        "filmId": "503935baab",
+        "unixTime": 1715952000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4063/showDate/17-05-2024/showTime/2120/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4063/17-05-2024/2135/7",
+        "cinemaId": "gv:05",
+        "filmId": "503935baab",
+        "unixTime": 1715952900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4063/showDate/17-05-2024/showTime/2135/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "1%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 21,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/4063/17-05-2024/2320/4",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": 1715959200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/17-05-2024/showTime/2320/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 23,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "shaw:199179",
+        "filmId": "503935baab",
+        "cinemaId": "shaw:8",
+        "unixTime": 1715961540000,
+        "link": "https://shaw.sg/seat-selection/199179",
+        "ticketType": {
+          "label": "Digital",
+          "type": "DGTL"
+        },
+        "movieFormat": "DGTL",
+        "chainSpecific": {
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "seatingStatus": "Available",
+          "isMidnight": true,
+          "cinemaName": "Jewel Hall 3",
+          "movieTitle": "Exhuma (KOR)",
+          "isDtsx": false,
+          "discounts": {
+            "restrictionCode": "NR",
+            "restrictions": "No Restriction"
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 17,
+          "hour": 23,
+          "min": 59
+        },
+        "cinema": {
+          "id": "shaw:8",
+          "name": "Shaw Theatres Jewel",
+          "source": {
+            "chain": "shaw",
+            "id": 8,
+            "chainSpecific": {
+              "address": "78, Airport Boulevard, Jewel Changi Airport, #B2-237, Singapore 819666",
+              "code": "1000"
+            }
+          },
+          "metadata": {
+            "address": "78 Airport Boulevard",
+            "full_address": "78 Airport Boulevard, Changi, Singapore 819666",
+            "location": {
+              "latitude": 1.358958,
+              "longitude": 103.990672
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1pdHA6ZXlKaGRYUnZZMjl0Y0d4bGRHVWlPaUptWVd4elpTSXNJbU52ZFc1MGNua2lPaUp6WnlJc0ltWjFlbnA1VFdGMFkyZ2lPaUowY25WbElpd2liR2x0YVhRaU9pSXpNQ0lzSW5KdmRYUnBibWNpT2lKMGNuVmxJaXdpZEhsd1pYTWlPaUpoWkdSeVpYTnpMSEJzWVdObExHNWxhV2RvWW05eWFHOXZaQ3hzYjJOaGJHbDBlU3h5WldkcGIyNHNZMjkxYm5SeWVTeGhaR1J5WlhOekxHUnBjM1J5YVdOMExIQnZjM1JqYjJSbExHeHZZMkZzYVhSNUxISmxaMmx2YmlJc0ltVjRjRzl6WlZCeWIyMXBibVZ1WTJVaU9pSjBjblZsSWl3aWRtVnljMmx2YmlJNk5Td2lZMkZzYkdKaFkyc2lPbTUxYkd3c0luRWlPaUkzT0N3Z1lXbHljRzl5ZENCaWIzVnNaWFpoY21Rc0lHcGxkMlZzSUdOb1lXNW5hU0JoYVhKd2IzSjBMQ0FqWWpJdE1qTTNMQ0J6YVc1bllYQnZjbVVnT0RFNU5qWTJJbjA6MA"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4063/18-05-2024/1010/3",
+        "cinemaId": "gv:08",
+        "filmId": "503935baab",
+        "unixTime": 1715998200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4063/showDate/18-05-2024/showTime/1010/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 10,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:02/4063/18-05-2024/1125/6",
+        "cinemaId": "gv:02",
+        "filmId": "503935baab",
+        "unixTime": 1716002700000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/02/filmCode/4063/showDate/18-05-2024/showTime/1125/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bishan",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 11,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:02",
+          "name": "GV Bishan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "02",
+            "chainSpecific": {
+              "sequence": 25,
+              "locationCode": "02",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.353109,
+              "longitude": 103.848303
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzphc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:14/4063/18-05-2024/1250/6",
+        "cinemaId": "gv:14",
+        "filmId": "503935baab",
+        "unixTime": 1716007800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/14/filmCode/4063/showDate/18-05-2024/showTime/1250/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bedok",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 12,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:14",
+          "name": "GV Bedok",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "14",
+            "chainSpecific": {
+              "sequence": 17,
+              "locationCode": "14",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.324068,
+              "longitude": 103.93188
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpTc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:01/4063/18-05-2024/1250/1",
+        "cinemaId": "gv:01",
+        "filmId": "503935baab",
+        "unixTime": 1716007800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4063/showDate/18-05-2024/showTime/1250/hallNumber/1",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 12,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:18/4063/18-05-2024/1400/1",
+        "cinemaId": "gv:18",
+        "filmId": "503935baab",
+        "unixTime": 1716012000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/18/filmCode/4063/showDate/18-05-2024/showTime/1400/hallNumber/1",
+        "ticketType": {
+          "label": "Cineleisure",
+          "type": "Cineleisure"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Cineleisure",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 14,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:18",
+          "name": "GV Cineleisure",
+          "type": {
+            "label": "Cineleisure",
+            "type": "Cineleisure"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "18",
+            "chainSpecific": {
+              "sequence": 12,
+              "locationCode": "18",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/4063/18-05-2024/1705/4",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": 1716023100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/18-05-2024/showTime/1705/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "1%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 17,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:13/4063/18-05-2024/1900/8",
+        "cinemaId": "gv:13",
+        "filmId": "503935baab",
+        "unixTime": 1716030000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/13/filmCode/4063/showDate/18-05-2024/showTime/1900/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Paya Lebar",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 19,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:13",
+          "name": "GV Paya Lebar",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "13",
+            "chainSpecific": {
+              "sequence": 18,
+              "locationCode": "13",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.358791,
+              "longitude": 103.915368
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCQXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:03/4063/18-05-2024/2055/5",
+        "cinemaId": "gv:03",
+        "filmId": "503935baab",
+        "unixTime": 1716036900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/03/filmCode/4063/showDate/18-05-2024/showTime/2055/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Tiong Bahru",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 20,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:03",
+          "name": "GV Tiong Bahru",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "03",
+            "chainSpecific": {
+              "sequence": 19,
+              "locationCode": "03",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.28602,
+              "longitude": 103.827096
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2FjZDg5ZmEtZDkyNS00Zjg4LWE5YTQtYzIzMTUxNzhjYTg0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4063/18-05-2024/2130/7",
+        "cinemaId": "gv:05",
+        "filmId": "503935baab",
+        "unixTime": 1716039000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4063/showDate/18-05-2024/showTime/2130/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 21,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:17/4063/18-05-2024/2140/4",
+        "cinemaId": "gv:17",
+        "filmId": "503935baab",
+        "unixTime": 1716039600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4063/showDate/18-05-2024/showTime/2140/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 21,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/4063/18-05-2024/2235/4",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": 1716042900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/18-05-2024/showTime/2235/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 18,
+          "hour": 22,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:14/4063/19-05-2024/1250/6",
+        "cinemaId": "gv:14",
+        "filmId": "503935baab",
+        "unixTime": 1716094200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/14/filmCode/4063/showDate/19-05-2024/showTime/1250/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bedok",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 12,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:14",
+          "name": "GV Bedok",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "14",
+            "chainSpecific": {
+              "sequence": 17,
+              "locationCode": "14",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.324068,
+              "longitude": 103.93188
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpTc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4063/19-05-2024/1335/3",
+        "cinemaId": "gv:08",
+        "filmId": "503935baab",
+        "unixTime": 1716096900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4063/showDate/19-05-2024/showTime/1335/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 13,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:18/4063/19-05-2024/1400/1",
+        "cinemaId": "gv:18",
+        "filmId": "503935baab",
+        "unixTime": 1716098400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/18/filmCode/4063/showDate/19-05-2024/showTime/1400/hallNumber/1",
+        "ticketType": {
+          "label": "Cineleisure",
+          "type": "Cineleisure"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Cineleisure",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 14,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:18",
+          "name": "GV Cineleisure",
+          "type": {
+            "label": "Cineleisure",
+            "type": "Cineleisure"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "18",
+            "chainSpecific": {
+              "sequence": 12,
+              "locationCode": "18",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/4063/19-05-2024/1615/4",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": 1716106500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/19-05-2024/showTime/1615/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 16,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:01/4063/19-05-2024/1825/1",
+        "cinemaId": "gv:01",
+        "filmId": "503935baab",
+        "unixTime": 1716114300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4063/showDate/19-05-2024/showTime/1825/hallNumber/1",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 18,
+          "min": 25
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:13/4063/19-05-2024/1900/8",
+        "cinemaId": "gv:13",
+        "filmId": "503935baab",
+        "unixTime": 1716116400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/13/filmCode/4063/showDate/19-05-2024/showTime/1900/hallNumber/8",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "8",
+          "cinemaName": "GV Paya Lebar",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 19,
+          "min": 0
+        },
+        "cinema": {
+          "id": "gv:13",
+          "name": "GV Paya Lebar",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "13",
+            "chainSpecific": {
+              "sequence": 18,
+              "locationCode": "13",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.358791,
+              "longitude": 103.915368
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCQXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:02/4063/19-05-2024/1915/6",
+        "cinemaId": "gv:02",
+        "filmId": "503935baab",
+        "unixTime": 1716117300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/02/filmCode/4063/showDate/19-05-2024/showTime/1915/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bishan",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 19,
+          "min": 15
+        },
+        "cinema": {
+          "id": "gv:02",
+          "name": "GV Bishan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "02",
+            "chainSpecific": {
+              "sequence": 25,
+              "locationCode": "02",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.353109,
+              "longitude": 103.848303
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzphc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:03/4063/19-05-2024/2055/5",
+        "cinemaId": "gv:03",
+        "filmId": "503935baab",
+        "unixTime": 1716123300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/03/filmCode/4063/showDate/19-05-2024/showTime/2055/hallNumber/5",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "5",
+          "cinemaName": "GV Tiong Bahru",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 20,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:03",
+          "name": "GV Tiong Bahru",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "03",
+            "chainSpecific": {
+              "sequence": 19,
+              "locationCode": "03",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.28602,
+              "longitude": 103.827096
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6N2FjZDg5ZmEtZDkyNS00Zjg4LWE5YTQtYzIzMTUxNzhjYTg0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:17/4063/19-05-2024/2120/4",
+        "cinemaId": "gv:17",
+        "filmId": "503935baab",
+        "unixTime": 1716124800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4063/showDate/19-05-2024/showTime/2120/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4063/19-05-2024/2130/7",
+        "cinemaId": "gv:05",
+        "filmId": "503935baab",
+        "unixTime": 1716125400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4063/showDate/19-05-2024/showTime/2130/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 21,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/4063/19-05-2024/2150/4",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": 1716126600000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/19-05-2024/showTime/2150/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 19,
+          "hour": 21,
+          "min": 50
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:01/4063/20-05-2024/1330/1",
+        "cinemaId": "gv:01",
+        "filmId": "503935baab",
+        "unixTime": 1716183000000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4063/showDate/20-05-2024/showTime/1330/hallNumber/1",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 13,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4063/20-05-2024/1335/3",
+        "cinemaId": "gv:08",
+        "filmId": "503935baab",
+        "unixTime": 1716183300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4063/showDate/20-05-2024/showTime/1335/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 13,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/4063/20-05-2024/1545/4",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": 1716191100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/20-05-2024/showTime/1545/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 15,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:18/4063/20-05-2024/1945/1",
+        "cinemaId": "gv:18",
+        "filmId": "503935baab",
+        "unixTime": 1716205500000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/18/filmCode/4063/showDate/20-05-2024/showTime/1945/hallNumber/1",
+        "ticketType": {
+          "label": "Cineleisure",
+          "type": "Cineleisure"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Cineleisure",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 19,
+          "min": 45
+        },
+        "cinema": {
+          "id": "gv:18",
+          "name": "GV Cineleisure",
+          "type": {
+            "label": "Cineleisure",
+            "type": "Cineleisure"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "18",
+            "chainSpecific": {
+              "sequence": 12,
+              "locationCode": "18",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/4063/20-05-2024/2105/7",
+        "cinemaId": "gv:05",
+        "filmId": "503935baab",
+        "unixTime": 1716210300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4063/showDate/20-05-2024/showTime/2105/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 21,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:17/4063/20-05-2024/2120/4",
+        "cinemaId": "gv:17",
+        "filmId": "503935baab",
+        "unixTime": 1716211200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/17/filmCode/4063/showDate/20-05-2024/showTime/2120/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Bugis+",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:17",
+          "name": "GV Bugis+",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "17",
+            "chainSpecific": {
+              "sequence": 14,
+              "locationCode": "17",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.29974,
+              "longitude": 103.855423
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6NjFiNzRmMTItODVkYy00Mzk1LWIwZGQtM2Q1ZjNmYTA0OTc0"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/4063/20-05-2024/2120/4",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": 1716211200000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/20-05-2024/showTime/2120/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 20,
+          "hour": 21,
+          "min": 20
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:12/4063/21-05-2024/1240/4",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": 1716266400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/21-05-2024/showTime/1240/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 12,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:01/4063/21-05-2024/1330/1",
+        "cinemaId": "gv:01",
+        "filmId": "503935baab",
+        "unixTime": 1716269400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/01/filmCode/4063/showDate/21-05-2024/showTime/1330/hallNumber/1",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "1",
+          "cinemaName": "GV Yishun",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 13,
+          "min": 30
+        },
+        "cinema": {
+          "id": "gv:01",
+          "name": "GV Yishun",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "01",
+            "chainSpecific": {
+              "sequence": 27,
+              "locationCode": "01",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.428693,
+              "longitude": 103.833488
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzpCdXJK"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4063/21-05-2024/1355/3",
+        "cinemaId": "gv:08",
+        "filmId": "503935baab",
+        "unixTime": 1716270900000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4063/showDate/21-05-2024/showTime/1355/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 13,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:05/4063/21-05-2024/2140/7",
+        "cinemaId": "gv:05",
+        "filmId": "503935baab",
+        "unixTime": 1716298800000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4063/showDate/21-05-2024/showTime/2140/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 21,
+          "hour": 21,
+          "min": 40
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:12/4063/22-05-2024/1105/4",
+        "cinemaId": "gv:12",
+        "filmId": "503935baab",
+        "unixTime": 1716347100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/12/filmCode/4063/showDate/22-05-2024/showTime/1105/hallNumber/4",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "4",
+          "cinemaName": "GV Suntec City",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 11,
+          "min": 5
+        },
+        "cinema": {
+          "id": "gv:12",
+          "name": "GV Suntec City",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "12",
+            "chainSpecific": {
+              "sequence": 20,
+              "locationCode": "12",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "address": "Singapore",
+            "full_address": "Singapore, 038986, Singapore",
+            "location": {
+              "latitude": 1.294813,
+              "longitude": 103.859657
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBvaTpmNDlmYjhkNy04Mjk1LTQwNzAtYjhmMy0zZjA3MmE4ZDk3MDc",
+              "foursquare": "56482981498e4762fb9a13b3"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:08/4063/22-05-2024/1335/3",
+        "cinemaId": "gv:08",
+        "filmId": "503935baab",
+        "unixTime": 1716356100000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/08/filmCode/4063/showDate/22-05-2024/showTime/1335/hallNumber/3",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "3",
+          "cinemaName": "GV Plaza",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 13,
+          "min": 35
+        },
+        "cinema": {
+          "id": "gv:08",
+          "name": "GV Plaza",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "08",
+            "chainSpecific": {
+              "sequence": 22,
+              "locationCode": "08",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      },
+      {
+        "id": "gv:02/4063/22-05-2024/1855/6",
+        "cinemaId": "gv:02",
+        "filmId": "503935baab",
+        "unixTime": 1716375300000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/02/filmCode/4063/showDate/22-05-2024/showTime/1855/hallNumber/6",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "6",
+          "cinemaName": "GV Bishan",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 18,
+          "min": 55
+        },
+        "cinema": {
+          "id": "gv:02",
+          "name": "GV Bishan",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "02",
+            "chainSpecific": {
+              "sequence": 25,
+              "locationCode": "02",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.353109,
+              "longitude": 103.848303
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieHBsYzphc2s"
+            }
+          }
+        }
+      },
+      {
+        "id": "gv:05/4063/22-05-2024/2110/7",
+        "cinemaId": "gv:05",
+        "filmId": "503935baab",
+        "unixTime": 1716383400000,
+        "link": "https://www.gv.com.sg/GVSeatSelection#/cinemaId/05/filmCode/4063/showDate/22-05-2024/showTime/2110/hallNumber/7",
+        "ticketType": {
+          "label": "Standard",
+          "type": "T"
+        },
+        "movieFormat": "2D",
+        "chainSpecific": {
+          "priorityBooking": false,
+          "subtitles": [
+            "English",
+            "Chinese"
+          ],
+          "soldPercent": "0%",
+          "hall": "7",
+          "cinemaName": "GV VivoCity",
+          "movieTitle": "Exhuma",
+          "discounts": {
+            "concessionAllow": true,
+            "freeValidity": true,
+            "annualPassValidity": true,
+            "eDealsValidity": true,
+            "mPassMovie": false
+          }
+        },
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "date": 22,
+          "hour": 21,
+          "min": 10
+        },
+        "cinema": {
+          "id": "gv:05",
+          "name": "GV VivoCity",
+          "type": {
+            "label": "Standard",
+            "type": "T"
+          },
+          "source": {
+            "chain": "gv",
+            "id": "05",
+            "chainSpecific": {
+              "sequence": 21,
+              "locationCode": "05",
+              "cinemaCode": null
+            }
+          },
+          "metadata": {}
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "movie": {
+    "id": "1b644afed2",
+    "filmTitle": "Love is Strange",
+    "language": "English",
+    "sourceIds": [
+      "projector:ST00004322"
+    ],
+    "metadata": {
+      "parental": "R",
+      "runtime": 98,
+      "crew": {
+        "director": [
+          "Ira Sachs"
+        ],
+        "writer": [
+          "Ira Sachs",
+          "Mauricio Zacharias"
+        ],
+        "actors": [
+          "John Lithgow",
+          "Alfred Molina",
+          "Marisa Tomei"
+        ]
+      },
+      "plot": "After nearly four decades together, Ben (John Lithgow) and George (Alfred Molina) finally tie the knot in an idyllic wedding ceremony in lower Manhattan. But when George loses his job soon after, the couple must sell their apartment and - victims of the relentless New York City real estate market - temporarily live apart until they can find an affordable new home. While George moves in with two cops (Cheyenne Jackson and Manny Perez) who live down stairs, Ben lands in Brooklyn with his nephew (Darren Burrows), his wife (Marisa Tomei), and their temperamental teenage son (Charlie Tahan), with whom Ben shares a bunk bed. While struggling with the pain of separation, Ben and George are further challenged by the intergenerational tensions and capricious family dynamics of their new living arrangements.",
+      "awards": "2 wins & 24 nominations",
+      "ratings": [
+        {
+          "Source": "The Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "adult": false,
+      "backdrop_path": "/8Jcd5t7VBnor1INXpZox0CYZIpa.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        "Drama"
+      ],
+      "homepage": "http://www.sonyclassics.com/loveisstrange/",
+      "id": 244268,
+      "imdb_id": "tt2639344",
+      "origin_country": [
+        "GR",
+        "US"
+      ],
+      "original_title": "Love Is Strange",
+      "overview": "After 39 years together, Ben and George finally tie the knot, but George loses his job as a result, and the newlyweds must sell their New York apartment and live apart, relying on friends and family to make ends meet.",
+      "popularity": 17.261,
+      "poster_path": "https://image.tmdb.org/t/p/original/snuFND1d6eB5iJtXHEdMxve5XTw.jpg",
+      "production_companies": [
+        {
+          "id": 6531,
+          "logo_path": null,
+          "name": "Parts & Labor",
+          "origin_country": "US"
+        },
+        {
+          "id": 39024,
+          "logo_path": null,
+          "name": "Mm...Buttered Panini Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 45004,
+          "logo_path": null,
+          "name": "Charlie Guidance",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BR",
+          "name": "Brazil"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GR",
+          "name": "Greece"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2014-02-07",
+      "revenue": 2262223,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Love Is Strange",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 276,
+      "release_dates": {
+        "results": [
+          {
+            "iso_3166_1": "AL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-10-02T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "AT",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-10-26T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BE",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-11-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "BR",
+            "release_dates": [
+              {
+                "certification": "12",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2015-01-15T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "CA",
+            "release_dates": [
+              {
+                "certification": "PG",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-09-19T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "DE",
+            "release_dates": [
+              {
+                "certification": "0",
+                "descriptors": [],
+                "iso_639_1": "de",
+                "note": "",
+                "release_date": "2014-02-07T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "0",
+                "descriptors": [],
+                "iso_639_1": "de",
+                "note": "",
+                "release_date": "2015-04-30T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "ES",
+            "release_dates": [
+              {
+                "certification": "ATP",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-11-07T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "FR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-11-12T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GB",
+            "release_dates": [
+              {
+                "certification": "15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2015-01-06T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "GR",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "55th Thessaloniki International Film Festival",
+                "release_date": "2014-11-07T00:00:00.000Z",
+                "type": 1
+              },
+              {
+                "certification": "Κ-15",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-12-18T00:00:00.000Z",
+                "type": 3
+              },
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "DVD",
+                "release_date": "2015-04-20T00:00:00.000Z",
+                "type": 5
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IE",
+            "release_dates": [
+              {
+                "certification": "15A",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2015-01-06T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-10-23T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "IT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-11-20T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "JP",
+            "release_dates": [
+              {
+                "certification": "G",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2016-03-12T00:00:00.000Z",
+                "type": 4
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "MK",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-10-16T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NL",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2015-01-08T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "NZ",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-11-06T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "PT",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-11-27T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "RS",
+            "release_dates": [
+              {
+                "certification": "",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-10-16T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "SE",
+            "release_dates": [
+              {
+                "certification": "Btl",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2015-01-02T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          },
+          {
+            "iso_3166_1": "US",
+            "release_dates": [
+              {
+                "certification": "R",
+                "descriptors": [],
+                "iso_639_1": "",
+                "note": "",
+                "release_date": "2014-08-22T00:00:00.000Z",
+                "type": 3
+              }
+            ]
+          }
+        ]
+      },
+      "videos": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Love Is Strange Trailer 2014",
+          "key": "_5oIFxJGC_M",
+          "published_at": "2014-12-16T07:31:48.000Z",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Trailer",
+          "official": false,
+          "id": "54904e57c3a3686d710017da"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "'Love Is Strange' Premiere At Sundance | genConnect",
+          "key": "a9uUiCoeqAA",
+          "published_at": "2014-01-22T19:33:59.000Z",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Featurette",
+          "official": false,
+          "id": "533ec725c3a368544800b975"
+        }
+      ],
+      "external_ids": {
+        "tmdb_id": 244268,
+        "imdb_id": "tt2639344",
+        "wikidata_id": null,
+        "facebook_id": null,
+        "instagram_id": null,
+        "twitter_id": null
+      },
+      "source": {
+        "id": 244268,
+        "api": "TMDB"
+      },
+      "language": "English"
+    },
+    "showtimes": [
+      {
+        "id": "projector:25404",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "1b644afed2",
+        "unixTime": 1718195400000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25404?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "Pink Screen 2024",
+          "type": "Pink Screen 2024"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "Love is Strange",
+          "ScreenId": 2,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-06-12T20:30:00",
+          "FeatureStartTime": "2024-06-12T20:40:00",
+          "FeatureEndTime": "2024-06-12T22:14:00",
+          "CleanupEndTime": "2024-06-12T22:24:00",
+          "SeatsAvailable": 193,
+          "SeatsHeld": 10,
+          "SeatsHouse": 0,
+          "SeatsSold": 5,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 2,
+          "accessibility": null,
+          "venueTitle": "Golden Mile: Redrum",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004322",
+          "filmURL": "https://theprojector.sg/films-and-events/love-is-strange/",
+          "filmfilmTitle": "Love is Strange",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 6,
+          "date": 12,
+          "hour": 20,
+          "min": 30
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      },
+      {
+        "id": "projector:25405",
+        "cinemaId": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+        "filmId": "1b644afed2",
+        "unixTime": 1719135000000,
+        "link": "https://ticketing.oz.veezi.com/purchase/25405?siteToken=qksd1dnw7q23jfmfj3zq9rtmw0",
+        "ticketType": {
+          "label": "Pink Screen 2024",
+          "type": "Pink Screen 2024"
+        },
+        "movieFormat": "2D Digital",
+        "chainSpecific": {
+          "discounts": {
+            "complimentary": true
+          },
+          "FilmPackageId": null,
+          "Title": "Love is Strange",
+          "ScreenId": 2,
+          "Seating": "Allocated",
+          "TicketsSoldOut": false,
+          "FewTicketsLeft": false,
+          "ShowType": "Public",
+          "SalesVia": [
+            "WWW",
+            "POS",
+            "KIOSK",
+            "MXT",
+            "RSP",
+            "MX"
+          ],
+          "Status": "Open",
+          "PreShowStartTime": "2024-06-23T17:30:00",
+          "FeatureStartTime": "2024-06-23T17:40:00",
+          "FeatureEndTime": "2024-06-23T19:14:00",
+          "CleanupEndTime": "2024-06-23T19:24:00",
+          "SeatsAvailable": 187,
+          "SeatsHeld": 10,
+          "SeatsHouse": 0,
+          "SeatsSold": 11,
+          "Attributes": [],
+          "AudioLanguage": null,
+          "veeziScreenId": 2,
+          "accessibility": null,
+          "venueTitle": "Golden Mile: Redrum",
+          "cinemaTitle": "Golden Mile Tower",
+          "filmId": "projector:ST00004322",
+          "filmURL": "https://theprojector.sg/films-and-events/love-is-strange/",
+          "filmfilmTitle": "Love is Strange",
+          "filmlanguage": "Unknown",
+          "filmformat": "2D Digital"
+        },
+        "time": {
+          "year": 2024,
+          "month": 6,
+          "date": 23,
+          "hour": 17,
+          "min": 30
+        },
+        "cinema": {
+          "id": "projector:sVJR4rtFak-ZQvm87lwoIA2",
+          "name": "Golden Mile Tower",
+          "source": {
+            "venues": [
+              {
+                "title": "Golden Mile: Green Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 4
+                  },
+                  {
+                    "veeziScreenId": 10
+                  },
+                  {
+                    "veeziScreenId": 18
+                  },
+                  {
+                    "veeziScreenId": 30
+                  }
+                ],
+                "accessibility": null
+              },
+              {
+                "title": "Golden Mile: Blue Room",
+                "screens": [
+                  {
+                    "veeziScreenId": 8
+                  },
+                  {
+                    "veeziScreenId": 14
+                  },
+                  {
+                    "veeziScreenId": 20
+                  },
+                  {
+                    "veeziScreenId": 33
+                  },
+                  {
+                    "veeziScreenId": 34
+                  }
+                ],
+                "accessibility": [
+                  "wheelchair"
+                ]
+              },
+              {
+                "title": "Golden Mile: Redrum",
+                "screens": [
+                  {
+                    "veeziScreenId": 2
+                  },
+                  {
+                    "veeziScreenId": 6
+                  },
+                  {
+                    "veeziScreenId": 16
+                  },
+                  {
+                    "veeziScreenId": 17
+                  },
+                  {
+                    "veeziScreenId": 32
+                  },
+                  {
+                    "veeziScreenId": 35
+                  },
+                  {
+                    "veeziScreenId": 36
+                  },
+                  {
+                    "veeziScreenId": 37
+                  },
+                  {
+                    "veeziScreenId": 38
+                  }
+                ],
+                "accessibility": null
+              }
+            ]
+          },
+          "metadata": {
+            "location": {
+              "latitude": 1.3202,
+              "longitude": 103.858333
+            },
+            "external_ids": {
+              "mapbox_id": "dXJuOm1ieGFkci1zdHI6ZDZkZWE3NTEtM2ExYi00NmViLWE3MzUtNGVmZmQxOTQ2NmYw"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
